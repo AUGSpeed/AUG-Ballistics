@@ -1,0 +1,16 @@
+FormKey: 34CC71:Starfield.esm
+EditorID: MiniBotAM
+ConeOfFireMinAngle: 0.1
+ConeOfFireMaxAngle: 0.6
+ConeOfFireIncreasePerShot: 0.1
+ConeOfFireIncreasePerSec: 0.25
+ConeOfFireDecreaseDelaySeconds: 981668463
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 0.1
+RecoilMaxPerShot: 0.1
+RecoilHipMult: 1
+RunawayRecoilShots: 20
+RecoilArc: 250
+RecoilArcRotate: 10
+ConeOfFireIronSightsMult: 0.4
+BaseStability: 1

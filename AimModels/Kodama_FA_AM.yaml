@@ -1,0 +1,16 @@
+FormKey: 1A26BC:Starfield.esm
+EditorID: Kodama_FA_AM
+ConeOfFireMinAngle: 1.85
+ConeOfFireMaxAngle: 6.5
+ConeOfFireIncreasePerShot: 0.175
+ConeOfFireIncreasePerSec: 2
+ConeOfFireDecreaseDelaySeconds: 1045220557
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 0.055
+RecoilMaxPerShot: 0.75
+RecoilHipMult: 2.4
+RunawayRecoilShots: 6
+RecoilArc: 40
+RecoilArcRotate: 15
+ConeOfFireIronSightsMult: 0.55
+BaseStability: 0.75

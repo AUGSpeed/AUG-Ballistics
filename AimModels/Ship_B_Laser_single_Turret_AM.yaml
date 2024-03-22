@@ -1,0 +1,12 @@
+FormKey: 13C235:Starfield.esm
+EditorID: Ship_B_Laser_single_Turret_AM
+ConeOfFireMaxAngle: 3
+ConeOfFireIncreasePerSec: 5
+ConeOfFireDecreaseDelaySeconds: 981668463
+ConeOfFireSneakMult: 0.8
+RecoilHipMult: 1
+RunawayRecoilShots: 5
+RecoilArc: 180
+RecoilArcRotate: 15
+ConeOfFireIronSightsMult: 0.4
+BaseStability: 1

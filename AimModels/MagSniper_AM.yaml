@@ -1,0 +1,14 @@
+FormKey: 02EB47:Starfield.esm
+EditorID: MagSniper_AM
+ConeOfFireMinAngle: 3
+ConeOfFireMaxAngle: 9.25
+ConeOfFireIncreasePerShot: 1
+ConeOfFireIncreasePerSec: 1.95
+ConeOfFireDecreaseDelaySeconds: 1056964608
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 4
+RecoilMaxPerShot: 6
+RecoilHipMult: 1.2
+RunawayRecoilShots: 2
+ConeOfFireIronSightsMult: 0.075
+BaseStability: 0.75

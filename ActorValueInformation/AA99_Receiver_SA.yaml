@@ -1,0 +1,7 @@
+FormKey: 10A1E4:Starfield.esm
+EditorID: AA99_Receiver_SA
+Context: Mult for the semi-auto receiver from the standard receiver.
+DefaultValue: 1.82
+Flags:
+- 0x2000
+Type: Variable

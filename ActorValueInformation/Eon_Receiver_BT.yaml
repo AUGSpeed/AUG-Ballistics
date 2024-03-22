@@ -1,0 +1,7 @@
+FormKey: 10A1E1:Starfield.esm
+EditorID: Eon_Receiver_BT
+Context: Mult for the binary trigger receiver from the standard receiver.
+DefaultValue: 1
+Flags:
+- 0x2000
+Type: Variable

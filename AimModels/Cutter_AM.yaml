@@ -1,0 +1,10 @@
+FormKey: 1ED727:Starfield.esm
+EditorID: Cutter_AM
+ConeOfFireMinAngle: 0.2
+ConeOfFireMaxAngle: 2
+ConeOfFireIncreasePerShot: 0.25
+ConeOfFireIncreasePerSec: 2
+ConeOfFireDecreaseDelaySeconds: 1041865114
+ConeOfFireSneakMult: 0.75
+ConeOfFireIronSightsMult: 0.5
+BaseStability: 1

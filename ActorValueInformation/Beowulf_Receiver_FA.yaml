@@ -1,0 +1,7 @@
+FormKey: 101CB4:Starfield.esm
+EditorID: Beowulf_Receiver_FA
+Context: Mult for the full-auto receiver from the standard receiver.
+DefaultValue: 1
+Flags:
+- 0x2000
+Type: Variable

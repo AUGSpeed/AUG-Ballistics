@@ -1,0 +1,16 @@
+FormKey: 3F1C5F:Starfield.esm
+EditorID: Drumbeat_Burst_AM
+ConeOfFireMinAngle: 1.5
+ConeOfFireMaxAngle: 6.25
+ConeOfFireIncreasePerShot: 0.55
+ConeOfFireIncreasePerSec: 1.9
+ConeOfFireDecreaseDelaySeconds: 1050253722
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 0.185
+RecoilMaxPerShot: 0.6
+RecoilHipMult: 2.2
+RunawayRecoilShots: 4
+RecoilArc: 45
+RecoilArcRotate: 5
+ConeOfFireIronSightsMult: 0.475
+BaseStability: 0.65

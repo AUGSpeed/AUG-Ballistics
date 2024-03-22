@@ -1,0 +1,16 @@
+FormKey: 1EF937:Starfield.esm
+EditorID: Lawgiver_SA_AM
+ConeOfFireMinAngle: 1.25
+ConeOfFireMaxAngle: 5.75
+ConeOfFireIncreasePerShot: 0.85
+ConeOfFireIncreasePerSec: 1.95
+ConeOfFireDecreaseDelaySeconds: 1060320051
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 2.5
+RecoilMaxPerShot: 5
+RecoilHipMult: 1.4
+RunawayRecoilShots: 2
+RecoilArc: 20
+RecoilArcRotate: 2.5
+ConeOfFireIronSightsMult: 0.475
+BaseStability: 0.675

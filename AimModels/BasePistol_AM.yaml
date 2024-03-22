@@ -1,0 +1,16 @@
+FormKey: 05A0D5:Starfield.esm
+EditorID: BasePistol_AM
+ConeOfFireMinAngle: 3
+ConeOfFireMaxAngle: 8
+ConeOfFireIncreasePerShot: 0.5
+ConeOfFireIncreasePerSec: 2
+ConeOfFireDecreaseDelaySeconds: 1041865114
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 0.6
+RecoilMaxPerShot: 2.5
+RecoilHipMult: 1
+RunawayRecoilShots: 2
+RecoilArc: 30
+RecoilArcRotate: 5
+ConeOfFireIronSightsMult: 0.3
+BaseStability: 1

@@ -1,0 +1,10 @@
+FormKey: 15C346:Starfield.esm
+EditorID: Solstice_SA_AM
+ConeOfFireMinAngle: 1.4
+ConeOfFireMaxAngle: 5.7
+ConeOfFireIncreasePerShot: 0.45
+ConeOfFireIncreasePerSec: 1.65
+ConeOfFireDecreaseDelaySeconds: 1051092582
+ConeOfFireSneakMult: 0.8
+ConeOfFireIronSightsMult: 0.5
+BaseStability: 0.7

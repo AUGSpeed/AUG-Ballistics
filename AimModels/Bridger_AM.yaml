@@ -1,0 +1,15 @@
+FormKey: 095B1F:Starfield.esm
+EditorID: Bridger_AM
+ConeOfFireMinAngle: 2.85
+ConeOfFireMaxAngle: 7.5
+ConeOfFireIncreasePerShot: 1
+ConeOfFireIncreasePerSec: 2.15
+ConeOfFireDecreaseDelaySeconds: 1056964608
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 1
+RecoilMaxPerShot: 2.5
+RecoilHipMult: 1.2
+RunawayRecoilShots: 1
+RecoilArc: 60
+ConeOfFireIronSightsMult: 0.525
+BaseStability: 0.625

@@ -1,0 +1,7 @@
+FormKey: 101CB3:Starfield.esm
+EditorID: Beowulf_Receiver_BF
+Context: Mult for the burst-fire receiver from the standard receiver.
+DefaultValue: 1
+Flags:
+- 0x2000
+Type: Variable

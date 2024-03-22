@@ -1,0 +1,10 @@
+FormKey: 15D456:Starfield.esm
+EditorID: Equinox_ModelA_AM
+ConeOfFireMinAngle: 0.15
+ConeOfFireMaxAngle: 0.6
+ConeOfFireIncreasePerShot: 0.05
+ConeOfFireIncreasePerSec: 2
+ConeOfFireDecreaseDelaySeconds: 1036831949
+ConeOfFireSneakMult: 0.75
+ConeOfFireIronSightsMult: 0.5
+BaseStability: 1

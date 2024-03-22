@@ -1,0 +1,16 @@
+FormKey: 214C99:Starfield.esm
+EditorID: ModelSGunSingle_AM
+ConeOfFireMinAngle: 2
+ConeOfFireMaxAngle: 10
+ConeOfFireIncreasePerShot: 1
+ConeOfFireIncreasePerSec: 5
+ConeOfFireDecreaseDelaySeconds: 1041865114
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 0.1
+RecoilMaxPerShot: 1
+RecoilHipMult: 1
+RunawayRecoilShots: 2
+RecoilArc: 220
+RecoilArcRotate: 10
+ConeOfFireIronSightsMult: 0.4
+BaseStability: 1

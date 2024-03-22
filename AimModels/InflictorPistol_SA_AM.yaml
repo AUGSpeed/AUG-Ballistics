@@ -1,0 +1,16 @@
+FormKey: 19A60F:Starfield.esm
+EditorID: InflictorPistol_SA_AM
+ConeOfFireMinAngle: 1.25
+ConeOfFireMaxAngle: 5.25
+ConeOfFireIncreasePerShot: 1
+ConeOfFireIncreasePerSec: 1.65
+ConeOfFireDecreaseDelaySeconds: 1056964608
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 0.35999998
+RecoilMaxPerShot: 1.15
+RecoilHipMult: 1.2
+RunawayRecoilShots: 3
+RecoilArc: 30
+RecoilArcRotate: 2.5
+ConeOfFireIronSightsMult: 0.5
+BaseStability: 0.725

@@ -1,0 +1,14 @@
+FormKey: 26C0BF:Starfield.esm
+EditorID: Pumpshotgun_AM
+ConeOfFireMinAngle: 4.75
+ConeOfFireMaxAngle: 7
+ConeOfFireIncreasePerShot: 1
+ConeOfFireIncreasePerSec: 2.5
+ConeOfFireDecreaseDelaySeconds: 1048576000
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 4
+RecoilMaxPerShot: 5.5
+RecoilHipMult: 1.1
+RunawayRecoilShots: 1
+ConeOfFireIronSightsMult: 0.6
+BaseStability: 0.7

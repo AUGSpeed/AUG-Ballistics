@@ -1,0 +1,14 @@
+FormKey: 32AA9A:Starfield.esm
+EditorID: Breach_FA_AM
+ConeOfFireMinAngle: 6
+ConeOfFireMaxAngle: 9
+ConeOfFireIncreasePerShot: 1
+ConeOfFireIncreasePerSec: 2.25
+ConeOfFireDecreaseDelaySeconds: 1051931443
+ConeOfFireSneakMult: 0.9
+RecoilMinPerShot: 2
+RecoilMaxPerShot: 4.5
+RecoilHipMult: 1.2
+RunawayRecoilShots: 1
+ConeOfFireIronSightsMult: 0.6
+BaseStability: 0.65

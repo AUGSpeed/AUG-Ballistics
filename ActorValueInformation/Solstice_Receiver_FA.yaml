@@ -1,0 +1,7 @@
+FormKey: 10A1E8:Starfield.esm
+EditorID: Solstice_Receiver_FA
+Context: Mult for the full-auto receiver from the standard receiver.
+DefaultValue: 1
+Flags:
+- 0x2000
+Type: Variable

@@ -1,0 +1,14 @@
+FormKey: 2333AB:Starfield.esm
+EditorID: MagStorm_AM
+ConeOfFireMinAngle: 5
+ConeOfFireMaxAngle: 10
+ConeOfFireIncreasePerShot: 0.5
+ConeOfFireIncreasePerSec: 2
+ConeOfFireDecreaseDelaySeconds: 1041865114
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 0.2
+RecoilMaxPerShot: 0.4
+RecoilHipMult: 1
+RunawayRecoilShots: 24
+ConeOfFireIronSightsMult: 0.65
+BaseStability: 0.85

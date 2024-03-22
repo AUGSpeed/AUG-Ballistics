@@ -1,0 +1,7 @@
+FormKey: 10A1E5:Starfield.esm
+EditorID: InflictorPistol_Receiver_BF
+Context: Mult for the burst-fire receiver from the standard receiver.
+DefaultValue: 1
+Flags:
+- 0x2000
+Type: Variable

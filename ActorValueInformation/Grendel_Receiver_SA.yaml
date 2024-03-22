@@ -1,0 +1,7 @@
+FormKey: 10A1DF:Starfield.esm
+EditorID: Grendel_Receiver_SA
+Context: Mult for the semi-auto receiver from the standard receiver.
+DefaultValue: 3.67
+Flags:
+- 0x2000
+Type: Variable

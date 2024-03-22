@@ -1,0 +1,16 @@
+FormKey: 27B5A0:Starfield.esm
+EditorID: Microgun_AM
+ConeOfFireMinAngle: 11
+ConeOfFireMaxAngle: 2.5
+ConeOfFireIncreasePerShot: 0.015
+ConeOfFireIncreasePerSec: 1
+ConeOfFireDecreaseDelaySeconds: 1041865114
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 0.3
+RecoilMaxPerShot: 0.5
+RecoilHipMult: 1.2
+RunawayRecoilShots: 20
+RecoilArc: 45
+RecoilArcRotate: 10
+ConeOfFireIronSightsMult: 0.8
+BaseStability: 0.75

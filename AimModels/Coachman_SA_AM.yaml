@@ -1,0 +1,14 @@
+FormKey: 1C4C34:Starfield.esm
+EditorID: Coachman_SA_AM
+ConeOfFireMinAngle: 5
+ConeOfFireMaxAngle: 7
+ConeOfFireIncreasePerShot: 1
+ConeOfFireIncreasePerSec: 2
+ConeOfFireDecreaseDelaySeconds: 1050253722
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 5
+RecoilMaxPerShot: 8
+RecoilHipMult: 1.1
+RunawayRecoilShots: 1
+ConeOfFireIronSightsMult: 0.6
+BaseStability: 0.65

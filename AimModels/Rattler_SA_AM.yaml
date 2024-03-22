@@ -1,0 +1,16 @@
+FormKey: 10F653:Starfield.esm
+EditorID: Rattler_SA_AM
+ConeOfFireMinAngle: 1.85
+ConeOfFireMaxAngle: 5.9
+ConeOfFireIncreasePerShot: 0.375
+ConeOfFireIncreasePerSec: 1.6
+ConeOfFireDecreaseDelaySeconds: 1052770304
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 0.15
+RecoilMaxPerShot: 0.65
+RecoilHipMult: 1.2
+RunawayRecoilShots: 4
+RecoilArc: 30
+RecoilArcRotate: 2.5
+ConeOfFireIronSightsMult: 0.5
+BaseStability: 0.7

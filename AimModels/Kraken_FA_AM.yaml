@@ -1,0 +1,16 @@
+FormKey: 1A26A1:Starfield.esm
+EditorID: Kraken_FA_AM
+ConeOfFireMinAngle: 1.85
+ConeOfFireMaxAngle: 6.5
+ConeOfFireIncreasePerShot: 0.14
+ConeOfFireIncreasePerSec: 2
+ConeOfFireDecreaseDelaySeconds: 1048576000
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 0.275
+RecoilMaxPerShot: 0.85
+RecoilHipMult: 1.45
+RunawayRecoilShots: 4
+RecoilArc: 50
+RecoilArcRotate: 5
+ConeOfFireIronSightsMult: 0.525
+BaseStability: 0.7

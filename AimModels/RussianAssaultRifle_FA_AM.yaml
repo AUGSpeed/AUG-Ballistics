@@ -1,0 +1,16 @@
+FormKey: 133663:Starfield.esm
+EditorID: RussianAssaultRifle_FA_AM
+ConeOfFireMinAngle: 1.65
+ConeOfFireMaxAngle: 7.25
+ConeOfFireIncreasePerShot: 0.22
+ConeOfFireIncreasePerSec: 2.75
+ConeOfFireDecreaseDelaySeconds: 1041865114
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 0.5
+RecoilMaxPerShot: 1.5
+RecoilHipMult: 1.4
+RunawayRecoilShots: 3
+RecoilArc: 50
+RecoilArcRotate: 10
+ConeOfFireIronSightsMult: 0.5
+BaseStability: 0.65

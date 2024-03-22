@@ -1,0 +1,15 @@
+FormKey: 12EB67:Starfield.esm
+EditorID: Sidestar_SA_AM
+ConeOfFireMinAngle: 1.85
+ConeOfFireMaxAngle: 6
+ConeOfFireIncreasePerShot: 0.35
+ConeOfFireIncreasePerSec: 1.8
+ConeOfFireDecreaseDelaySeconds: 1045220557
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 0.35
+RecoilMaxPerShot: 1
+RecoilHipMult: 1.2
+RunawayRecoilShots: 3
+RecoilArc: 30
+ConeOfFireIronSightsMult: 0.5
+BaseStability: 0.7

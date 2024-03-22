@@ -1,0 +1,16 @@
+FormKey: 225C4A:Starfield.esm
+EditorID: AA99_FA_AM
+ConeOfFireMinAngle: 1.75
+ConeOfFireMaxAngle: 7
+ConeOfFireIncreasePerShot: 0.55
+ConeOfFireIncreasePerSec: 1.5
+ConeOfFireDecreaseDelaySeconds: 1045220557
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 0.25
+RecoilMaxPerShot: 1
+RecoilHipMult: 3
+RunawayRecoilShots: 4
+RecoilArc: 60
+RecoilArcRotate: 10
+ConeOfFireIronSightsMult: 0.5
+BaseStability: 0.65

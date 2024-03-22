@@ -1,0 +1,16 @@
+FormKey: 20986F:Starfield.esm
+EditorID: RussianHuntingRifle_AM
+ConeOfFireMinAngle: 3.45
+ConeOfFireMaxAngle: 10
+ConeOfFireIncreasePerShot: 0.35
+ConeOfFireIncreasePerSec: 1.15
+ConeOfFireDecreaseDelaySeconds: 1043542835
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 0.9
+RecoilMaxPerShot: 1.5
+RecoilHipMult: 1.2
+RunawayRecoilShots: 3
+RecoilArc: 30
+RecoilArcRotate: 3
+ConeOfFireIronSightsMult: 0.14
+BaseStability: 0.725

@@ -1,0 +1,16 @@
+FormKey: 110B95:Starfield.esm
+EditorID: Shotty_SA_AM
+ConeOfFireMinAngle: 5.5
+ConeOfFireMaxAngle: 8.25
+ConeOfFireIncreasePerShot: 1
+ConeOfFireIncreasePerSec: 2.4
+ConeOfFireDecreaseDelaySeconds: 1051931443
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 5
+RecoilMaxPerShot: 10
+RecoilHipMult: 1.2
+RunawayRecoilShots: 1
+RecoilArc: 35
+RecoilArcRotate: 15
+ConeOfFireIronSightsMult: 0.6
+BaseStability: 0.7

@@ -1,0 +1,16 @@
+FormKey: 1BEACE:Starfield.esm
+EditorID: RocketLauncher_AM
+ConeOfFireMinAngle: 2.75
+ConeOfFireMaxAngle: 8
+ConeOfFireIncreasePerShot: 1
+ConeOfFireIncreasePerSec: 1.5
+ConeOfFireDecreaseDelaySeconds: 1056964608
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 2
+RecoilMaxPerShot: 3
+RecoilHipMult: 1.2
+RunawayRecoilShots: 1
+RecoilArc: 45
+RecoilArcRotate: 5
+ConeOfFireIronSightsMult: 0.525
+BaseStability: 0.625

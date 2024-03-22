@@ -1,0 +1,7 @@
+FormKey: 10A1E3:Starfield.esm
+EditorID: Coachman_Mag_EM
+Context: Mult for the semi-auto receiver from the standard receiver.
+DefaultValue: 25
+Flags:
+- 0x2000
+Type: Variable

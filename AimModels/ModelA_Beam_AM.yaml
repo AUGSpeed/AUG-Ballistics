@@ -1,0 +1,14 @@
+FormKey: 3CB55E:Starfield.esm
+EditorID: ModelA_Beam_AM
+ConeOfFireMinAngle: 2
+ConeOfFireMaxAngle: 12
+ConeOfFireIncreasePerShot: 0.8
+ConeOfFireIncreasePerSec: 5
+ConeOfFireDecreaseDelaySeconds: 1065353216
+ConeOfFireSneakMult: 1
+RecoilHipMult: 1
+RunawayRecoilShots: 2
+RecoilArc: 60
+RecoilArcRotate: 10
+ConeOfFireIronSightsMult: 1
+BaseStability: 1

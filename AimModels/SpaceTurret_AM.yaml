@@ -1,0 +1,16 @@
+FormKey: 1F1ED5:Starfield.esm
+EditorID: SpaceTurret_AM
+ConeOfFireMinAngle: 3
+ConeOfFireMaxAngle: 8
+ConeOfFireIncreasePerShot: 0.4
+ConeOfFireIncreasePerSec: 5
+ConeOfFireDecreaseDelaySeconds: 1033476506
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 0.3
+RecoilMaxPerShot: 0.4
+RecoilHipMult: 1
+RunawayRecoilShots: 20
+RecoilArc: 250
+RecoilArcRotate: 10
+ConeOfFireIronSightsMult: 0.8
+BaseStability: 1

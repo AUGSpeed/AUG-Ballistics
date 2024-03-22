@@ -1,0 +1,16 @@
+FormKey: 15BF2F:Starfield.esm
+EditorID: Beowulf_Burst_AM
+ConeOfFireMinAngle: 1.85
+ConeOfFireMaxAngle: 6.25
+ConeOfFireIncreasePerShot: 0.4
+ConeOfFireIncreasePerSec: 2
+ConeOfFireDecreaseDelaySeconds: 1050253722
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 0.6
+RecoilMaxPerShot: 1.4
+RecoilHipMult: 1.3
+RunawayRecoilShots: 3
+RecoilArc: 45
+RecoilArcRotate: 10
+ConeOfFireIronSightsMult: 0.485
+BaseStability: 0.65

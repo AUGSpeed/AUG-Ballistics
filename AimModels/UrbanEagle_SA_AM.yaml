@@ -1,0 +1,16 @@
+FormKey: 1AE4EA:Starfield.esm
+EditorID: UrbanEagle_SA_AM
+ConeOfFireMinAngle: 1.65
+ConeOfFireMaxAngle: 6.2
+ConeOfFireIncreasePerShot: 0.6
+ConeOfFireIncreasePerSec: 1.75
+ConeOfFireDecreaseDelaySeconds: 1051931443
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 0.6
+RecoilMaxPerShot: 1.25
+RecoilHipMult: 1.2
+RunawayRecoilShots: 2
+RecoilArc: 35
+RecoilArcRotate: 2.5
+ConeOfFireIronSightsMult: 0.5
+BaseStability: 0.7

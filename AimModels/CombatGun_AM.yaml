@@ -1,0 +1,16 @@
+FormKey: 0E0302:Starfield.esm
+EditorID: CombatGun_AM
+ConeOfFireMinAngle: 2
+ConeOfFireMaxAngle: 4
+ConeOfFireIncreasePerShot: 0.8
+ConeOfFireIncreasePerSec: 5
+ConeOfFireDecreaseDelaySeconds: 1041865114
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 0.3
+RecoilMaxPerShot: 1
+RecoilHipMult: 1
+RunawayRecoilShots: 2
+RecoilArc: 90
+RecoilArcRotate: 15
+ConeOfFireIronSightsMult: 0.4
+BaseStability: 1

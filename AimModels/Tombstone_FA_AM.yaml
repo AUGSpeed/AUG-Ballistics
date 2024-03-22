@@ -1,0 +1,16 @@
+FormKey: 11287A:Starfield.esm
+EditorID: Tombstone_FA_AM
+ConeOfFireMinAngle: 1.65
+ConeOfFireMaxAngle: 6.5
+ConeOfFireIncreasePerShot: 0.4
+ConeOfFireIncreasePerSec: 1.65
+ConeOfFireDecreaseDelaySeconds: 1045220557
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 0.5
+RecoilMaxPerShot: 1
+RecoilHipMult: 1.25
+RunawayRecoilShots: 4
+RecoilArc: 50
+RecoilArcRotate: 5
+ConeOfFireIronSightsMult: 0.5
+BaseStability: 0.65

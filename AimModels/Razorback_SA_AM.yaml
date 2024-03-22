@@ -1,0 +1,16 @@
+FormKey: 2B3F82:Starfield.esm
+EditorID: Razorback_SA_AM
+ConeOfFireMinAngle: 1.53
+ConeOfFireMaxAngle: 6.5
+ConeOfFireIncreasePerShot: 1
+ConeOfFireIncreasePerSec: 1.65
+ConeOfFireDecreaseDelaySeconds: 1057803469
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 1.6
+RecoilMaxPerShot: 2.4
+RecoilHipMult: 1.2
+RunawayRecoilShots: 2
+RecoilArc: 27.5
+RecoilArcRotate: 2.5
+ConeOfFireIronSightsMult: 0.5
+BaseStability: 0.7

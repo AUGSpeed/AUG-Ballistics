@@ -1,0 +1,12 @@
+FormKey: 1818E2:Starfield.esm
+EditorID: Ship_C_Ballistic_Auto_AM
+ConeOfFireMaxAngle: 4
+ConeOfFireIncreasePerSec: 5
+ConeOfFireDecreaseDelaySeconds: 981668463
+ConeOfFireSneakMult: 0.8
+RecoilHipMult: 1
+RunawayRecoilShots: 5
+RecoilArc: 180
+RecoilArcRotate: 15
+ConeOfFireIronSightsMult: 0.4
+BaseStability: 1

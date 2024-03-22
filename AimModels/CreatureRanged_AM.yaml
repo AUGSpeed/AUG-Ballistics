@@ -1,0 +1,16 @@
+FormKey: 1C8DDC:Starfield.esm
+EditorID: CreatureRanged_AM
+ConeOfFireMinAngle: 1.35
+ConeOfFireMaxAngle: 5.9
+ConeOfFireIncreasePerShot: 0.4
+ConeOfFireIncreasePerSec: 1.75
+ConeOfFireDecreaseDelaySeconds: 1045220557
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 0.225
+RecoilMaxPerShot: 0.3
+RecoilHipMult: 1.2
+RunawayRecoilShots: 3
+RecoilArc: 35
+RecoilArcRotate: 10
+ConeOfFireIronSightsMult: 0.475
+BaseStability: 0.65

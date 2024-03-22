@@ -1,0 +1,10 @@
+FormKey: 1E810B:Starfield.esm
+EditorID: MeleeBase_AA
+OuterConeAngleDegrees: 180
+InnerConeAngleDegrees: 225
+SteeringDegreesPerSec: 225
+SnapSteeringMultiplierOuterRing: 8000
+SnapSteeringMultiplierInnerRing: -8000
+MaxAimAssistDistance: 7
+MeleeAimAssistEnabled: True
+Unknown: 10

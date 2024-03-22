@@ -1,0 +1,16 @@
+FormKey: 05D4D4:Starfield.esm
+EditorID: CUT_HuntingRifle_AM
+ConeOfFireMinAngle: 4
+ConeOfFireMaxAngle: 8
+ConeOfFireIncreasePerShot: 0.8
+ConeOfFireIncreasePerSec: 5
+ConeOfFireDecreaseDelaySeconds: 1041865114
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 8
+RecoilMaxPerShot: 10
+RecoilHipMult: 1
+RunawayRecoilShots: 1
+RecoilArc: 45
+RecoilArcRotate: 15
+ConeOfFireIronSightsMult: 0.4
+BaseStability: 1

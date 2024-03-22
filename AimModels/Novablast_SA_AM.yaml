@@ -1,0 +1,10 @@
+FormKey: 0F4CEE:Starfield.esm
+EditorID: Novablast_SA_AM
+ConeOfFireMinAngle: 1.25
+ConeOfFireMaxAngle: 5.75
+ConeOfFireIncreasePerShot: 1
+ConeOfFireIncreasePerSec: 2
+ConeOfFireDecreaseDelaySeconds: 1058642330
+ConeOfFireSneakMult: 0.8
+ConeOfFireIronSightsMult: 0.45
+BaseStability: 0.725

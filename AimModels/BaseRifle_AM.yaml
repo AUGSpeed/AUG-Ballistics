@@ -1,0 +1,16 @@
+FormKey: 05A0D8:Starfield.esm
+EditorID: BaseRifle_AM
+ConeOfFireMinAngle: 1
+ConeOfFireMaxAngle: 8
+ConeOfFireIncreasePerShot: 0.5
+ConeOfFireIncreasePerSec: 2
+ConeOfFireDecreaseDelaySeconds: 1041865114
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 1
+RecoilMaxPerShot: 3
+RecoilHipMult: 2
+RunawayRecoilShots: 2
+RecoilArc: 120
+RecoilArcRotate: 15
+ConeOfFireIronSightsMult: 0.3
+BaseStability: 1

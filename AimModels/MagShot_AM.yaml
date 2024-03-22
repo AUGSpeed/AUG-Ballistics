@@ -1,0 +1,14 @@
+FormKey: 01E7D3:Starfield.esm
+EditorID: MagShot_AM
+ConeOfFireMinAngle: 3
+ConeOfFireMaxAngle: 8
+ConeOfFireIncreasePerShot: 1
+ConeOfFireIncreasePerSec: 2
+ConeOfFireDecreaseDelaySeconds: 1041865114
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 7
+RecoilMaxPerShot: 1.2
+RecoilHipMult: 1.25
+RunawayRecoilShots: 2
+ConeOfFireIronSightsMult: 0.5
+BaseStability: 0.85

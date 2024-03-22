@@ -1,0 +1,10 @@
+FormKey: 0DFEAA:Starfield.esm
+EditorID: ArcWelder_AM
+ConeOfFireMinAngle: 4
+ConeOfFireMaxAngle: 9.25
+ConeOfFireIncreasePerShot: 0.25
+ConeOfFireIncreasePerSec: 2
+ConeOfFireDecreaseDelaySeconds: 1048576000
+ConeOfFireSneakMult: 0.8
+ConeOfFireIronSightsMult: 0.85
+BaseStability: 0.825

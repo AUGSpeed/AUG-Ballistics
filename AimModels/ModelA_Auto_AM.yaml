@@ -1,0 +1,16 @@
+FormKey: 34CC6E:Starfield.esm
+EditorID: ModelA_Auto_AM
+ConeOfFireMinAngle: 2
+ConeOfFireMaxAngle: 6
+ConeOfFireIncreasePerShot: 0.4
+ConeOfFireIncreasePerSec: 5
+ConeOfFireDecreaseDelaySeconds: 1065353216
+ConeOfFireSneakMult: 1
+RecoilMinPerShot: 0.4
+RecoilMaxPerShot: 0.4
+RecoilHipMult: 1
+RunawayRecoilShots: 50
+RecoilArc: 250
+RecoilArcRotate: 10
+ConeOfFireIronSightsMult: 1
+BaseStability: 1

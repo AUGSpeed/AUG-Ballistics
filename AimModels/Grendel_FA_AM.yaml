@@ -1,0 +1,15 @@
+FormKey: 1A26BD:Starfield.esm
+EditorID: Grendel_FA_AM
+ConeOfFireMinAngle: 1.65
+ConeOfFireMaxAngle: 6.4
+ConeOfFireIncreasePerShot: 0.22
+ConeOfFireIncreasePerSec: 1.75
+ConeOfFireDecreaseDelaySeconds: 1045220557
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 0.1
+RecoilMaxPerShot: 0.75
+RecoilHipMult: 2.4
+RunawayRecoilShots: 7
+RecoilArc: 30
+ConeOfFireIronSightsMult: 0.55
+BaseStability: 0.72

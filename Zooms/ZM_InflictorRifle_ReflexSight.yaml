@@ -1,0 +1,7 @@
+FormKey: 0242F6:Starfield.esm
+EditorID: ZM_InflictorRifle_ReflexSight
+CameraOffset: 0, 0, 0.03
+FovMult: 1
+AdsHeightDelayEnabled: True
+AdsHeightDelaySeconds: 0.1
+AdsDepthDelaySeconds: 0.1

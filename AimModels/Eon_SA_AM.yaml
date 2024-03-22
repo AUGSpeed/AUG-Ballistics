@@ -1,0 +1,16 @@
+FormKey: 24917F:Starfield.esm
+EditorID: Eon_SA_AM
+ConeOfFireMinAngle: 2
+ConeOfFireMaxAngle: 6.15
+ConeOfFireIncreasePerShot: 0.35
+ConeOfFireIncreasePerSec: 1.85
+ConeOfFireDecreaseDelaySeconds: 1046898278
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 0.15
+RecoilMaxPerShot: 0.55
+RecoilHipMult: 1.2
+RunawayRecoilShots: 3
+RecoilArc: 30
+RecoilArcRotate: 2.5
+ConeOfFireIronSightsMult: 0.5
+BaseStability: 0.7

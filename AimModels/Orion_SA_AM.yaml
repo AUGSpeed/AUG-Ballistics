@@ -1,0 +1,10 @@
+FormKey: 1B0357:Starfield.esm
+EditorID: Orion_SA_AM
+ConeOfFireMinAngle: 1.2
+ConeOfFireMaxAngle: 5.5
+ConeOfFireIncreasePerShot: 0.35
+ConeOfFireIncreasePerSec: 1.25
+ConeOfFireDecreaseDelaySeconds: 1041865114
+ConeOfFireSneakMult: 0.8
+ConeOfFireIronSightsMult: 0.475
+BaseStability: 0.65

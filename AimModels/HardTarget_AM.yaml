@@ -1,0 +1,14 @@
+FormKey: 1F86E7:Starfield.esm
+EditorID: HardTarget_AM
+ConeOfFireMinAngle: 3.2
+ConeOfFireMaxAngle: 9.75
+ConeOfFireIncreasePerShot: 1
+ConeOfFireIncreasePerSec: 1.85
+ConeOfFireDecreaseDelaySeconds: 1056964608
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 3.25
+RecoilMaxPerShot: 6.5
+RecoilHipMult: 1.2
+RunawayRecoilShots: 1
+ConeOfFireIronSightsMult: 0.075
+BaseStability: 0.75

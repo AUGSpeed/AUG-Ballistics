@@ -1,0 +1,9 @@
+FormKey: 022B8E:Starfield.esm
+EditorID: ZM_HardTarget_ReflexSight
+CameraOffset: 0, 0, -0.0362
+FovMult: 1
+AdsDistanceFromCameraOffset: -15
+AdsHeightDelayEnabled: True
+AdsHeightDelaySeconds: 0.1
+AdsDepthEnabled: True
+AdsDepthDelaySeconds: 0.1

@@ -1,0 +1,16 @@
+FormKey: 1B01CA:Starfield.esm
+EditorID: Maelstrom_FA_AM
+ConeOfFireMinAngle: 1.75
+ConeOfFireMaxAngle: 7.2
+ConeOfFireIncreasePerShot: 0.5
+ConeOfFireIncreasePerSec: 2
+ConeOfFireDecreaseDelaySeconds: 1041865114
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 0.225
+RecoilMaxPerShot: 0.75
+RecoilHipMult: 2.75
+RunawayRecoilShots: 5
+RecoilArc: 55
+RecoilArcRotate: 5
+ConeOfFireIronSightsMult: 0.5
+BaseStability: 0.65

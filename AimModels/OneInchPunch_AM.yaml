@@ -1,0 +1,15 @@
+FormKey: 0F4CEF:Starfield.esm
+EditorID: OneInchPunch_AM
+ConeOfFireMinAngle: 6
+ConeOfFireMaxAngle: 9
+ConeOfFireIncreasePerShot: 0.75
+ConeOfFireIncreasePerSec: 2.4
+ConeOfFireDecreaseDelaySeconds: 1036831949
+ConeOfFireSneakMult: 0.8
+RecoilMinPerShot: 5
+RecoilMaxPerShot: 7.5
+RecoilHipMult: 1
+RecoilArc: 5
+RecoilArcRotate: 2.5
+ConeOfFireIronSightsMult: 0.5
+BaseStability: 0.7

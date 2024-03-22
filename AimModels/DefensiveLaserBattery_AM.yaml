@@ -1,0 +1,8 @@
+FormKey: 128A09:Starfield.esm
+EditorID: DefensiveLaserBattery_AM
+ConeOfFireIncreasePerSec: 5
+RecoilHipMult: 1
+RunawayRecoilShots: 1000
+RecoilArc: 250
+RecoilArcRotate: 10
+BaseStability: 1
