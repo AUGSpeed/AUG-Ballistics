@@ -1,0 +1,119 @@
+FormKey: 187117:Starfield.esm
+MajorRecordFlagsRaw: 4
+EditorID: LDCreatureDamageMod_Player
+StarfieldMajorRecordFlags:
+- NotPlayable
+Description:
+  TargetLanguage: English
+  Value: ''
+Flags:
+- PcPlayable
+Ranks:
+- Effects:
+  - MutagenObjectType: PerkEntryPointModifyValue
+    Priority: 1
+    Conditions:
+    - RunOnTabIndex: 1
+      Conditions:
+      - MutagenObjectType: ConditionFloat
+        Unknown1: 0x3200C4
+        Unknown2: 17620
+        Data:
+          MutagenObjectType: HasPerkConditionData
+          FirstParameter: 187132:Starfield.esm
+        ComparisonValue: 1
+    EntryPoint: ModIncomingWeaponDamage
+    PerkConditionTabCount: 3
+    PerkEntryID: 0
+    Modification: Multiply
+    Value: 1
+  - MutagenObjectType: PerkEntryPointModifyValue
+    Priority: 2
+    Conditions:
+    - RunOnTabIndex: 1
+      Conditions:
+      - MutagenObjectType: ConditionFloat
+        Unknown1: 0x3200C4
+        Unknown2: 17620
+        Data:
+          MutagenObjectType: HasPerkConditionData
+          FirstParameter: 18713C:Starfield.esm
+        ComparisonValue: 0.6
+    EntryPoint: ModIncomingWeaponDamage
+    PerkConditionTabCount: 3
+    PerkEntryID: 1
+    Modification: Multiply
+    Value: 1
+  - MutagenObjectType: PerkEntryPointModifyValue
+    Priority: 3
+    Conditions:
+    - RunOnTabIndex: 1
+      Conditions:
+      - MutagenObjectType: ConditionFloat
+        Unknown1: 0x3200C4
+        Unknown2: 17620
+        Data:
+          MutagenObjectType: HasPerkConditionData
+          FirstParameter: 187134:Starfield.esm
+        ComparisonValue: 1
+    EntryPoint: ModIncomingWeaponDamage
+    PerkConditionTabCount: 3
+    PerkEntryID: 2
+    Modification: Multiply
+    Value: 1
+  - MutagenObjectType: PerkEntryPointModifyValue
+    Priority: 4
+    Conditions:
+    - RunOnTabIndex: 1
+      Conditions:
+      - MutagenObjectType: ConditionFloat
+        Unknown1: 0x3200C4
+        Unknown2: 17620
+        Data:
+          MutagenObjectType: HasPerkConditionData
+          FirstParameter: 187135:Starfield.esm
+        ComparisonValue: 1
+    EntryPoint: ModIncomingWeaponDamage
+    PerkConditionTabCount: 3
+    PerkEntryID: 3
+    Modification: Multiply
+    Value: 1
+  - MutagenObjectType: PerkEntryPointModifyValue
+    Priority: 5
+    Conditions:
+    - RunOnTabIndex: 1
+      Conditions:
+      - MutagenObjectType: ConditionFloat
+        Unknown1: 0x3200C4
+        Unknown2: 17620
+        Data:
+          MutagenObjectType: HasPerkConditionData
+          FirstParameter: 187133:Starfield.esm
+        ComparisonValue: 1
+    EntryPoint: ModIncomingWeaponDamage
+    PerkConditionTabCount: 3
+    PerkEntryID: 4
+    Modification: Multiply
+    Value: 1
+  - MutagenObjectType: PerkEntryPointModifyValue
+    Priority: 6
+    Conditions:
+    - RunOnTabIndex: 1
+      Conditions:
+      - MutagenObjectType: ConditionFloat
+        Unknown1: 0x3200C4
+        Unknown2: 17620
+        Data:
+          MutagenObjectType: HasPerkConditionData
+          FirstParameter: 187131:Starfield.esm
+        ComparisonValue: 1
+    EntryPoint: ModIncomingWeaponDamage
+    PerkConditionTabCount: 3
+    PerkEntryID: 5
+    Modification: Multiply
+    Value: 1
+  Description:
+    TargetLanguage: English
+    Value: ''
+MajorFlags:
+- NonPlayable

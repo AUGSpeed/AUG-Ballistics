@@ -1,0 +1,186 @@
+FormKey: 29F8A6:Starfield.esm
+EditorID: MantidABodyPartData
+Model:
+  File: Actors\MantidA\CharacterAssets\skeleton_ref.nif
+  FLLD: 0x01000000
+Parts:
+- Name:
+    TargetLanguage: English
+    Value: COM
+  PartNode: COM
+  VatsTarget: COM
+  DamageMult: 1
+  Type: COM
+  HealthPercent: 0.0196078431372549
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Head
+  PartNode: C_Head1
+  VatsTarget: C_Head1
+  DamageMult: 2.5
+  Flags:
+  - HitReaction
+  Type: Head1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038A:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\MantidA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: C_Neck1
+  HitReactionEnd: C_Head1
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Torso
+  PartNode: C_Spine
+  VatsTarget: C_Spine2
+  DamageMult: 1
+  Flags:
+  - HitReaction
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038F:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\MantidA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: C_Spine
+  HitReactionEnd: C_Spine3
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: RearLeftLeg
+  PartNode: L_BackLeg
+  VatsTarget: L_BackLeg2
+  DamageMult: 0.8
+  Type: LeftLeg2
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038D:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\MantidA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\MantidA\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\MantidA\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: LeftClaw
+  PartNode: L_Clavicle
+  VatsTarget: L_Clavicle
+  DamageMult: 0.6
+  Flags:
+  - HitReaction
+  Type: LeftArm1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038B:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\MantidA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: L_Clavicle
+  HitReactionEnd: L_Forarm
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: FrontLeftLeg
+  PartNode: L_FrontLeg1
+  VatsTarget: L_FrontLeg1
+  DamageMult: 0.8
+  Type: LeftLeg1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038D:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\MantidA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\MantidA\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\MantidA\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: LeftFoot
+  PartNode: L_FrontLeg4
+  VatsTarget: L_FrontLeg4
+  DamageMult: 0.5
+  Type: LeftFoot
+  HealthPercent: 0.0196078431372549
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\MantidA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: MantidARoot
+  PartNode: Root
+  VatsTarget: Root
+  Type: Root
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\MantidA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: RearRightLeg
+  PartNode: R_BackLeg
+  VatsTarget: R_BackLeg2
+  DamageMult: 0.8
+  Type: RightLeg2
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038E:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\MantidA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\MantidA\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\MantidA\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: RightClaw
+  PartNode: R_Clavicle
+  VatsTarget: R_Clavicle
+  DamageMult: 0.6
+  Flags:
+  - HitReaction
+  Type: RightArm1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038C:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\MantidA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: R_Clavicle
+  HitReactionEnd: R_Forarm
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: FrontRightLeg
+  PartNode: R_FrontLeg1
+  VatsTarget: R_FrontLeg1
+  DamageMult: 0.8
+  Type: RightLeg1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038E:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\MantidA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\MantidA\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\MantidA\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: RightFoot
+  PartNode: R_FrontLeg4
+  VatsTarget: R_FrontLeg4
+  DamageMult: 0.5
+  Type: RightFoot
+  HealthPercent: 0.0196078431372549
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\MantidA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''

@@ -1,0 +1,33 @@
+MutagenObjectType: WeaponModification
+FormKey: 12FD2B:Starfield.esm
+MajorRecordFlagsRaw: 128
+EditorID: mod_Coachman_Quality_TiersAny
+StarfieldMajorRecordFlags:
+- 0x80
+Name:
+  TargetLanguage: English
+  Value: Quality Tiers Any
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+Includes:
+- Mod: 12FD27:Starfield.esm
+  DoNotUseAll: True
+- Mod: 12FD28:Starfield.esm
+  MinimumLevel: 15
+  DoNotUseAll: True
+- Mod: 12FD29:Starfield.esm
+  MinimumLevel: 25
+  DoNotUseAll: True
+- Mod: 12FD2A:Starfield.esm
+  MinimumLevel: 35
+  DoNotUseAll: True
+MajorFlags:
+- 0x80
+Properties:
+- MutagenObjectType: ObjectModFormLinkIntProperty<Weapon+Property>
+  Property: Keyword
+  Record: 374EFA:Starfield.esm
+  FunctionType: Add

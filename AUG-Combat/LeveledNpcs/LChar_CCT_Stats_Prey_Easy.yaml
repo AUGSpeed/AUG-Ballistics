@@ -1,0 +1,71 @@
+FormKey: 1625F0:Starfield.esm
+EditorID: LChar_CCT_Stats_Prey_Easy
+ODTY: 0
+Flags:
+- 0x40
+Entries:
+- Level: 1
+  Reference: 162607:Starfield.esm
+  Count: 1
+- Level: 5
+  Reference: 162607:Starfield.esm
+  Count: 1
+- Level: 10
+  Reference: 162606:Starfield.esm
+  Count: 1
+- Level: 15
+  Reference: 162605:Starfield.esm
+  Count: 1
+- Level: 20
+  Reference: 162604:Starfield.esm
+  Count: 1
+- Level: 25
+  Reference: 162603:Starfield.esm
+  Count: 1
+- Level: 30
+  Reference: 162602:Starfield.esm
+  Count: 1
+- Level: 35
+  Reference: 162601:Starfield.esm
+  Count: 1
+- Level: 40
+  Reference: 162600:Starfield.esm
+  Count: 1
+- Level: 45
+  Reference: 1625FF:Starfield.esm
+  Count: 1
+- Level: 50
+  Reference: 1625FE:Starfield.esm
+  Count: 1
+- Level: 55
+  Reference: 1625FD:Starfield.esm
+  Count: 1
+- Level: 60
+  Reference: 1625FC:Starfield.esm
+  Count: 1
+- Level: 65
+  Reference: 1625FB:Starfield.esm
+  Count: 1
+- Level: 70
+  Reference: 1625FA:Starfield.esm
+  Count: 1
+- Level: 75
+  Reference: 1625F9:Starfield.esm
+  Count: 1
+- Level: 80
+  Reference: 1625F8:Starfield.esm
+  Count: 1
+- Level: 85
+  Reference: 1625F7:Starfield.esm
+  Count: 1
+- Level: 90
+  Reference: 1625F6:Starfield.esm
+  Count: 1
+- Level: 95
+  Reference: 1625F5:Starfield.esm
+  Count: 1
+- Level: 100
+  Reference: 1625F4:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

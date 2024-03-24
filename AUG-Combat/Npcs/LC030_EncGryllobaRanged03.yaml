@@ -1,0 +1,155 @@
+FormKey: 08D0D3:Starfield.esm
+EditorID: LC030_EncGryllobaRanged03
+ObjectBounds:
+  First: -0.591797, -0.3623047, 0
+  Second: 0.59179676, 1.0341797, 1.2373047
+ODTY: 0
+Flags:
+- Respawn
+- 0x100
+XpValueOffset: 35
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 20
+DispositionBase: 35
+UseTemplateActors: 32638
+DeathItem: 077833:Starfield.esm
+DefaultTemplate: 08D0D6:Starfield.esm
+TemplateActors:
+  StatsTemplate: 1627F9:Starfield.esm
+  FactionsTemplate: 08D0D6:Starfield.esm
+  SpellListTemplate: 08D0D6:Starfield.esm
+  AiDataTemplate: 08D0D6:Starfield.esm
+  AiPackagesTemplate: 08D0D6:Starfield.esm
+  ModelOrAnimationTemplate: 08D0D6:Starfield.esm
+  InventoryTemplate: 08D0D6:Starfield.esm
+  ScriptTemplate: 08D0D6:Starfield.esm
+  DefPackListTemplate: 08D0D6:Starfield.esm
+  AttackDataTemplate: 08D0D6:Starfield.esm
+  KeywordsTemplate: 08D0D6:Starfield.esm
+  Unknown1: 08D0D6:Starfield.esm
+  Unknown2: 08D0D6:Starfield.esm
+Race: 1BB965:Starfield.esm
+Skin: 015B19:Starfield.esm
+CombatOverridePackageList: 0102ED:Starfield.esm
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+  Value: 5
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D4:Starfield.esm
+  Value: 185
+- ActorValue: 0002D5:Starfield.esm
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0002E3:Starfield.esm
+  Value: 101
+- ActorValue: 2102C3:Starfield.esm
+  Value: 2.27
+- ActorValue: 22A2B6:Starfield.esm
+  Value: 1
+Aggression: VeryAggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Keywords:
+- 182D74:Starfield.esm
+- 1E667F:Starfield.esm
+- 2AD3EC:Starfield.esm
+AttachParentSlots:
+- 2AD3E6:Starfield.esm
+- 2AD3E7:Starfield.esm
+- 25614F:Starfield.esm
+- 20AA19:Starfield.esm
+- 20AA16:Starfield.esm
+- 20AA15:Starfield.esm
+- 20AA14:Starfield.esm
+- 2AD3E8:Starfield.esm
+- 2AD3E9:Starfield.esm
+- 20AA1A:Starfield.esm
+- 23CB01:Starfield.esm
+- 23AF14:Starfield.esm
+- 23AF12:Starfield.esm
+- 20AA13:Starfield.esm
+- 256150:Starfield.esm
+- 2AD3EB:Starfield.esm
+- 20AA18:Starfield.esm
+- 2AD3EA:Starfield.esm
+- 1D9CF8:Starfield.esm
+- 1C5212:Starfield.esm
+- 20AA17:Starfield.esm
+ObjectTemplates:
+- Default: True
+  Includes:
+  - Mod: 255CAB:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 200AAB:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 256151:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 200AC7:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 1BEE2F:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 24F4DE:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 1FA146:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 1F2866:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 23AEF9:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 23AEFC:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 200AB9:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 00F46A:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 187101:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 281250:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 181E2D:Starfield.esm
+    Optional: True
+    DontUseAll: True
+Class: 1CD0A9:Starfield.esm
+Name:
+  TargetLanguage: English
+  Value: Juvenile Grylloba Hunter
+CalculatedHealth: 135
+GearedUpWeapons: 1
+CombatStyle: 28124F:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight:
+  Thin: 0.3333
+  Muscular: 0.3333
+  Fat: 0.3333
+Sounds:
+- Sound:
+    Start: fa7048e0-0638-36f9-9d84-5f9b83e334b8
+  CS3F: 0x00
+DefaultPackageList: 26F68A:Starfield.esm
+Tints: []
+SkinToneIndex: 0
+Pronoun: Unspecified

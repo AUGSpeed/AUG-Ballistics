@@ -1,0 +1,148 @@
+FormKey: 18712A:Starfield.esm
+EditorID: LC116_LvlCataxiMelee
+ObjectBounds:
+  First: -0.591797, -0.3623047, 0
+  Second: 0.59179676, 1.0341797, 1.2373047
+ODTY: 0
+Flags:
+- 0x100
+XpValueOffset: 10
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 5
+DispositionBase: 35
+UseTemplateActors: 32766
+DeathItem: 077833:Starfield.esm
+DefaultTemplate: 18712C:Starfield.esm
+TemplateActors:
+  StatsTemplate: 18712C:Starfield.esm
+  FactionsTemplate: 18712C:Starfield.esm
+  SpellListTemplate: 18712C:Starfield.esm
+  AiDataTemplate: 18712C:Starfield.esm
+  AiPackagesTemplate: 18712C:Starfield.esm
+  ModelOrAnimationTemplate: 18712C:Starfield.esm
+  BaseDataTemplate: 18712C:Starfield.esm
+  InventoryTemplate: 18712C:Starfield.esm
+  ScriptTemplate: 18712C:Starfield.esm
+  DefPackListTemplate: 18712C:Starfield.esm
+  AttackDataTemplate: 18712C:Starfield.esm
+  KeywordsTemplate: 18712C:Starfield.esm
+  Unknown1: 18712C:Starfield.esm
+  Unknown2: 18712C:Starfield.esm
+Race: 1BB965:Starfield.esm
+Skin: 015B19:Starfield.esm
+CombatOverridePackageList: 0102ED:Starfield.esm
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+  Value: 5
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D4:Starfield.esm
+  Value: 80
+- ActorValue: 0002D5:Starfield.esm
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0002E3:Starfield.esm
+  Value: 61
+- ActorValue: 22A2B6:Starfield.esm
+  Value: 1
+- ActorValue: 2102C3:Starfield.esm
+  Value: 0.43
+Aggression: VeryAggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Keywords:
+- 182D74:Starfield.esm
+AttachParentSlots:
+- 2AD3E6:Starfield.esm
+- 2AD3E7:Starfield.esm
+- 25614F:Starfield.esm
+- 20AA19:Starfield.esm
+- 20AA16:Starfield.esm
+- 20AA15:Starfield.esm
+- 20AA14:Starfield.esm
+- 2AD3E8:Starfield.esm
+- 2AD3E9:Starfield.esm
+- 20AA1A:Starfield.esm
+- 23CB01:Starfield.esm
+- 23AF14:Starfield.esm
+- 23AF12:Starfield.esm
+- 20AA13:Starfield.esm
+- 2AD3EB:Starfield.esm
+- 20AA18:Starfield.esm
+- 2AD3EA:Starfield.esm
+- 1D9CF8:Starfield.esm
+- 1C5212:Starfield.esm
+- 20AA17:Starfield.esm
+ObjectTemplates:
+- Default: True
+  Includes:
+  - Mod: 256152:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 256151:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 1A7F85:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 200AC8:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 24F4DE:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 1FA146:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 1F2866:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 23AEE6:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 23AEFD:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 200ABA:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 1ED152:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 1870FF:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 1D5ABA:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 181E2D:Starfield.esm
+    Optional: True
+    DontUseAll: True
+Class: 1CD0A9:Starfield.esm
+CalculatedHealth: 70
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+Unused: 43
+CombatStyle: 0545F3:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight:
+  Thin: 0.3333
+  Muscular: 0.3333
+  Fat: 0.3333
+Sounds:
+- Sound:
+    Start: 982d4639-aa6b-4b22-1cec-2d6e943ee1ba
+  CS3F: 0x00
+DefaultPackageList: 26F68A:Starfield.esm
+Tints: []
+SkinToneIndex: 0
+Pronoun: Unspecified

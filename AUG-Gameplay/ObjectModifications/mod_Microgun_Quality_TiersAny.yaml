@@ -1,0 +1,33 @@
+MutagenObjectType: WeaponModification
+FormKey: 1BDC40:Starfield.esm
+MajorRecordFlagsRaw: 128
+EditorID: mod_Microgun_Quality_TiersAny
+StarfieldMajorRecordFlags:
+- 0x80
+Name:
+  TargetLanguage: English
+  Value: Quality Tiers Any
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+Includes:
+- Mod: 1BDC3C:Starfield.esm
+  DoNotUseAll: True
+- Mod: 1BDC3D:Starfield.esm
+  MinimumLevel: 40
+  DoNotUseAll: True
+- Mod: 1BDC3E:Starfield.esm
+  MinimumLevel: 50
+  DoNotUseAll: True
+- Mod: 1BDC3F:Starfield.esm
+  MinimumLevel: 60
+  DoNotUseAll: True
+MajorFlags:
+- 0x80
+Properties:
+- MutagenObjectType: ObjectModFormLinkIntProperty<Weapon+Property>
+  Property: Keyword
+  Record: 374EFA:Starfield.esm
+  FunctionType: Add

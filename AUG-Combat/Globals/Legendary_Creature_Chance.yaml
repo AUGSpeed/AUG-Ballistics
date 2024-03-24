@@ -1,0 +1,8 @@
+FormKey: 14AFD4:Starfield.esm
+MajorRecordFlagsRaw: 64
+EditorID: Legendary_Creature_Chance
+StarfieldMajorRecordFlags:
+- 0x40
+Data: 10
+MajorFlags:
+- Constant

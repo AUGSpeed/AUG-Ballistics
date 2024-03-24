@@ -1,0 +1,78 @@
+FormKey: 1A2C9A:Starfield.esm
+EditorID: LvlRobotModelA_LIST_Unaggressive
+ObjectBounds:
+  First: -0.45000046, -0.47801596, -4.7683716E-07
+  Second: 0.45000046, 0.42198497, 1.738061
+ODTY: 0
+Flags:
+- Respawn
+- 0x100
+XpValueOffset: 15
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+UseTemplateActors: 24235
+Factions:
+- Faction: 1A2C8F:Starfield.esm
+- Faction: 1A2C9B:Starfield.esm
+- Faction: 1A2C9C:Starfield.esm
+Voice: 2BCA57:Starfield.esm
+DefaultTemplate: 1312B7:Starfield.esm
+TemplateActors:
+  TraitTemplate: 1312B7:Starfield.esm
+  StatsTemplate: 1312B7:Starfield.esm
+  SpellListTemplate: 1312B7:Starfield.esm
+  AiPackagesTemplate: 1312B7:Starfield.esm
+  BaseDataTemplate: 1312B7:Starfield.esm
+  ScriptTemplate: 1312B7:Starfield.esm
+  DefPackListTemplate: 1312B7:Starfield.esm
+  AttackDataTemplate: 1312B7:Starfield.esm
+  KeywordsTemplate: 1312B7:Starfield.esm
+  Unknown2: 1312B7:Starfield.esm
+Race: 005629:Starfield.esm
+Skin: 319B44:Starfield.esm
+CombatOverridePackageList: 0102ED:Starfield.esm
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D4:Starfield.esm
+  Value: 250
+- ActorValue: 0002D5:Starfield.esm
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0002E3:Starfield.esm
+  Value: 130
+- ActorValue: 2102C3:Starfield.esm
+  Value: 0.55
+NativeTerminal: 1AE420:Starfield.esm
+Items:
+- Item:
+    Item: 2C7D29:Starfield.esm
+    Count: 1
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Class: 010B2F:Starfield.esm
+GearedUpWeapons: 1
+CombatStyle: 0187B6:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight: {}
+Sounds:
+- Sound:
+    Start: a19045db-087e-016a-72c2-7c7a0da0908e
+    Stop: 59c24233-40e6-2319-eb9f-7381f8ae7f86
+  CS3F: 0x01
+DefaultPackageList: 26F689:Starfield.esm
+CrimeFaction: 1A2C9B:Starfield.esm
+Tints: []
+SkinToneIndex: 0
+Pronoun: Unspecified

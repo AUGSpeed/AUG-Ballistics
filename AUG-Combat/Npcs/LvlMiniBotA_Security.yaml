@@ -1,0 +1,74 @@
+FormKey: 0C1F4E:Starfield.esm
+EditorID: LvlMiniBotA_Security
+ObjectBounds:
+  First: -0.591797, -0.3623047, 0
+  Second: 0.59179676, 1.0341797, 1.2373047
+ODTY: 0
+Flags:
+- Respawn
+- 0x100
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+UseTemplateActors: 12142
+DeathItem: 0C1F4D:Starfield.esm
+Voice: 0C1F51:Starfield.esm
+DefaultTemplate: 0C1F52:Starfield.esm
+TemplateActors:
+  StatsTemplate: 0C1F52:Starfield.esm
+  FactionsTemplate: 0C1F52:Starfield.esm
+  SpellListTemplate: 0C1F52:Starfield.esm
+  AiPackagesTemplate: 0C1F52:Starfield.esm
+  ModelOrAnimationTemplate: 0C1F52:Starfield.esm
+  InventoryTemplate: 0C1F52:Starfield.esm
+  ScriptTemplate: 0C1F52:Starfield.esm
+  DefPackListTemplate: 0C1F52:Starfield.esm
+  AttackDataTemplate: 0C1F52:Starfield.esm
+  Unknown1: 0C1F52:Starfield.esm
+Race: 227705:Starfield.esm
+Skin: 333D27:Starfield.esm
+CombatOverridePackageList: 0102ED:Starfield.esm
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+  Value: 5
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D4:Starfield.esm
+  Value: 10
+- ActorValue: 0002D5:Starfield.esm
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0002E3:Starfield.esm
+  Value: 130
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Keywords:
+- 2702C9:Starfield.esm
+- 2253D3:Starfield.esm
+Class: 002F64:Starfield.esm
+Name:
+  TargetLanguage: English
+  Value: Security Mini Bot
+GearedUpWeapons: 1
+CombatStyle: 0F3707:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight: {}
+Sounds:
+- Sound:
+    Start: 05d64fe6-7822-fe52-56a1-8ed6e9dce485
+    Stop: 2c2e4936-b148-9df2-2f43-2f09174aca99
+  CS3F: 0x00
+DefaultPackageList: 26F689:Starfield.esm
+Tints: []
+SkinToneIndex: 0
+Pronoun: Unspecified

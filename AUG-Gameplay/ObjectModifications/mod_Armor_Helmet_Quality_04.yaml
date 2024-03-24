@@ -1,0 +1,32 @@
+MutagenObjectType: ArmorModification
+FormKey: 11E2B8:Starfield.esm
+EditorID: mod_Armor_Helmet_Quality_04
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+AttachPoint: 11E2C1:Starfield.esm
+Properties:
+- MutagenObjectType: ObjectModFloatProperty<Armor+Property>
+  Property: Value
+  Value: 0.75
+  FunctionType: MultAndAdd
+- MutagenObjectType: ObjectModIntProperty<Armor+Property>
+  Property: Rating
+  Value: 24
+  FunctionType: Add
+- MutagenObjectType: ObjectModFormLinkIntProperty<Armor+Property>
+  Property: Keyword
+  Record: 3A0B3A:Starfield.esm
+  FunctionType: Add
+- MutagenObjectType: ObjectModFormLinkFloatProperty<Armor+Property>
+  Property: DamageResistance
+  Record: 023190:Starfield.esm
+  Value: 24
+  FunctionType: Add
+- MutagenObjectType: ObjectModFormLinkFloatProperty<Armor+Property>
+  Property: DamageResistance
+  Record: 060A81:Starfield.esm
+  Value: 24
+  FunctionType: Add

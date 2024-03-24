@@ -1,0 +1,90 @@
+FormKey: 2BF660:Starfield.esm
+EditorID: LvlOctopedeABase
+ObjectBounds:
+  First: -0.84939295, -1.4102464, -3.5762787E-07
+  Second: 0.84939295, 1.4796562, 1.6954445
+ODTY: 0
+Flags:
+- Respawn
+- 0x100
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+UseTemplateActors: 32703
+DeathItem: 077833:Starfield.esm
+DefaultTemplate: 2BF661:Starfield.esm
+TemplateActors:
+  TraitTemplate: 2BF661:Starfield.esm
+  StatsTemplate: 2BF661:Starfield.esm
+  FactionsTemplate: 2BF661:Starfield.esm
+  SpellListTemplate: 2BF661:Starfield.esm
+  AiDataTemplate: 2BF661:Starfield.esm
+  AiPackagesTemplate: 2BF661:Starfield.esm
+  BaseDataTemplate: 2BF661:Starfield.esm
+  InventoryTemplate: 2BF661:Starfield.esm
+  ScriptTemplate: 2BF661:Starfield.esm
+  DefPackListTemplate: 2BF661:Starfield.esm
+  AttackDataTemplate: 2BF661:Starfield.esm
+  KeywordsTemplate: 2BF661:Starfield.esm
+  Unknown1: 2BF661:Starfield.esm
+  Unknown2: 2BF661:Starfield.esm
+Race: 015B13:Starfield.esm
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D4:Starfield.esm
+- ActorValue: 0002D5:Starfield.esm
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 040CDC:Starfield.esm
+  Value: 1
+Aggression: Aggressive
+Confidence: Brave
+EnergyLevel: 50
+Responsibility: NoCrime
+UnknownAIDT: 1
+RDSAs:
+- UnknownInt2: 6
+  UnknownInt3: 3
+  UnknownLink2: 215CBD:Starfield.esm
+  UnknownLink3: 215CBC:Starfield.esm
+  UnknownFloat5: 2
+  UnknownFloat6: 1
+- UnknownInt: 1
+  UnknownInt2: 6
+  UnknownInt3: 3
+  UnknownLink2: 215CBA:Starfield.esm
+  UnknownLink3: 215CBB:Starfield.esm
+  UnknownFloat5: 2
+  UnknownFloat6: 1
+- UnknownInt: 2
+  UnknownInt2: 6
+  UnknownInt3: 3
+  UnknownLink2: 215CB8:Starfield.esm
+  UnknownLink3: 215CB9:Starfield.esm
+  UnknownFloat5: 2
+  UnknownFloat6: 1
+Class: 010B2F:Starfield.esm
+GearedUpWeapons: 1
+CombatStyle: 015EAC:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight:
+  Thin: 0.3333
+  Muscular: 0.3333
+  Fat: 0.3333
+Sounds:
+- Sound:
+    Start: b5fc4f19-075c-91af-a9b2-85a41058daaa
+  CS3F: 0x00
+DefaultPackageList: 26F68A:Starfield.esm
+Tints: []
+SkinToneIndex: 0
+Pronoun: Unspecified

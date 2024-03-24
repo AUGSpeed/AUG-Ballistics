@@ -1,0 +1,9 @@
+FormKey: 0B120A:Starfield.esm
+EditorID: ActorShouldHideSpacesuitCosmeticSettlement
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Unknown1: 0x000000
+  Data:
+    MutagenObjectType: GetValueConditionData
+    FirstParameter: 725516
+  ComparisonValue: 1

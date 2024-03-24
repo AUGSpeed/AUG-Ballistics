@@ -1,0 +1,95 @@
+FormKey: 0176B9:Starfield.esm
+EditorID: CritterBodyPartData
+Model:
+  File: Actors\Critter\CharacterAssets\skeleton_Ref.nif
+  FLLD: 0x01000000
+Parts:
+- Name:
+    TargetLanguage: English
+    Value: COM
+  PartNode: COM
+  VatsTarget: COM
+  DamageMult: 1
+  Type: COM
+  HealthPercent: 0.0196078431372549
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\Critter\CharacterAssets\skeleton_Ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Head
+  PartNode: C_Head1
+  VatsTarget: C_Head1
+  DamageMult: 3
+  Type: Head1
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038A:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\Critter\CharacterAssets\skeleton_Ref.nif
+  HitReactionStart: BASE Meshes\Actors\Critter\CharacterAssets\skeleton_Ref.nif
+  HitReactionEnd: BASE Meshes\Actors\Critter\CharacterAssets\skeleton_Ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Torso
+  PartNode: C_Spine1
+  VatsTarget: C_Spine1
+  DamageMult: 1
+  Flags:
+  - HitReaction
+  HealthPercent: 0.19607843137254902
+  ActorValue: 00038F:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\Critter\CharacterAssets\skeleton_Ref.nif
+  HitReactionStart: C_Spine1
+  HitReactionEnd: C_Spine2
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Left Foot
+  PartNode: L_FrontLegA1
+  VatsTarget: L_FrontLegA1
+  DamageMult: 0.75
+  Type: LeftFoot
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038D:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\Critter\CharacterAssets\skeleton_Ref.nif
+  HitReactionStart: BASE Meshes\Actors\Critter\CharacterAssets\skeleton_Ref.nif
+  HitReactionEnd: BASE Meshes\Actors\Critter\CharacterAssets\skeleton_Ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: CritterRoot
+  PartNode: Root
+  VatsTarget: Root
+  DamageMult: 1
+  Type: Root
+  HealthPercent: 0.0196078431372549
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\OctapedA\CharacterAssets\skeleton.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Right Foot
+  PartNode: R_FrontLegA1
+  VatsTarget: R_FrontLegA1
+  DamageMult: 0.75
+  Type: RightFoot
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038E:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\Critter\CharacterAssets\skeleton_Ref.nif
+  HitReactionStart: BASE Meshes\Actors\Critter\CharacterAssets\skeleton_Ref.nif
+  HitReactionEnd: BASE Meshes\Actors\Critter\CharacterAssets\skeleton_Ref.nif
+  TwistVariablePrefix: ''

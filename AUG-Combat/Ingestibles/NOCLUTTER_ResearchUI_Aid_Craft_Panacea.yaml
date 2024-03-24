@@ -1,0 +1,102 @@
+FormKey: 2995A3:Starfield.esm
+MajorRecordFlagsRaw: 536870912
+EditorID: NOCLUTTER_ResearchUI_Aid_Craft_Panacea
+StarfieldMajorRecordFlags:
+- 0x20000000
+ObjectBounds:
+  First: -0.04267444, -0.039221138, -0.095899105
+  Second: 0.042469583, 0.08016364, 0.06340265
+ODTY: 0
+Transforms:
+  InventoryIcon: 02FD76:Starfield.esm
+  Inventory: 2F1453:Starfield.esm
+  Workbench: 2F1454:Starfield.esm
+Name:
+  TargetLanguage: English
+  Value: Panacea
+Keywords:
+- 184C3D:Starfield.esm
+- 2C1C7A:Starfield.esm
+- 2CF28A:Starfield.esm
+- 03D3B3:Starfield.esm
+- 2F4428:Starfield.esm
+- 2F442E:Starfield.esm
+- 2F4430:Starfield.esm
+- 2F442D:Starfield.esm
+- 2F442F:Starfield.esm
+- 0F4AE7:Starfield.esm
+Model:
+  File: Items\Drugs_Or_Medical\Panacaea_01.nif
+  FLLD: 0x01000000
+PickupSound:
+  Start: c06f4d7b-c1ab-c6e3-0fe2-9465dcdefbb7
+DropdownSound:
+  Start: 65e1437d-11f2-0e93-0eee-d59308067b9f
+CraftingSound:
+  Start: beb644dc-3806-fc10-b40a-1fd694f5d6b9
+Description:
+  TargetLanguage: English
+  Value: A complete system purge, removing diseases and poisons and treating injuries of any sort. Very tiring to use.
+Weight: 0.1
+Value: 740
+Flags:
+- NoAutoCalc
+- Medicine
+ConsumeSound:
+  Start: 8cf04c5d-c356-4ba3-a202-018842a4c394
+AddictionName:
+  TargetLanguage: English
+  Value: ''
+Effects:
+- BaseEffect: 21DDB8:Starfield.esm
+  Data:
+    Magnitude: 75
+    Duration: 3
+  EFIF: 0
+  MUID: 2
+- BaseEffect: 2F442C:Starfield.esm
+  Data:
+    Magnitude: 2
+  Duration: 2F4437:Starfield.esm
+  EFIF: 0
+  MUID: 1
+- BaseEffect: 2F442B:Starfield.esm
+  Data:
+    Magnitude: 2
+  Duration: 2F4437:Starfield.esm
+  EFIF: 0
+  MUID: 1
+- BaseEffect: 2F4427:Starfield.esm
+  Data:
+    Magnitude: 2
+  Duration: 2F4437:Starfield.esm
+  EFIF: 0
+  MUID: 1
+- BaseEffect: 2F4429:Starfield.esm
+  Data:
+    Magnitude: 2
+  Duration: 2F4437:Starfield.esm
+  EFIF: 0
+  MUID: 1
+- BaseEffect: 2F442A:Starfield.esm
+  Data:
+    Magnitude: 2
+  Duration: 2F4437:Starfield.esm
+  EFIF: 0
+  MUID: 1
+- BaseEffect: 1C8DDE:Starfield.esm
+  Data: {}
+  EFIF: 0
+  MUID: 4
+- BaseEffect: 25A81D:Starfield.esm
+  Data:
+    Duration: 5
+  EFIF: 0
+  MUID: 5
+- BaseEffect: 2676BB:Starfield.esm
+  Data:
+    Magnitude: 1
+  EFIF: 1
+  MUID: 6
+MajorFlags:
+- Medicine

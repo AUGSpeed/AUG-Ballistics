@@ -1,0 +1,33 @@
+MutagenObjectType: WeaponModification
+FormKey: 28FC29:Starfield.esm
+MajorRecordFlagsRaw: 128
+EditorID: mod_Tombstone_Quality_TiersAny
+StarfieldMajorRecordFlags:
+- 0x80
+Name:
+  TargetLanguage: English
+  Value: Quality Tiers Any
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+Includes:
+- Mod: 28FC25:Starfield.esm
+  DoNotUseAll: True
+- Mod: 28FC26:Starfield.esm
+  MinimumLevel: 25
+  DoNotUseAll: True
+- Mod: 28FC27:Starfield.esm
+  MinimumLevel: 35
+  DoNotUseAll: True
+- Mod: 28FC28:Starfield.esm
+  MinimumLevel: 45
+  DoNotUseAll: True
+MajorFlags:
+- 0x80
+Properties:
+- MutagenObjectType: ObjectModFormLinkIntProperty<Weapon+Property>
+  Property: Keyword
+  Record: 374EFA:Starfield.esm
+  FunctionType: Add

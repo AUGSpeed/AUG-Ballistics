@@ -1,0 +1,382 @@
+FormKey: 26FB62:Starfield.esm
+EditorID: LvlSecurity_Freestar
+ObjectBounds:
+  First: -0.31000048, -0.31000048, -4.7683716E-07
+  Second: 0.31000048, 0.31000048, 1.8000004
+ODTY: 0
+Flags:
+- Female
+- Respawn
+XpValueOffset: 20
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 12
+DispositionBase: 35
+UseTemplateActors: 32315
+Factions:
+- Faction: 0638E5:Starfield.esm
+- Faction: 0A179C:Starfield.esm
+- Faction: 26FB6D:Starfield.esm
+Voice: 2BCA42:Starfield.esm
+DefaultTemplate: 2B2121:Starfield.esm
+TemplateActors:
+  TraitTemplate: 26FB6C:Starfield.esm
+  StatsTemplate: 2B2121:Starfield.esm
+  SpellListTemplate: 2B2121:Starfield.esm
+  AiDataTemplate: 2B2121:Starfield.esm
+  AiPackagesTemplate: 2B2121:Starfield.esm
+  ScriptTemplate: 2B2121:Starfield.esm
+  DefPackListTemplate: 2B2121:Starfield.esm
+  AttackDataTemplate: 2B2121:Starfield.esm
+  KeywordsTemplate: 2B2121:Starfield.esm
+  Unknown1: 2B2121:Starfield.esm
+  Unknown2: 2B2121:Starfield.esm
+Race: 00347D:Starfield.esm
+CombatOverridePackageList: 0102ED:Starfield.esm
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+  Value: 5
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+  Value: 5
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+  Value: 5
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D4:Starfield.esm
+  Value: 65
+- ActorValue: 0002D5:Starfield.esm
+  Value: 50
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0002CC:Starfield.esm
+  Value: 15
+- ActorValue: 0002CD:Starfield.esm
+  Value: 45
+Items:
+- Item:
+    Item: 285E55:Starfield.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Brave
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Keywords:
+- 12FF1F:Starfield.esm
+Class: 010B2F:Starfield.esm
+Name:
+  TargetLanguage: English
+  Value: Freestar Guard
+CalculatedHealth: 50
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 012201:Starfield.esm
+- 012202:Starfield.esm
+- 012203:Starfield.esm
+- 0317AE:Starfield.esm
+- 0317AF:Starfield.esm
+- 0640B8:Starfield.esm
+- 078273:Starfield.esm
+- 13EB4E:Starfield.esm
+- 1F7F03:Starfield.esm
+- 3A289C:Starfield.esm
+- 3BE58F:Starfield.esm
+CombatStyle: 2C5F7D:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight:
+  Thin: 0.21
+  Muscular: 0.47
+DefaultOutfit: 26FB5F:Starfield.esm
+SpaceOutfit: 1056F0:Starfield.esm
+DefaultPackageList: 2C55CA:Starfield.esm
+CrimeFaction: 0638E5:Starfield.esm
+Tints:
+- TintType: SimpleGroup
+  TintGroup: Dermaesthetic
+  TintName: European_Female_Md1_Sk3
+  TintTexture: textures/actors/human/faces/chargen/postblenddetails/dermaesthetic/female_eu_md1_sk3_derm_color.dds
+  TintColor: '#00000000'
+  TintIntensity: 50
+- TintType: SimpleGroup
+  TintGroup: ComplexionMask1
+  TintName: moles_Many_Small_02
+  TintTexture: textures/actors/human/faces/chargen/postblenddetails/complexion/moles_many_small_02_mask.dds
+  TintColor: '#00000000'
+  TintIntensity: 17
+- TintType: SimpleGroup
+  TintGroup: Complexion1
+  TintName: Color_Temperature_Pink
+  TintTexture: textures/actors/human/faces/chargen/postblenddetails/complexion/complexion_colortemperature_pink_color.dds
+  TintColor: '#00000000'
+  TintIntensity: 17
+- TintType: SimpleGroup
+  TintGroup: ComplexionMask2
+  TintName: Freckles_Face
+  TintTexture: textures/actors/human/faces/chargen/postblenddetails/complexion/freckles_face_mask.dds
+  TintColor: '#00000000'
+  TintIntensity: 17
+- TintType: ComplexGroup
+  TintGroup: Scars
+  TintName: Scar_LeftBrowSmall
+  TintTexture: textures/actors/human/faces/chargen/postblenddetails/scars/scar_leftbrowsmall_color.dds
+  TintColor: '#00000000'
+  TintIntensity: 64
+- TintType: ComplexGroup
+  TintGroup: Accents1
+  TintName: Accents_UnderEyeCrease_Dark
+  TintTexture: textures/actors/human/faces/chargen/postblenddetails/accents/accents_undereyecrease_dark_color.dds
+  TintColor: '#00000000'
+  TintIntensity: 17
+- TintType: ComplexGroup
+  TintGroup: Accents2
+  TintName: Accents_RoughFace
+  TintTexture: textures/actors/human/faces/chargen/postblenddetails/accents/accents_roughface_color.dds
+  TintColor: '#00000000'
+  TintIntensity: 5
+- TintType: SimpleGroup
+  TintGroup: Cheeks1
+  TintName: Blush_Soft
+  TintTexture: textures/actors/human/faces/chargen/postblenddetails/cheeks1/testblush02_mask.dds
+  TintColor: '#00000000'
+  TintIntensity: 64
+- TintType: SimpleGroup
+  TintGroup: Lipstick1
+  TintName: Lipstick_Soft
+  TintTexture: textures/actors/human/faces/chargen/postblenddetails/lipstick1/testlipstick02_mask.dds
+  TintColor: '#5AFF0902'
+  TintIntensity: 11
+- TintType: SimpleGroup
+  TintGroup: Eyeshadow1
+  TintName: EyeShadow_Upper_01
+  TintTexture: textures/actors/human/faces/chargen/postblenddetails/eyeshadow1/testeyeshadowupper01_mask.dds
+  TintColor: '#00000000'
+  TintIntensity: 64
+- TintType: SimpleGroup
+  TintGroup: Eyeshadow2
+  TintName: EyeShadow_Lower_02
+  TintTexture: textures/actors/human/faces/chargen/postblenddetails/eyeshadow2/testeyeshadowlower02_mask.dds
+  TintColor: '#00000000'
+  TintIntensity: 64
+- TintType: SimpleGroup
+  TintGroup: Eyeliner1
+  TintName: Eyeliner_Upper_01
+  TintTexture: textures/actors/human/faces/chargen/postblenddetails/eyeliner1/testeyelinerupper01_mask.dds
+  TintColor: '#00000000'
+  TintIntensity: 64
+FaceDialPositions:
+- Index: 25
+  Position: 0.31
+- Index: 30
+  Position: 0.2
+- Index: 31
+  Position: 0.04
+- Index: 34
+  Position: -0.43
+- Index: 35
+  Position: 0.23
+- Index: 36
+  Position: 0.48
+- Index: 38
+  Position: -0.24
+- Index: 43
+  Position: 0.37
+- Index: 45
+  Position: 0.77
+- Index: 47
+  Position: -0.3
+- Index: 48
+  Position: 0.13
+- Index: 49
+  Position: -0.31
+- Index: 51
+  Position: -0.09
+- Index: 52
+  Position: 0.66
+- Index: 53
+  Position: 0.38
+- Index: 54
+  Position: 0.2
+- Index: 55
+  Position: -0.76
+- Index: 57
+  Position: -0.25
+- Index: 61
+  Position: 0.08
+- Index: 63
+  Position: -1
+- Index: 65
+  Position: -0.59
+- Index: 67
+  Position: -0.63
+- Index: 70
+  Position: -1
+- Index: 72
+  Position: 0.41
+- Index: 75
+  Position: 0.3
+- Index: 77
+  Position: -0.37
+FaceMorphs:
+- Index: 5
+  MorphGroups:
+  - MorphGroup: Cheeks
+    BlendIntensity: 0.11588621
+  - MorphGroup: Chin
+    BlendIntensity: 0.080609925
+  - MorphGroup: Ears
+    BlendIntensity: 0.14170031
+  - MorphGroup: Eyes
+    BlendIntensity: 0.23041062
+  - MorphGroup: Forehead
+    BlendIntensity: 0.14688507
+  - MorphGroup: Jaw
+    BlendIntensity: 0.049133897
+  - MorphGroup: Mouth
+    BlendIntensity: 0.09161688
+  - MorphGroup: Neck
+    BlendIntensity: 0.18047424
+  - MorphGroup: Nose
+    BlendIntensity: 0.12719871
+- Index: 9
+  MorphGroups:
+  - MorphGroup: Cheeks
+    BlendIntensity: 0.09325693
+  - MorphGroup: Chin
+    BlendIntensity: 0.11624006
+  - MorphGroup: Ears
+    BlendIntensity: 0.10867704
+  - MorphGroup: Eyes
+    BlendIntensity: 0.21179968
+  - MorphGroup: Forehead
+    BlendIntensity: 0.12392724
+  - MorphGroup: Jaw
+    BlendIntensity: 0.2138755
+  - MorphGroup: Mouth
+    BlendIntensity: 0.050869215
+  - MorphGroup: Neck
+    BlendIntensity: 0.23598957
+  - MorphGroup: Nose
+    BlendIntensity: 0.06906361
+- Index: 11
+  MorphGroups:
+  - MorphGroup: Cheeks
+    BlendIntensity: 0.24645396
+  - MorphGroup: Chin
+    BlendIntensity: 0.04237539
+  - MorphGroup: Ears
+    BlendIntensity: 0.04314767
+  - MorphGroup: Eyes
+    BlendIntensity: 0.0030853583
+  - MorphGroup: Forehead
+    BlendIntensity: 0.19839168
+  - MorphGroup: Jaw
+    BlendIntensity: 0.12385137
+  - MorphGroup: Mouth
+    BlendIntensity: 0.23933287
+  - MorphGroup: Neck
+    BlendIntensity: 0.011585632
+  - MorphGroup: Nose
+    BlendIntensity: 0.12571077
+- Index: 15
+  MorphGroups:
+  - MorphGroup: Cheeks
+    BlendIntensity: 0.11266945
+  - MorphGroup: Chin
+    BlendIntensity: 0.026708229
+  - MorphGroup: Ears
+    BlendIntensity: 0.14949183
+  - MorphGroup: Eyes
+    BlendIntensity: 0.006768499
+  - MorphGroup: Forehead
+    BlendIntensity: 0.05188333
+  - MorphGroup: Jaw
+    BlendIntensity: 0.18117546
+  - MorphGroup: Mouth
+    BlendIntensity: 0.06831497
+  - MorphGroup: Neck
+    BlendIntensity: 0.107321404
+  - MorphGroup: Nose
+    BlendIntensity: 0.083625145
+MorphBlends:
+- BlendName: female_af_md1_Cheeks
+  Intensity: 0.09325693
+- BlendName: female_af_md1_Chin
+  Intensity: 0.11624006
+- BlendName: female_af_md1_Ears
+  Intensity: 0.10867704
+- BlendName: female_af_md1_Eyes
+  Intensity: 0.21179968
+- BlendName: female_af_md1_Forehead
+  Intensity: 0.12392724
+- BlendName: female_af_md1_Jaw
+  Intensity: 0.2138755
+- BlendName: female_af_md1_Mouth
+  Intensity: 0.050869215
+- BlendName: female_af_md1_Neck
+  Intensity: 0.23598957
+- BlendName: female_af_md1_Nose
+  Intensity: 0.06906361
+- BlendName: female_af_ol1_Cheeks
+  Intensity: 0.11266945
+- BlendName: female_af_ol1_Chin
+  Intensity: 0.026708229
+- BlendName: female_af_ol1_Ears
+  Intensity: 0.14949183
+- BlendName: female_af_ol1_Eyes
+  Intensity: 0.006768499
+- BlendName: female_af_ol1_Forehead
+  Intensity: 0.05188333
+- BlendName: female_af_ol1_Jaw
+  Intensity: 0.18117546
+- BlendName: female_af_ol1_Mouth
+  Intensity: 0.06831497
+- BlendName: female_af_ol1_Neck
+  Intensity: 0.107321404
+- BlendName: female_af_ol1_Nose
+  Intensity: 0.083625145
+- BlendName: female_as_md1_Cheeks
+  Intensity: 0.11588621
+- BlendName: female_as_md1_Chin
+  Intensity: 0.080609925
+- BlendName: female_as_md1_Ears
+  Intensity: 0.14170031
+- BlendName: female_as_md1_Eyes
+  Intensity: 0.23041062
+- BlendName: female_as_md1_Forehead
+  Intensity: 0.14688507
+- BlendName: female_as_md1_Jaw
+  Intensity: 0.049133897
+- BlendName: female_as_md1_Mouth
+  Intensity: 0.09161688
+- BlendName: female_as_md1_Neck
+  Intensity: 0.18047424
+- BlendName: female_as_md1_Nose
+  Intensity: 0.12719871
+- BlendName: female_as_ol1_Cheeks
+  Intensity: 0.24645396
+- BlendName: female_as_ol1_Chin
+  Intensity: 0.04237539
+- BlendName: female_as_ol1_Ears
+  Intensity: 0.04314767
+- BlendName: female_as_ol1_Eyes
+  Intensity: 0.0030853583
+- BlendName: female_as_ol1_Forehead
+  Intensity: 0.19839168
+- BlendName: female_as_ol1_Jaw
+  Intensity: 0.12385137
+- BlendName: female_as_ol1_Mouth
+  Intensity: 0.23933287
+- BlendName: female_as_ol1_Neck
+  Intensity: 0.011585632
+- BlendName: female_as_ol1_Nose
+  Intensity: 0.12571077
+SkinToneIndex: 1
+HairColor: Brown
+EyebrowColor: BlackBrown
+EyeColor: Hazel
+Pronoun: Unspecified

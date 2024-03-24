@@ -1,0 +1,68 @@
+FormKey: 2BF32D:Starfield.esm
+EditorID: LvlOctopedeABlisterCrab
+ObjectBounds:
+  First: -0.6967238, -1.15677, -2.9334814E-07
+  Second: 0.6967238, 1.2137041, 1.3907068
+ODTY: 0
+Flags:
+- 0x100
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+UseTemplateActors: 32703
+DefaultTemplate: 2BF32C:Starfield.esm
+TemplateActors:
+  TraitTemplate: 2BF32C:Starfield.esm
+  StatsTemplate: 2BF32C:Starfield.esm
+  FactionsTemplate: 2BF32C:Starfield.esm
+  SpellListTemplate: 2BF32C:Starfield.esm
+  AiDataTemplate: 2BF32C:Starfield.esm
+  AiPackagesTemplate: 2BF32C:Starfield.esm
+  BaseDataTemplate: 2BF32C:Starfield.esm
+  InventoryTemplate: 2BF32C:Starfield.esm
+  ScriptTemplate: 2BF32C:Starfield.esm
+  DefPackListTemplate: 2BF32C:Starfield.esm
+  AttackDataTemplate: 2BF32C:Starfield.esm
+  KeywordsTemplate: 2BF32C:Starfield.esm
+  Unknown1: 2BF32C:Starfield.esm
+  Unknown2: 2BF32C:Starfield.esm
+Race: 015B13:Starfield.esm
+Skin: 03C01F:Starfield.esm
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D4:Starfield.esm
+- ActorValue: 0002D5:Starfield.esm
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0A1B80:Starfield.esm
+- ActorValue: 0002CD:Starfield.esm
+  Value: 45
+Confidence: Brave
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Class: 010B2F:Starfield.esm
+GearedUpWeapons: 1
+CombatStyle: 015EAC:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 0.7
+HeightMax: 1
+Weight:
+  Thin: 0.3333
+  Muscular: 0.3333
+  Fat: 0.3333
+Sounds:
+- Sound:
+    Start: b5fc4f19-075c-91af-a9b2-85a41058daaa
+  CS3F: 0x00
+DefaultPackageList: 26F68A:Starfield.esm
+Tints: []
+SkinToneIndex: 0
+Pronoun: Unspecified

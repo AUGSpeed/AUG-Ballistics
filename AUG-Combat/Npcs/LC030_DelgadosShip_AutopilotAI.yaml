@@ -1,0 +1,41 @@
+FormKey: 3B7738:Starfield.esm
+MajorRecordFlagsRaw: 4194304
+EditorID: LC030_DelgadosShip_AutopilotAI
+StarfieldMajorRecordFlags:
+- 0x400000
+ODTY: 0
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+Race: 025739:Starfield.esm
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D4:Starfield.esm
+- ActorValue: 0002D5:Starfield.esm
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 00039D:Starfield.esm
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Assistance: HelpsAllies
+Class: 010B2F:Starfield.esm
+GearedUpWeapons: 1
+CombatStyle: 01EBF0:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight: {}
+DefaultPackageList: 0110AA:Starfield.esm
+Tints: []
+SkinToneIndex: 0
+Pronoun: Unspecified
+MajorFlags:
+- 0x400000

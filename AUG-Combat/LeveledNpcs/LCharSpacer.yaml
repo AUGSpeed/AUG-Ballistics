@@ -1,0 +1,40 @@
+FormKey: 27BB7D:Starfield.esm
+EditorID: LCharSpacer
+ODTY: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+- 0x40
+Entries:
+- Level: 1
+  Reference: 270255:Starfield.esm
+  Count: 1
+- Level: 14
+  Reference: 270254:Starfield.esm
+  Count: 1
+- Level: 22
+  Reference: 270253:Starfield.esm
+  Count: 1
+- Level: 30
+  Reference: 270252:Starfield.esm
+  Count: 1
+- Level: 38
+  Reference: 129583:Starfield.esm
+  Count: 1
+- Level: 48
+  Reference: 129582:Starfield.esm
+  Count: 1
+- Level: 58
+  Reference: 129581:Starfield.esm
+  Count: 1
+- Level: 70
+  Reference: 129580:Starfield.esm
+  Count: 1
+- Level: 82
+  Reference: 12957F:Starfield.esm
+  Count: 1
+- Level: 94
+  Reference: 12957E:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

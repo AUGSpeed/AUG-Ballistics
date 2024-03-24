@@ -1,0 +1,41 @@
+FormKey: 10478F:Starfield.esm
+EditorID: LCharAceles
+ODTY: 0
+Flags:
+- 0x40
+Entries:
+- Level: 1
+  Reference: 104784:Starfield.esm
+  Count: 1
+- Level: 10
+  Reference: 104785:Starfield.esm
+  Count: 1
+- Level: 14
+  Reference: 104786:Starfield.esm
+  Count: 1
+- Level: 19
+  Reference: 104787:Starfield.esm
+  Count: 1
+- Level: 24
+  Reference: 104788:Starfield.esm
+  Count: 1
+- Level: 30
+  Reference: 104789:Starfield.esm
+  Count: 1
+- Level: 36
+  Reference: 10478A:Starfield.esm
+  Count: 1
+- Level: 44
+  Reference: 10478B:Starfield.esm
+  Count: 1
+- Level: 58
+  Reference: 10478C:Starfield.esm
+  Count: 1
+- Level: 72
+  Reference: 10478D:Starfield.esm
+  Count: 1
+- Level: 94
+  Reference: 10478E:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

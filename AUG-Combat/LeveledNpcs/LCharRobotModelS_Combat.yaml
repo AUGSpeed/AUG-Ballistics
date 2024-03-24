@@ -1,0 +1,40 @@
+FormKey: 0CA19F:Starfield.esm
+EditorID: LCharRobotModelS_Combat
+ODTY: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+- 0x40
+Entries:
+- Level: 1
+  Reference: 0CA190:Starfield.esm
+  Count: 1
+- Level: 12
+  Reference: 0CA196:Starfield.esm
+  Count: 1
+- Level: 20
+  Reference: 0CA197:Starfield.esm
+  Count: 1
+- Level: 28
+  Reference: 0CA198:Starfield.esm
+  Count: 1
+- Level: 36
+  Reference: 0CA199:Starfield.esm
+  Count: 1
+- Level: 46
+  Reference: 0CA19A:Starfield.esm
+  Count: 1
+- Level: 56
+  Reference: 0CA19B:Starfield.esm
+  Count: 1
+- Level: 68
+  Reference: 0CA19C:Starfield.esm
+  Count: 1
+- Level: 80
+  Reference: 0CA19D:Starfield.esm
+  Count: 1
+- Level: 92
+  Reference: 0CA19E:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

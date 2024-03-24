@@ -1,0 +1,20 @@
+FormKey: 21DDB8:Starfield.esm
+EditorID: RestoreHealthStimpak
+Name:
+  TargetLanguage: English
+  Value: Restore Health
+Keywords:
+- 04C948:Starfield.esm
+Archetype:
+  MutagenObjectType: MagicEffectArchetype
+  Type: Stimpack
+UnkownInt2: 3
+CastType: FireAndForget
+UnkownInt3: 1065353216
+Flags:
+- 0x80000
+- 0x100000
+Unknown: 0x00000000000000000000000000000000000000000000
+Description:
+  TargetLanguage: English
+  Value: '%Restores <mag>% Health/s for <dur>'

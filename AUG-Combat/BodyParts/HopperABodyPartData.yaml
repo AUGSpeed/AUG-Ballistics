@@ -1,0 +1,184 @@
+FormKey: 00B09B:Starfield.esm
+EditorID: HopperABodyPartData
+Model:
+  File: Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  FLLD: 0x01000000
+Parts:
+- Name:
+    TargetLanguage: English
+    Value: COM
+  PartNode: COM
+  VatsTarget: COM
+  DamageMult: 1
+  Type: COM
+  HealthPercent: 0.0196078431372549
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Head
+  PartNode: C_Head1
+  VatsTarget: C_Head1
+  DamageMult: 2.5
+  Flags:
+  - HitReaction
+  Type: Head1
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038A:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: C_Head1
+  HitReactionEnd: C_Jaw1
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Torso
+  PartNode: C_Spine1
+  VatsTarget: C_Spine2
+  DamageMult: 1
+  Flags:
+  - HitReaction
+  HealthPercent: 0.19607843137254902
+  ActorValue: 00038F:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: C_Spine1
+  HitReactionEnd: C_Spine2
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: RearLeftLeg
+  PartNode: L_BackLeg1
+  VatsTarget: L_BackLeg1
+  DamageMult: 0.85
+  Type: LeftLeg3
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038D:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: FrontLeftLeg
+  PartNode: L_FrontLeg1
+  VatsTarget: L_FrontLeg1
+  DamageMult: 0.85
+  Type: LeftLeg1
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038D:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: MiddleLeftLegt
+  PartNode: L_MidLeg1
+  VatsTarget: L_MidLeg1
+  DamageMult: 0.85
+  Type: LeftLeg2
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038D:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Left Foot
+  PartNode: L_MidLeg4
+  VatsTarget: L_MidLeg4
+  DamageMult: 0.5
+  Type: LeftFoot
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038D:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: HopperARoot
+  PartNode: Root
+  VatsTarget: Root
+  Type: Root
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: FrontRightLeg
+  PartNode: R_BackLeg1
+  VatsTarget: R_BackLeg1
+  DamageMult: 0.85
+  Type: RightLeg1
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038E:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: RearRightLeg
+  PartNode: R_FrontLeg1
+  VatsTarget: R_FrontLeg1
+  DamageMult: 0.85
+  Type: RightLeg3
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038E:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: MiddleRightLeg
+  PartNode: R_MidLeg1
+  VatsTarget: R_MidLeg1
+  DamageMult: 0.85
+  Type: RightLeg2
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038E:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Right Foot
+  PartNode: R_MidLeg4
+  VatsTarget: R_MidLeg4
+  DamageMult: 0.5
+  Type: RightFoot
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038E:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''

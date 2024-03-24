@@ -1,0 +1,71 @@
+FormKey: 0C869C:Starfield.esm
+EditorID: LvlMiniBotA_Security_clean
+ObjectBounds:
+  First: -0.2725004, -0.27121037, -2.9802322E-07
+  Second: 0.27250051, 0.27379054, 0.77500063
+ODTY: 0
+Flags:
+- Respawn
+- 0x100
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+UseTemplateActors: 32766
+DeathItem: 0C1F4D:Starfield.esm
+DefaultTemplate: 0C1F4E:Starfield.esm
+TemplateActors:
+  StatsTemplate: 0C1F4E:Starfield.esm
+  FactionsTemplate: 0C1F4E:Starfield.esm
+  SpellListTemplate: 0C1F4E:Starfield.esm
+  AiDataTemplate: 0C1F4E:Starfield.esm
+  AiPackagesTemplate: 0C1F4E:Starfield.esm
+  ModelOrAnimationTemplate: 0C1F4E:Starfield.esm
+  BaseDataTemplate: 0C1F4E:Starfield.esm
+  InventoryTemplate: 0C1F4E:Starfield.esm
+  ScriptTemplate: 0C1F4E:Starfield.esm
+  DefPackListTemplate: 0C1F4E:Starfield.esm
+  AttackDataTemplate: 0C1F4E:Starfield.esm
+  KeywordsTemplate: 0C1F4E:Starfield.esm
+  Unknown1: 0C1F4E:Starfield.esm
+  Unknown2: 0C1F4E:Starfield.esm
+Race: 227705:Starfield.esm
+Skin: 0C8695:Starfield.esm
+CombatOverridePackageList: 0102ED:Starfield.esm
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+  Value: 5
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D4:Starfield.esm
+  Value: 10
+- ActorValue: 0002D5:Starfield.esm
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0002E3:Starfield.esm
+  Value: 130
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Class: 002F64:Starfield.esm
+GearedUpWeapons: 1
+CombatStyle: 0F3707:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight: {}
+Sounds:
+- Sound:
+    Start: 05d64fe6-7822-fe52-56a1-8ed6e9dce485
+    Stop: 2c2e4936-b148-9df2-2f43-2f09174aca99
+  CS3F: 0x00
+DefaultPackageList: 26F689:Starfield.esm
+Tints: []
+SkinToneIndex: 0
+Pronoun: Unspecified

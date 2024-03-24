@@ -1,0 +1,41 @@
+FormKey: 324D0A:Starfield.esm
+EditorID: LCharTerrormorphElder
+ODTY: 0
+Flags:
+- 0x40
+Entries:
+- Level: 1
+  Reference: 324D09:Starfield.esm
+  Count: 1
+- Level: 10
+  Reference: 324CFF:Starfield.esm
+  Count: 1
+- Level: 14
+  Reference: 324D00:Starfield.esm
+  Count: 1
+- Level: 19
+  Reference: 324D01:Starfield.esm
+  Count: 1
+- Level: 24
+  Reference: 324D02:Starfield.esm
+  Count: 1
+- Level: 30
+  Reference: 324D03:Starfield.esm
+  Count: 1
+- Level: 36
+  Reference: 324D04:Starfield.esm
+  Count: 1
+- Level: 44
+  Reference: 324D05:Starfield.esm
+  Count: 1
+- Level: 58
+  Reference: 324D06:Starfield.esm
+  Count: 1
+- Level: 72
+  Reference: 324D07:Starfield.esm
+  Count: 1
+- Level: 94
+  Reference: 324D08:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

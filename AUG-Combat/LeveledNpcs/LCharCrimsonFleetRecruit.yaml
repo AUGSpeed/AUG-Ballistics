@@ -1,0 +1,43 @@
+FormKey: 009CF0:Starfield.esm
+EditorID: LCharCrimsonFleetRecruit
+ODTY: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+- 0x40
+Entries:
+- Level: 1
+  Reference: 010B2E:Starfield.esm
+  Count: 1
+- Level: 10
+  Reference: 010B38:Starfield.esm
+  Count: 1
+- Level: 16
+  Reference: 009CED:Starfield.esm
+  Count: 1
+- Level: 24
+  Reference: 009CEF:Starfield.esm
+  Count: 1
+- Level: 32
+  Reference: 009CEE:Starfield.esm
+  Count: 1
+- Level: 40
+  Reference: 12D034:Starfield.esm
+  Count: 1
+- Level: 50
+  Reference: 12D033:Starfield.esm
+  Count: 1
+- Level: 62
+  Reference: 12D032:Starfield.esm
+  Count: 1
+- Level: 74
+  Reference: 12D031:Starfield.esm
+  Count: 1
+- Level: 86
+  Reference: 12D030:Starfield.esm
+  Count: 1
+- Level: 98
+  Reference: 12D02F:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

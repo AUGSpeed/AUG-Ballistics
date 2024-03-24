@@ -1,0 +1,28 @@
+FormKey: 0C1F52:Starfield.esm
+EditorID: LCharMiniBotA
+ODTY: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+- 0x40
+Entries:
+- Level: 1
+  Reference: 0C1F50:Starfield.esm
+  Count: 1
+- Level: 12
+  Reference: 0F3708:Starfield.esm
+  Count: 1
+- Level: 20
+  Reference: 0F3709:Starfield.esm
+  Count: 1
+- Level: 28
+  Reference: 0F370A:Starfield.esm
+  Count: 1
+- Level: 36
+  Reference: 0F370B:Starfield.esm
+  Count: 1
+- Level: 46
+  Reference: 0F370C:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

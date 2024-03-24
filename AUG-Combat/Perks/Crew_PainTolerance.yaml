@@ -1,0 +1,101 @@
+FormKey: 21B8D2:Starfield.esm
+EditorID: Crew_PainTolerance
+Name:
+  TargetLanguage: English
+  Value: Pain Tolerance
+Description:
+  TargetLanguage: English
+  Value: ''
+Categroy: Physical
+Flags:
+- ShowInCrewUi
+PerkIcon: Patch_Physical_PainTolerance
+Ranks:
+- Effects:
+  - MutagenObjectType: PerkEntryPointModifyValue
+    EntryPoint: ModIncomingWeaponDamage
+    PerkConditionTabCount: 3
+    PerkEntryID: 7
+    Modification: Multiply
+    Value: 0.9
+  - MutagenObjectType: PerkEntryPointModifyValue
+    Priority: 1
+    Conditions:
+    - Conditions:
+      - MutagenObjectType: ConditionFloat
+        Unknown1: 0x000000
+        Unknown2: 17620
+        Data:
+          MutagenObjectType: GetPerkRankConditionData
+          RunOnType: Reference
+          Reference: 000014:Starfield.esm
+          FirstParameter: 2C890D:Starfield.esm
+        ComparisonValue: 4
+    EntryPoint: ModIncomingWeaponDamage
+    PerkConditionTabCount: 3
+    PerkEntryID: 8
+    Modification: Multiply
+    Value: 0.8
+  Description:
+    TargetLanguage: English
+    Value: 'Crew: Physical damage is reduced by 10%'
+- Effects:
+  - MutagenObjectType: PerkEntryPointModifyValue
+    Rank: 1
+    EntryPoint: ModIncomingWeaponDamage
+    PerkConditionTabCount: 3
+    PerkEntryID: 10
+    Modification: Multiply
+    Value: 0.8
+  - MutagenObjectType: PerkEntryPointModifyValue
+    Rank: 1
+    Priority: 1
+    Conditions:
+    - Conditions:
+      - MutagenObjectType: ConditionFloat
+        Unknown1: 0x000000
+        Unknown2: 17620
+        Data:
+          MutagenObjectType: GetPerkRankConditionData
+          RunOnType: Reference
+          Reference: 000014:Starfield.esm
+          FirstParameter: 2C890D:Starfield.esm
+        ComparisonValue: 4
+    EntryPoint: ModIncomingWeaponDamage
+    PerkConditionTabCount: 3
+    PerkEntryID: 9
+    Modification: Multiply
+    Value: 0.6
+  Description:
+    TargetLanguage: English
+    Value: 'Crew: Physical damage is reduced by 20%'
+- Effects:
+  - MutagenObjectType: PerkEntryPointModifyValue
+    Rank: 2
+    EntryPoint: ModIncomingWeaponDamage
+    PerkConditionTabCount: 3
+    PerkEntryID: 12
+    Modification: Multiply
+    Value: 0.7
+  - MutagenObjectType: PerkEntryPointModifyValue
+    Rank: 2
+    Priority: 1
+    Conditions:
+    - Conditions:
+      - MutagenObjectType: ConditionFloat
+        Unknown1: 0x000000
+        Unknown2: 17620
+        Data:
+          MutagenObjectType: GetPerkRankConditionData
+          RunOnType: Reference
+          Reference: 000014:Starfield.esm
+          FirstParameter: 2C890D:Starfield.esm
+        ComparisonValue: 4
+    EntryPoint: ModIncomingWeaponDamage
+    PerkConditionTabCount: 3
+    PerkEntryID: 11
+    Modification: Multiply
+    Value: 0.4
+  Description:
+    TargetLanguage: English
+    Value: 'Crew: Physical damage is reduced by 30%'

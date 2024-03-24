@@ -1,0 +1,49 @@
+FormKey: 04770D:Starfield.esm
+EditorID: SecurityCameraBodyPartData
+Model:
+  File: Actors\SecurityCamera\CharacterAssets\skeleton_ref.nif
+  FLLD: 0x01000000
+Parts:
+- Name:
+    TargetLanguage: English
+    Value: COM
+  PartNode: COM
+  VatsTarget: COM
+  DamageMult: 1
+  Type: COM
+  HealthPercent: 0.39215686274509803
+  ToHitChance: 0.23529411764705882
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE meshes\Actors\SecurityCamera\CharacterAssets\Skeleton_Ref.nif
+  HitReactionStart: BASE meshes\Actors\SecurityCamera\CharacterAssets\Skeleton_Ref.nif
+  HitReactionEnd: BASE meshes\Actors\SecurityCamera\CharacterAssets\Skeleton_Ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Head
+  PartNode: C_Head
+  VatsTarget: C_Head
+  DamageMult: 1
+  Flags:
+  - HitReaction
+  Type: Head1
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038A:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\laserturret\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: C_Spine
+  HitReactionEnd: C_Head
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Root
+  PartNode: Root
+  VatsTarget: Root
+  DamageMult: 1
+  Type: Root
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\SecurityCamera\CharacterAssets\skeleton.nif
+  HitReactionStart: BASE Meshes\Actors\SecurityCamera\CharacterAssets\skeleton.nif
+  HitReactionEnd: BASE Meshes\Actors\SecurityCamera\CharacterAssets\skeleton.nif
+  TwistVariablePrefix: ''

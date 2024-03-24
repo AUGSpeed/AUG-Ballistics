@@ -1,0 +1,25 @@
+FormKey: 00BF5D:Starfield.esm
+EditorID: abWellnessFortifyHealth01
+ODTY: 0
+Name:
+  TargetLanguage: English
+  Value: Wellness
+EquipmentType: 013F44:Starfield.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Type:
+- Ability
+Effects:
+- BaseEffect: 04A0D2:Starfield.esm
+  Data:
+    Magnitude: 0.1
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    Unknown1: 0x010812
+    Data:
+      MutagenObjectType: GetPerkRankConditionData
+      FirstParameter: 2CE2E1:Starfield.esm
+    ComparisonValue: 1
+  EFIF: 1
+  MUID: 1

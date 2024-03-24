@@ -1,0 +1,32 @@
+MutagenObjectType: ArmorModification
+FormKey: 03AF7D:Starfield.esm
+EditorID: mod_Armor_Spacesuit_Quality_05
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+AttachPoint: 11E2C1:Starfield.esm
+Properties:
+- MutagenObjectType: ObjectModFloatProperty<Armor+Property>
+  Property: Value
+  Value: 0.75
+  FunctionType: MultAndAdd
+- MutagenObjectType: ObjectModIntProperty<Armor+Property>
+  Property: Rating
+  Value: 64
+  FunctionType: Add
+- MutagenObjectType: ObjectModFormLinkIntProperty<Armor+Property>
+  Property: Keyword
+  Record: 03EFA1:Starfield.esm
+  FunctionType: Add
+- MutagenObjectType: ObjectModFormLinkFloatProperty<Armor+Property>
+  Property: DamageResistance
+  Record: 023190:Starfield.esm
+  Value: 64
+  FunctionType: Add
+- MutagenObjectType: ObjectModFormLinkFloatProperty<Armor+Property>
+  Property: DamageResistance
+  Record: 060A81:Starfield.esm
+  Value: 64
+  FunctionType: Add

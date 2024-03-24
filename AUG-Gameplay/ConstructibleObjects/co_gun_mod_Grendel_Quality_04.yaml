@@ -1,0 +1,19 @@
+FormKey: 000804:AUG-Gameplay.esm
+EditorID: co_gun_mod_Grendel_Quality_04
+Description:
+  TargetLanguage: English
+  Value: Reflex sights for quicker target acquisition and visibility.
+WorkbenchKeyword: 2CE1C0:Starfield.esm
+ConstructableComponents:
+- Component: 0057D6:Starfield.esm
+  Count: 1
+- Component: 0057D7:Starfield.esm
+  Count: 1
+- Component: 077828:Starfield.esm
+  Count: 1
+CreatedObject: 062896:Starfield.esm
+AmountProduced: 1
+LearnMethod: DefaultOrConditions
+Categories:
+- 000800:AUG-Gameplay.esm
+RECF: 0

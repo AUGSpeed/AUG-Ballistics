@@ -1,0 +1,14 @@
+MutagenObjectType: WeaponModification
+FormKey: 1BDC26:Starfield.esm
+EditorID: mod_Orion_Quality_02
+Name:
+  TargetLanguage: English
+  Value: Calibrated
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+AttachPoint: 000805:AUG-Gameplay.esm
+Includes:
+- Mod: 00080E:AUG-Gameplay.esm

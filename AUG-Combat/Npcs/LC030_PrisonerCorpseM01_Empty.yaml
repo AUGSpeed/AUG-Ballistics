@@ -1,0 +1,47 @@
+FormKey: 124198:Starfield.esm
+EditorID: LC030_PrisonerCorpseM01_Empty
+ObjectBounds:
+  First: -0.31000048, -0.31000048, -4.7683716E-07
+  Second: 0.31000048, 0.31000048, 1.8000004
+ODTY: 0
+Flags:
+- 0x2000000
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 20
+DispositionBase: 35
+DefaultTemplate: 2B2122:Starfield.esm
+Race: 034FB1:Starfield.esm
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D4:Starfield.esm
+- ActorValue: 0002D5:Starfield.esm
+  Value: 50
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0002CC:Starfield.esm
+  Value: 15
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Class: 010B2F:Starfield.esm
+Name:
+  TargetLanguage: English
+  Value: Prisoner
+GearedUpWeapons: 1
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight: {}
+DefaultOutfit: 133D7C:Starfield.esm
+SpaceOutfit: 3CD6CD:Starfield.esm
+Tints: []
+SkinToneIndex: 0
+Pronoun: Unspecified

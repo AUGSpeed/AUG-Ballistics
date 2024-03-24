@@ -1,0 +1,30 @@
+FormKey: 2F4429:Starfield.esm
+EditorID: ENV_AFFL_Treatment_Bandages
+VirtualMachineAdapter:
+  Scripts:
+  - Name: ENV_AfflictionTreatmentEffectScript
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: SQ_ENV
+      Object: 248D20:Starfield.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: TreatmentEffectKeyword
+      Object: 2F442D:Starfield.esm
+Name:
+  TargetLanguage: English
+  Value: Bandages
+Keywords:
+- 2F442D:Starfield.esm
+ActorValue2: 2E8154:Starfield.esm
+Archetype:
+  MutagenObjectType: MagicEffectArchetype
+UnkownInt2: 1
+CastType: FireAndForget
+Flags:
+- Hostile
+- NoDuration
+- Painless
+Unknown: 0x000000000000FFFFFFFF000000000000000000000000
+Description:
+  TargetLanguage: English
+  Value: ''

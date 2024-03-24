@@ -1,0 +1,34 @@
+FormKey: 278720:Starfield.esm
+EditorID: LCharVaruun
+ODTY: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+- 0x40
+Entries:
+- Level: 1
+  Reference: 27871E:Starfield.esm
+  Count: 1
+- Level: 20
+  Reference: 27871D:Starfield.esm
+  Count: 1
+- Level: 28
+  Reference: 27871C:Starfield.esm
+  Count: 1
+- Level: 36
+  Reference: 27871B:Starfield.esm
+  Count: 1
+- Level: 46
+  Reference: 11DDC5:Starfield.esm
+  Count: 1
+- Level: 60
+  Reference: 11DDC4:Starfield.esm
+  Count: 1
+- Level: 72
+  Reference: 11DDC3:Starfield.esm
+  Count: 1
+- Level: 84
+  Reference: 11DDC2:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

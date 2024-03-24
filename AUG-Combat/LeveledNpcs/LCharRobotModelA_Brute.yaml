@@ -1,0 +1,41 @@
+FormKey: 2EC54E:Starfield.esm
+EditorID: LCharRobotModelA_Brute
+ODTY: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+- 0x40
+Entries:
+- Level: 1
+  Reference: 2EC4F6:Starfield.esm
+  Count: 1
+- Level: 12
+  Reference: 2EC4F7:Starfield.esm
+  Count: 1
+- Level: 20
+  Reference: 2EC515:Starfield.esm
+  Count: 1
+- Level: 28
+  Reference: 2EC546:Starfield.esm
+  Count: 1
+- Level: 36
+  Reference: 2EC547:Starfield.esm
+  Count: 1
+- Level: 46
+  Reference: 2EC548:Starfield.esm
+  Count: 1
+- Level: 56
+  Reference: 2EC549:Starfield.esm
+  Count: 1
+- Level: 68
+  Reference: 2EC54A:Starfield.esm
+  Count: 1
+- Level: 80
+  Reference: 2EC54B:Starfield.esm
+  Count: 1
+- Level: 92
+  Reference: 2EC54D:Starfield.esm
+  Count: 1
+Model:
+  File: Actors\ModelA\CharacterAssets\Skeleton.nif
+  FLLD: 0x01000000

@@ -1,0 +1,152 @@
+FormKey: 261646:Starfield.esm
+EditorID: QuadrupedCBodyPartData
+Model:
+  File: Actors\quadrupedc\CharacterAssets\skeleton_ref.nif
+  FLLD: 0x01000000
+Parts:
+- Name:
+    TargetLanguage: English
+    Value: COM
+  PartNode: COM
+  VatsTarget: COM
+  DamageMult: 1
+  Type: COM
+  HealthPercent: 0.0196078431372549
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Head
+  PartNode: C_Head1
+  VatsTarget: C_Head1
+  DamageMult: 2.5
+  Flags:
+  - HitReaction
+  Type: Head1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038A:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE meshes\Actors\QuadrupedC\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: C_Neck1
+  HitReactionEnd: C_Head1
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Torso
+  PartNode: C_Spine
+  VatsTarget: C_Spine3
+  DamageMult: 1
+  Flags:
+  - HitReaction
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038F:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE meshes\Actors\QuadrupedC\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: C_Spine
+  HitReactionEnd: C_Spine5
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Left Foot
+  PartNode: L_Foot
+  VatsTarget: L_Foot
+  DamageMult: 0.5
+  Type: LeftFoot
+  HealthPercent: 0.0196078431372549
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE meshes\Actors\QuadrupedC\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: FrontLeftLeg
+  PartNode: L_FrontHip
+  VatsTarget: L_Thigh
+  DamageMult: 0.75
+  Type: LeftLeg1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038D:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE meshes\Actors\QuadrupedC\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE meshes\Actors\QuadrupedC\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE meshes\Actors\QuadrupedC\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: RearLeftLeg
+  PartNode: L_Hip
+  VatsTarget: L_BackFemur
+  DamageMult: 0.75
+  Type: LeftLeg2
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038D:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE meshes\Actors\QuadrupedC\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE meshes\Actors\QuadrupedC\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE meshes\Actors\QuadrupedC\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: QuadrupedCRoot
+  PartNode: Root
+  VatsTarget: Root
+  Type: Root
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE meshes\Actors\QuadrupedC\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Right Foot
+  PartNode: R_Ankle
+  VatsTarget: R_Ankle
+  DamageMult: 0.5
+  Type: RightFoot
+  HealthPercent: 0.0196078431372549
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE meshes\Actors\QuadrupedC\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: FrontRightLeg
+  PartNode: R_FrontHip
+  VatsTarget: R_Thigh
+  DamageMult: 0.75
+  Type: RightLeg1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038E:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE meshes\Actors\QuadrupedC\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE meshes\Actors\QuadrupedC\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE meshes\Actors\QuadrupedC\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: RearRightLeg
+  PartNode: R_Hip
+  VatsTarget: R_BackTibia
+  DamageMult: 0.75
+  Type: RightLeg2
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038E:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE meshes\Actors\QuadrupedC\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE meshes\Actors\QuadrupedC\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE meshes\Actors\QuadrupedC\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''

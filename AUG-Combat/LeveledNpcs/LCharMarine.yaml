@@ -1,0 +1,33 @@
+FormKey: 056F06:Starfield.esm
+EditorID: LCharMarine
+ODTY: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- 0x40
+Entries:
+- Level: 1
+  Reference: 04BBFD:Starfield.esm
+  Count: 1
+- Level: 10
+  Reference: 066AD6:Starfield.esm
+  Count: 1
+- Level: 16
+  Reference: 066AD7:Starfield.esm
+  Count: 1
+- Level: 24
+  Reference: 066AD8:Starfield.esm
+  Count: 1
+- Level: 32
+  Reference: 126C7C:Starfield.esm
+  Count: 1
+- Level: 40
+  Reference: 126C7B:Starfield.esm
+  Count: 1
+- Level: 50
+  Reference: 126C7A:Starfield.esm
+  Count: 1
+- Level: 62
+  Reference: 126C79:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

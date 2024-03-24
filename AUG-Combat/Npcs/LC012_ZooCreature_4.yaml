@@ -1,0 +1,128 @@
+FormKey: 14098B:Starfield.esm
+EditorID: LC012_ZooCreature_4
+ObjectBounds:
+  First: -0.5944106, -0.36390474, 0
+  Second: 0.59441036, 1.038747, 1.242769
+ODTY: 0
+XpValueOffset: 5
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+UseTemplateActors: 23374
+DeathItem: 077833:Starfield.esm
+DefaultTemplate: 2AD4E3:Starfield.esm
+LegendaryChance: 14AFD4:Starfield.esm
+TemplateActors:
+  StatsTemplate: 2AD4E3:Starfield.esm
+  FactionsTemplate: 2AD4E3:Starfield.esm
+  SpellListTemplate: 2AD4E3:Starfield.esm
+  ModelOrAnimationTemplate: 2AD4E3:Starfield.esm
+  InventoryTemplate: 2AD4E3:Starfield.esm
+  ScriptTemplate: 2AD4E3:Starfield.esm
+  AttackDataTemplate: 2AD4E3:Starfield.esm
+  KeywordsTemplate: 2AD4E3:Starfield.esm
+  Unknown2: 2AD4E3:Starfield.esm
+Race: 1BB965:Starfield.esm
+ActorEffect:
+- 0EE919:Starfield.esm
+Skin: 015B19:Starfield.esm
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D4:Starfield.esm
+  Value: 50
+- ActorValue: 0002D5:Starfield.esm
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0002E3:Starfield.esm
+  Value: 50
+- ActorValue: 22A2B6:Starfield.esm
+  Value: 1
+- ActorValue: 2102C3:Starfield.esm
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 1C97E4:Starfield.esm
+Keywords:
+- 2AD3EC:Starfield.esm
+- 1E667F:Starfield.esm
+- 182D74:Starfield.esm
+- 1CB78D:Starfield.esm
+AttachParentSlots:
+- 2AD3E6:Starfield.esm
+- 2AD3E7:Starfield.esm
+- 25614F:Starfield.esm
+- 20AA19:Starfield.esm
+- 20AA16:Starfield.esm
+- 20AA15:Starfield.esm
+- 20AA14:Starfield.esm
+- 2AD3E8:Starfield.esm
+- 20AA17:Starfield.esm
+- 2AD3E9:Starfield.esm
+- 20AA1A:Starfield.esm
+- 23AF14:Starfield.esm
+- 23AF12:Starfield.esm
+- 20AA13:Starfield.esm
+- 2AD3EB:Starfield.esm
+- 20AA18:Starfield.esm
+- 2AD3EA:Starfield.esm
+- 1D9CF8:Starfield.esm
+- 1C5212:Starfield.esm
+- 155704:Starfield.esm
+- 155703:Starfield.esm
+ObjectTemplates:
+- Default: True
+  Includes:
+  - Mod: 24F4DE:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 23C6F2:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 23AEF8:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 23AEFB:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 200ABC:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 158750:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 187128:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 1D5AB8:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 297E38:Starfield.esm
+    Optional: True
+    DontUseAll: True
+Class: 1CD0A9:Starfield.esm
+Name:
+  TargetLanguage: English
+  Value: Exotic Creature
+GearedUpWeapons: 1
+NAM5: 0xFF00
+HeightMin: 0.8
+HeightMax: 1.2
+Weight:
+  Thin: 0.3333
+  Muscular: 0.3333
+  Fat: 0.3333
+InheritsSoundsFrom: 3CD8A3:Starfield.esm
+DefaultPackageList: 26F68A:Starfield.esm
+Tints: []
+SkinToneIndex: 0
+Pronoun: Unspecified

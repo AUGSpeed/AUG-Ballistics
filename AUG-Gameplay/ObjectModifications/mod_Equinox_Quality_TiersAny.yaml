@@ -1,0 +1,30 @@
+MutagenObjectType: WeaponModification
+FormKey: 12E3C9:Starfield.esm
+MajorRecordFlagsRaw: 128
+EditorID: mod_Equinox_Quality_TiersAny
+StarfieldMajorRecordFlags:
+- 0x80
+Name:
+  TargetLanguage: English
+  Value: Quality Tiers Any
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+Includes:
+- Mod: 12E10E:Starfield.esm
+  MinimumLevel: 24
+  DoNotUseAll: True
+- Mod: 12E10D:Starfield.esm
+  MinimumLevel: 14
+  DoNotUseAll: True
+- Mod: 12E04A:Starfield.esm
+  DoNotUseAll: True
+MajorFlags:
+- 0x80
+Properties:
+- MutagenObjectType: ObjectModFormLinkIntProperty<Weapon+Property>
+  Property: Keyword
+  Record: 374EFA:Starfield.esm
+  FunctionType: Add

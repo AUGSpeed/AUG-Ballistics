@@ -1,0 +1,85 @@
+FormKey: 15E245:Starfield.esm
+EditorID: LvlStarborn_Boss_Aggro
+VirtualMachineAdapter:
+  Scripts:
+  - Name: ForceLegendaryActorScript
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: LegendaryAliasQuest
+      Object: 0308F5:Starfield.esm
+ObjectBounds:
+  First: -0.31000048, -0.31000048, -4.7683716E-07
+  Second: 0.31000048, 0.31000048, 1.8000004
+ODTY: 0
+Flags:
+- Female
+- Respawn
+XpValueOffset: 60
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 30
+DispositionBase: 35
+UseTemplateActors: 15551
+DeathItem: 27025F:Starfield.esm
+Voice: 018ED9:Starfield.esm
+DefaultTemplate: 27025D:Starfield.esm
+LegendaryChance: 06AAC8:Starfield.esm
+TemplateActors:
+  AiDataTemplate: 27025D:Starfield.esm
+  Unknown1: 27025D:Starfield.esm
+Race: 00347D:Starfield.esm
+CombatOverridePackageList: 0102ED:Starfield.esm
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+  Value: 5
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+  Value: 5
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+  Value: 5
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D4:Starfield.esm
+  Value: 300
+- ActorValue: 0002D5:Starfield.esm
+  Value: 50
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0002CC:Starfield.esm
+  Value: 5
+- ActorValue: 0002CD:Starfield.esm
+  Value: 45
+- ActorValue: 000385:Starfield.esm
+  Value: 100
+ForcedLocations:
+- 003956:Starfield.esm
+Items:
+- Item:
+    Item: 15E244:Starfield.esm
+    Count: 1
+Aggression: VeryAggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Keywords:
+- 12FF24:Starfield.esm
+Class: 010B2F:Starfield.esm
+CalculatedHealth: 20
+GearedUpWeapons: 1
+Unused: 43
+CombatStyle: 334536:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight: {}
+SpaceOutfit: 27025C:Starfield.esm
+DefaultPackageList: 2C55CA:Starfield.esm
+Tints: []
+MorphBlends:
+- BlendName: female_eu_md2_Neck
+  Intensity: 0.1
+SkinToneIndex: 0
+Pronoun: Unspecified
+ONA2: 0xEF000000FF0000803F0000803F0000803E00003442000000000AD7233CF40100000000803E000000000000803E00000041000040410AD7233CD5230200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000010000803FE1FAC7420000C8420000803F000000000000803F0000803F

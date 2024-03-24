@@ -1,0 +1,41 @@
+FormKey: 3EC046:Starfield.esm
+EditorID: LChar_CCT_Tough_Creature
+ODTY: 0
+Flags:
+- 0x40
+Entries:
+- Level: 1
+  Reference: 0DB05C:Starfield.esm
+  Count: 1
+- Level: 6
+  Reference: 0DB136:Starfield.esm
+  Count: 1
+- Level: 10
+  Reference: 1D446B:Starfield.esm
+  Count: 1
+- Level: 14
+  Reference: 2DEB3D:Starfield.esm
+  Count: 1
+- Level: 19
+  Reference: 3B6AB9:Starfield.esm
+  Count: 1
+- Level: 24
+  Reference: 3B6B40:Starfield.esm
+  Count: 1
+- Level: 30
+  Reference: 3B6BCB:Starfield.esm
+  Count: 1
+- Level: 36
+  Reference: 3B6BCC:Starfield.esm
+  Count: 1
+- Level: 44
+  Reference: 3B6BCD:Starfield.esm
+  Count: 1
+- Level: 58
+  Reference: 3B6BCE:Starfield.esm
+  Count: 1
+- Level: 72
+  Reference: 3B6BCF:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

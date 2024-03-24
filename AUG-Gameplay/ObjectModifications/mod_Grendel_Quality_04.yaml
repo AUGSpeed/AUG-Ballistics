@@ -1,0 +1,16 @@
+MutagenObjectType: WeaponModification
+FormKey: 062896:Starfield.esm
+EditorID: mod_Grendel_Quality_04
+Name:
+  TargetLanguage: English
+  Value: Advanced
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+AttachPoint: 000805:AUG-Gameplay.esm
+Includes:
+- Mod: 000810:AUG-Gameplay.esm
+TargetOmodKeywords:
+- 05164B:Starfield.esm

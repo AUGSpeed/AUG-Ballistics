@@ -1,0 +1,79 @@
+FormKey: 1011EB:Starfield.esm
+EditorID: LvlMarine_SysDef_Sniper_BECrew_Security
+ObjectBounds:
+  First: -0.591797, -0.3623047, 0
+  Second: 0.59179676, 1.0341797, 1.2373047
+ODTY: 0
+Flags:
+- Respawn
+- AutoCalcStats
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 5
+DispositionBase: 35
+UseTemplateActors: 32447
+DeathItem: 031951:Starfield.esm
+Voice: 26FDB9:Starfield.esm
+DefaultTemplate: 2733A8:Starfield.esm
+TemplateActors:
+  TraitTemplate: 2733A8:Starfield.esm
+  StatsTemplate: 2733A8:Starfield.esm
+  FactionsTemplate: 2733A8:Starfield.esm
+  SpellListTemplate: 2733A8:Starfield.esm
+  AiDataTemplate: 2733A8:Starfield.esm
+  AiPackagesTemplate: 2733A8:Starfield.esm
+  BaseDataTemplate: 2733A8:Starfield.esm
+  ScriptTemplate: 2733A8:Starfield.esm
+  DefPackListTemplate: 2733A8:Starfield.esm
+  AttackDataTemplate: 2733A8:Starfield.esm
+  KeywordsTemplate: 2733A8:Starfield.esm
+  Unknown1: 2733A8:Starfield.esm
+  Unknown2: 2733A8:Starfield.esm
+Race: 00347D:Starfield.esm
+AttackRace: 00347D:Starfield.esm
+CombatOverridePackageList: 0102ED:Starfield.esm
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+  Value: 5
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+  Value: 5
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+  Value: 5
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D4:Starfield.esm
+  Value: 85
+- ActorValue: 0002D5:Starfield.esm
+  Value: 50
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0002CC:Starfield.esm
+  Value: 15
+- ActorValue: 0002CD:Starfield.esm
+  Value: 15
+Items:
+- Item:
+    Item: 29B9CE:Starfield.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Class: 010B2F:Starfield.esm
+CalculatedHealth: 185
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+Unused: 43
+CombatStyle: 056F11:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight: {}
+SpaceOutfit: 2733B0:Starfield.esm
+DefaultPackageList: 2C55CA:Starfield.esm
+Tints: []
+SkinToneIndex: 0
+Pronoun: Unspecified

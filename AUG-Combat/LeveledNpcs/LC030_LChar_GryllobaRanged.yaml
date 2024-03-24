@@ -1,0 +1,33 @@
+FormKey: 08D0D7:Starfield.esm
+EditorID: LC030_LChar_GryllobaRanged
+ODTY: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- 0x40
+Entries:
+- Level: 1
+  Reference: 08D0D5:Starfield.esm
+  Count: 1
+- Level: 10
+  Reference: 08D0D4:Starfield.esm
+  Count: 1
+- Level: 20
+  Reference: 08D0D3:Starfield.esm
+  Count: 1
+- Level: 25
+  Reference: 08D0D2:Starfield.esm
+  Count: 1
+- Level: 35
+  Reference: 32DB1C:Starfield.esm
+  Count: 1
+- Level: 55
+  Reference: 32DB1D:Starfield.esm
+  Count: 1
+- Level: 70
+  Reference: 32DB1E:Starfield.esm
+  Count: 1
+- Level: 100
+  Reference: 32DB1F:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

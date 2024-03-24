@@ -1,0 +1,89 @@
+FormKey: 2B2293:Starfield.esm
+EditorID: LvlTerrormorph
+ObjectBounds:
+  First: -1.0963905, -1.8038719, -4.7211023E-07
+  Second: 1.0963905, 1.2088753, 2.195177
+ODTY: 0
+XpValueOffset: 95
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+UseTemplateActors: 32766
+DeathItem: 1B5D9E:Starfield.esm
+DefaultTemplate: 2B2290:Starfield.esm
+LegendaryTemplate: 2B2290:Starfield.esm
+TemplateActors:
+  StatsTemplate: 2B2290:Starfield.esm
+  FactionsTemplate: 2B2290:Starfield.esm
+  SpellListTemplate: 2B2290:Starfield.esm
+  AiDataTemplate: 2B2290:Starfield.esm
+  AiPackagesTemplate: 2B2290:Starfield.esm
+  ModelOrAnimationTemplate: 2B2290:Starfield.esm
+  BaseDataTemplate: 2B2290:Starfield.esm
+  InventoryTemplate: 2B2290:Starfield.esm
+  ScriptTemplate: 2B2290:Starfield.esm
+  DefPackListTemplate: 2B2290:Starfield.esm
+  AttackDataTemplate: 2B2290:Starfield.esm
+  KeywordsTemplate: 2B2290:Starfield.esm
+  Unknown1: 2B2290:Starfield.esm
+  Unknown2: 2B2290:Starfield.esm
+Race: 21A8D7:Starfield.esm
+Skin: 21E734:Starfield.esm
+CombatOverridePackageList: 0102ED:Starfield.esm
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D4:Starfield.esm
+  Value: 1930
+- ActorValue: 0002D5:Starfield.esm
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0002E3:Starfield.esm
+  Value: 254
+- ActorValue: 2102C3:Starfield.esm
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+UnknownAIDT: 1
+RDSAs:
+- UnknownInt: 1
+  UnknownInt2: 3
+  UnknownLink1: 1B2BBD:Starfield.esm
+  UnknownInt3: 49408
+  UnknownFloat1: 1
+  UnknownFloat2: 50
+  UnknownFloat3: 100
+  UnknownFloat5: 1
+  UnknownFloat6: 1
+- UnknownInt: 2
+  UnknownInt2: 3
+  UnknownInt3: 32768
+  UnknownFloat2: 30
+  UnknownFloat3: 100
+  UnknownFloat5: 2
+  UnknownFloat6: 1
+Keywords:
+- 2CC9F2:Starfield.esm
+Class: 010B2F:Starfield.esm
+GearedUpWeapons: 1
+CombatStyle: 2B2292:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 0.9
+HeightMax: 0.9
+Weight:
+  Thin: 0.3333
+  Muscular: 0.3333
+  Fat: 0.3333
+InheritsSoundsFrom: 3ADB2E:Starfield.esm
+DefaultPackageList: 26F68A:Starfield.esm
+Tints: []
+SkinToneIndex: 0
+Pronoun: Unspecified
+ONA2: 0xFF000000020000803F0000803F0000803E000034420000000000000000897E2000188910400040000000000000000000020000000000000000CDCCCC3D00000041000040410AD7233CD71A0C000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000

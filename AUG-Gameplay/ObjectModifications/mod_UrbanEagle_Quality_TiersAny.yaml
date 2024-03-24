@@ -1,0 +1,33 @@
+MutagenObjectType: WeaponModification
+FormKey: 1BDC38:Starfield.esm
+MajorRecordFlagsRaw: 128
+EditorID: mod_UrbanEagle_Quality_TiersAny
+StarfieldMajorRecordFlags:
+- 0x80
+Name:
+  TargetLanguage: English
+  Value: Quality Tiers Any
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+Includes:
+- Mod: 1BDC34:Starfield.esm
+  DoNotUseAll: True
+- Mod: 1BDC35:Starfield.esm
+  MinimumLevel: 26
+  DoNotUseAll: True
+- Mod: 1BDC36:Starfield.esm
+  MinimumLevel: 36
+  DoNotUseAll: True
+- Mod: 1BDC37:Starfield.esm
+  MinimumLevel: 46
+  DoNotUseAll: True
+MajorFlags:
+- 0x80
+Properties:
+- MutagenObjectType: ObjectModFormLinkIntProperty<Weapon+Property>
+  Property: Keyword
+  Record: 374EFA:Starfield.esm
+  FunctionType: Add

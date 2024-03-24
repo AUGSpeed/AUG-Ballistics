@@ -1,0 +1,91 @@
+FormKey: 227704:Starfield.esm
+EditorID: MiniBotABodyPartData
+Model:
+  File: Actors\minibota\CharacterAssets\skeleton_ref.nif
+  FLLD: 0x01000000
+Parts:
+- Name:
+    TargetLanguage: English
+    Value: COM
+  PartNode: COM
+  VatsTarget: COM
+  DamageMult: 1
+  Type: COM
+  HealthPercent: 0.09803921568627451
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\minibota\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\minibota\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\minibota\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Arm
+  PartNode: C_Arm1
+  VatsTarget: C_Arm1
+  DamageMult: 0.65
+  Type: LeftArm1
+  HealthPercent: 0.09803921568627451
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\minibota\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\minibota\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\minibota\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Base
+  PartNode: C_Base
+  VatsTarget: C_Base
+  DamageMult: 0.5
+  Flags:
+  - HitReaction
+  Type: LeftLeg1
+  HealthPercent: 0.0196078431372549
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\minibota\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: C_Base
+  HitReactionEnd: C_Axle
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Torso
+  PartNode: C_Body
+  VatsTarget: C_Body
+  DamageMult: 0.85
+  HealthPercent: 0.09803921568627451
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\minibota\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\minibota\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\minibota\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Head
+  PartNode: C_Chassis
+  VatsTarget: C_Chassis
+  DamageMult: 1.1
+  Type: Head1
+  HealthPercent: 0.0196078431372549
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\minibota\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\minibota\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\minibota\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: MiniBotARoot
+  PartNode: Root
+  VatsTarget: Root
+  DamageMult: 1
+  Type: Root
+  HealthPercent: 0.09803921568627451
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\minibota\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\minibota\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\minibota\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''

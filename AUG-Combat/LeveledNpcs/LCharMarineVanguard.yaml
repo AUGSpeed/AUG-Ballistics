@@ -1,0 +1,33 @@
+FormKey: 09653D:Starfield.esm
+EditorID: LCharMarineVanguard
+ODTY: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- 0x40
+Entries:
+- Level: 1
+  Reference: 096545:Starfield.esm
+  Count: 1
+- Level: 12
+  Reference: 096544:Starfield.esm
+  Count: 1
+- Level: 18
+  Reference: 096543:Starfield.esm
+  Count: 1
+- Level: 26
+  Reference: 096542:Starfield.esm
+  Count: 1
+- Level: 34
+  Reference: 096541:Starfield.esm
+  Count: 1
+- Level: 42
+  Reference: 096540:Starfield.esm
+  Count: 1
+- Level: 52
+  Reference: 09653F:Starfield.esm
+  Count: 1
+- Level: 64
+  Reference: 09653E:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

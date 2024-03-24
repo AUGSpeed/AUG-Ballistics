@@ -1,0 +1,33 @@
+MutagenObjectType: WeaponModification
+FormKey: 12FD54:Starfield.esm
+MajorRecordFlagsRaw: 128
+EditorID: mod_MagPulse_Quality_TiersAny
+StarfieldMajorRecordFlags:
+- 0x80
+Name:
+  TargetLanguage: English
+  Value: Quality Tiers Any
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+Includes:
+- Mod: 12FD50:Starfield.esm
+  DoNotUseAll: True
+- Mod: 12FD51:Starfield.esm
+  MinimumLevel: 34
+  DoNotUseAll: True
+- Mod: 12FD52:Starfield.esm
+  MinimumLevel: 44
+  DoNotUseAll: True
+- Mod: 12FD53:Starfield.esm
+  MinimumLevel: 54
+  DoNotUseAll: True
+MajorFlags:
+- 0x80
+Properties:
+- MutagenObjectType: ObjectModFormLinkIntProperty<Weapon+Property>
+  Property: Keyword
+  Record: 374EFA:Starfield.esm
+  FunctionType: Add

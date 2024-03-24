@@ -1,0 +1,33 @@
+FormKey: 18711F:Starfield.esm
+EditorID: LC030_LChar_Cotylite
+ODTY: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- 0x40
+Entries:
+- Level: 1
+  Reference: 187125:Starfield.esm
+  Count: 1
+- Level: 10
+  Reference: 187124:Starfield.esm
+  Count: 1
+- Level: 20
+  Reference: 187123:Starfield.esm
+  Count: 1
+- Level: 25
+  Reference: 187122:Starfield.esm
+  Count: 1
+- Level: 35
+  Reference: 32CAA0:Starfield.esm
+  Count: 1
+- Level: 55
+  Reference: 32DB0E:Starfield.esm
+  Count: 1
+- Level: 70
+  Reference: 32DB0F:Starfield.esm
+  Count: 1
+- Level: 100
+  Reference: 32DB10:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

@@ -1,0 +1,74 @@
+FormKey: 1C43E4:Starfield.esm
+EditorID: LvlRobotModelA_Industrial_Aggro
+ObjectBounds:
+  First: -0.45000046, -0.47801596, -4.7683716E-07
+  Second: 0.45000046, 0.42198497, 1.738061
+ODTY: 0
+Components:
+- MutagenObjectType: SoundTagComponent
+  AnimationSound: 1A41AC:Starfield.esm
+Flags:
+- Respawn
+- 0x100
+XpValueOffset: 15
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+UseTemplateActors: 24495
+DeathItem: 1312B5:Starfield.esm
+Voice: 2BCA57:Starfield.esm
+DefaultTemplate: 1304A6:Starfield.esm
+TemplateActors:
+  TraitTemplate: 1304A6:Starfield.esm
+  StatsTemplate: 1304A6:Starfield.esm
+  FactionsTemplate: 1304A6:Starfield.esm
+  SpellListTemplate: 1304A6:Starfield.esm
+  AiPackagesTemplate: 1304A6:Starfield.esm
+  BaseDataTemplate: 1304A6:Starfield.esm
+  InventoryTemplate: 1304A6:Starfield.esm
+  ScriptTemplate: 1304A6:Starfield.esm
+  DefPackListTemplate: 1304A6:Starfield.esm
+  AttackDataTemplate: 1304A6:Starfield.esm
+  KeywordsTemplate: 1304A6:Starfield.esm
+  Unknown2: 1304A6:Starfield.esm
+Race: 005629:Starfield.esm
+Skin: 319B47:Starfield.esm
+CombatOverridePackageList: 0102ED:Starfield.esm
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D4:Starfield.esm
+  Value: 250
+- ActorValue: 0002D5:Starfield.esm
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0002E3:Starfield.esm
+  Value: 130
+NativeTerminal: 1AE420:Starfield.esm
+Aggression: VeryAggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Class: 010B2F:Starfield.esm
+GearedUpWeapons: 1
+CombatStyle: 2AB1CB:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight: {}
+Sounds:
+- Sound:
+    Start: a19045db-087e-016a-72c2-7c7a0da0908e
+    Stop: 59c24233-40e6-2319-eb9f-7381f8ae7f86
+  CS3F: 0x01
+DefaultPackageList: 26F689:Starfield.esm
+Tints: []
+SkinToneIndex: 0
+Pronoun: Unspecified

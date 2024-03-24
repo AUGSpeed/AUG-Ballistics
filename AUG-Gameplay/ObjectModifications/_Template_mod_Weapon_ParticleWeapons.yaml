@@ -1,0 +1,34 @@
+MutagenObjectType: WeaponModification
+FormKey: 07E95D:Starfield.esm
+MajorRecordFlagsRaw: 256
+EditorID: _Template_mod_Weapon_ParticleWeapons
+FormVersion: 558
+StarfieldMajorRecordFlags:
+- 0x100
+Name:
+  TargetLanguage: English
+  Value: Template Particle Weapons
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+MajorFlags:
+- 0x100
+Properties:
+- MutagenObjectType: ObjectModFloatProperty<Weapon+Property>
+  Property: CriticalChanceIncMultiplier
+  Value: 2
+  FunctionType: MultAndAdd
+- MutagenObjectType: ObjectModIntProperty<Weapon+Property>
+  Property: ModCount
+  Value: 4294967295
+  FunctionType: Add
+- MutagenObjectType: ObjectModFormLinkIntProperty<Weapon+Property>
+  Property: Enchantment
+  Record: 07E95C:Starfield.esm
+  FunctionType: Add
+- MutagenObjectType: ObjectModFormLinkIntProperty<Weapon+Property>
+  Property: Keyword
+  Record: 374EFA:Starfield.esm
+  FunctionType: Add

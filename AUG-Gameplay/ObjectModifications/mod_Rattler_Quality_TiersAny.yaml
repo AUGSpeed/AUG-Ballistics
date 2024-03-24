@@ -1,0 +1,33 @@
+MutagenObjectType: WeaponModification
+FormKey: 28FC36:Starfield.esm
+MajorRecordFlagsRaw: 128
+EditorID: mod_Rattler_Quality_TiersAny
+StarfieldMajorRecordFlags:
+- 0x80
+Name:
+  TargetLanguage: English
+  Value: Quality Tiers Any
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+Includes:
+- Mod: 28FC33:Starfield.esm
+  DoNotUseAll: True
+- Mod: 28FC34:Starfield.esm
+  MinimumLevel: 7
+  DoNotUseAll: True
+- Mod: 28FC37:Starfield.esm
+  MinimumLevel: 17
+  DoNotUseAll: True
+- Mod: 000811:AUG-Gameplay.esm
+  MinimumLevel: 27
+  DoNotUseAll: True
+MajorFlags:
+- 0x80
+Properties:
+- MutagenObjectType: ObjectModFormLinkIntProperty<Weapon+Property>
+  Property: Keyword
+  Record: 374EFA:Starfield.esm
+  FunctionType: Add

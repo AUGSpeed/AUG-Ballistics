@@ -1,0 +1,66 @@
+MutagenObjectType: WeaponModification
+FormKey: 00080E:AUG-Gameplay.esm
+MajorRecordFlagsRaw: 256
+EditorID: _Template_mod_Weapon_Quality_02
+FormVersion: 558
+StarfieldMajorRecordFlags:
+- 0x100
+Name:
+  TargetLanguage: English
+  Value: Template Weapon Quality Level 02
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+MajorFlags:
+- 0x100
+Properties:
+- MutagenObjectType: ObjectModFloatProperty<Weapon+Property>
+  Property: Value
+  Value: 0.5
+  FunctionType: MultAndAdd
+- MutagenObjectType: ObjectModFloatProperty<Weapon+Property>
+  Property: AimModelConeMinDegrees
+  Value: -0.05
+  FunctionType: MultAndAdd
+- MutagenObjectType: ObjectModFloatProperty<Weapon+Property>
+  Property: AimModelConeMaxDegrees
+  Value: -0.05
+  FunctionType: MultAndAdd
+- MutagenObjectType: ObjectModFloatProperty<Weapon+Property>
+  Property: AimModelConeIncreasePerShot
+  Value: -0.05
+  FunctionType: MultAndAdd
+- MutagenObjectType: ObjectModFloatProperty<Weapon+Property>
+  Property: AimModelConeDecreaseDelayPerSec
+  Value: -0.05
+  FunctionType: MultAndAdd
+- MutagenObjectType: ObjectModFloatProperty<Weapon+Property>
+  Property: AimModelConeIronSightsMultiplier
+  Value: -0.05
+  FunctionType: MultAndAdd
+- MutagenObjectType: ObjectModFloatProperty<Weapon+Property>
+  Property: AimModelRecoilDiminishSpringForce
+  Value: 0.1
+  FunctionType: MultAndAdd
+- MutagenObjectType: ObjectModFloatProperty<Weapon+Property>
+  Property: AimModelRecoilDiminishSightsMult
+  Value: 0.1
+  FunctionType: MultAndAdd
+- MutagenObjectType: ObjectModFloatProperty<Weapon+Property>
+  Property: AimModelRecoilMultiplierHipFire
+  Value: -0.1
+  FunctionType: MultAndAdd
+- MutagenObjectType: ObjectModFormLinkIntProperty<Weapon+Property>
+  Property: Keyword
+  Record: 06288F:Starfield.esm
+  FunctionType: Add
+- MutagenObjectType: ObjectModFloatProperty<Weapon+Property>
+  Property: AimModelBaseStability
+  Value: 0.1
+  FunctionType: MultAndAdd
+- MutagenObjectType: ObjectModFormLinkIntProperty<Weapon+Property>
+  Property: Keyword
+  Record: 374EFA:Starfield.esm
+  FunctionType: Add

@@ -1,0 +1,8 @@
+FormKey: 000805:AUG-Gameplay.esm
+EditorID: ap_gun_Quality
+Color: '#00FFFFFF'
+Type: AttachPoint
+FNAM: 0x00000000
+Name:
+  TargetLanguage: English
+  Value: Quality

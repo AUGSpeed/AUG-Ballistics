@@ -1,0 +1,41 @@
+FormKey: 1D664F:Starfield.esm
+EditorID: LCharTurretShort
+ODTY: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+- 0x40
+Entries:
+- Level: 1
+  Reference: 1EA1E4:Starfield.esm
+  Count: 1
+- Level: 12
+  Reference: 2BCFF1:Starfield.esm
+  Count: 1
+- Level: 20
+  Reference: 2BCFF2:Starfield.esm
+  Count: 1
+- Level: 28
+  Reference: 2BCFF3:Starfield.esm
+  Count: 1
+- Level: 36
+  Reference: 2BCFF4:Starfield.esm
+  Count: 1
+- Level: 46
+  Reference: 2BCFF5:Starfield.esm
+  Count: 1
+- Level: 56
+  Reference: 2BCFF6:Starfield.esm
+  Count: 1
+- Level: 68
+  Reference: 2BCFF7:Starfield.esm
+  Count: 1
+- Level: 80
+  Reference: 2BCFF9:Starfield.esm
+  Count: 1
+- Level: 92
+  Reference: 2BCFFA:Starfield.esm
+  Count: 1
+Model:
+  File: Markers\LaserTurrets\LaserTurret01_Marker.nif
+  FLLD: 0x01000000

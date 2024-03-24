@@ -1,0 +1,33 @@
+MutagenObjectType: WeaponModification
+FormKey: 131D44:Starfield.esm
+MajorRecordFlagsRaw: 128
+EditorID: mod_MagSniper_Quality_TiersAny
+StarfieldMajorRecordFlags:
+- 0x80
+Name:
+  TargetLanguage: English
+  Value: Quality Tiers Any
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+Includes:
+- Mod: 131574:Starfield.esm
+  DoNotUseAll: True
+- Mod: 131575:Starfield.esm
+  MinimumLevel: 50
+  DoNotUseAll: True
+- Mod: 131BFB:Starfield.esm
+  MinimumLevel: 60
+  DoNotUseAll: True
+- Mod: 131D43:Starfield.esm
+  MinimumLevel: 70
+  DoNotUseAll: True
+MajorFlags:
+- 0x80
+Properties:
+- MutagenObjectType: ObjectModFormLinkIntProperty<Weapon+Property>
+  Property: Keyword
+  Record: 374EFA:Starfield.esm
+  FunctionType: Add

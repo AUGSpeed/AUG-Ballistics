@@ -1,0 +1,203 @@
+FormKey: 21E736:Starfield.esm
+EditorID: TerrormorphBodyPartData
+Model:
+  File: Actors\Terrormorph\CharacterAssets\skeleton_ref.nif
+  FLLD: 0x01000000
+Parts:
+- Name:
+    TargetLanguage: English
+    Value: COM
+  PartNode: COM
+  VatsTarget: COM
+  DamageMult: 1
+  Type: COM
+  HealthPercent: 0.0196078431372549
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\Terrormorph\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\Terrormorph\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\Terrormorph\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Head
+  PartNode: C_Head
+  VatsTarget: C_Head
+  DamageMult: 1.2
+  Flags:
+  - HitReaction
+  Type: Head1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038A:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\Terrormorph\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: C_Neck3
+  HitReactionEnd: C_Head
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Torso
+  PartNode: C_Spine
+  VatsTarget: C_Chest
+  DamageMult: 0.95
+  Flags:
+  - HitReaction
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038F:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\Terrormorph\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: C_Spine
+  HitReactionEnd: C_Spine5
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: LeftArm
+  PartNode: L_Bicep
+  VatsTarget: L_Bicep
+  DamageMult: 0.4
+  Flags:
+  - HitReaction
+  Type: LeftArm1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038B:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\Terrormorph\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: L_FrontClav
+  HitReactionEnd: L_Wrist
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: LeftFoot
+  PartNode: L_Foot
+  VatsTarget: L_Foot
+  DamageMult: 0.3
+  Flags:
+  - HitReaction
+  Type: LeftFoot
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038D:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\Terrormorph\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: L_Thigh
+  HitReactionEnd: L_Foot
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: LeftSpiderLeg
+  PartNode: L_SpiderLeg2
+  VatsTarget: L_SpiderLeg2
+  DamageMult: 0.4
+  Flags:
+  - HitReaction
+  Type: LeftArm2
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038B:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\Terrormorph\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: L_SpiderLegBase
+  HitReactionEnd: L_SpiderToeBase
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: LeftLeg
+  PartNode: L_Thigh
+  VatsTarget: L_Thigh
+  DamageMult: 0.4
+  Flags:
+  - HitReaction
+  Type: LeftLeg1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038D:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\Terrormorph\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: L_BackClav
+  HitReactionEnd: L_Foot
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: TerrormorphRoot
+  PartNode: Root
+  VatsTarget: Root
+  DamageMult: 1
+  Type: Root
+  HealthPercent: 0.0196078431372549
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\Terrormorph\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\Terrormorph\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\Terrormorph\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: RightArm
+  PartNode: R_Bicep
+  VatsTarget: R_Bicep
+  DamageMult: 0.4
+  Flags:
+  - HitReaction
+  Type: RightArm1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038C:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\Terrormorph\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: R_FrontClav
+  HitReactionEnd: R_Wrist
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: RightFoot
+  PartNode: R_Foot
+  VatsTarget: R_Foot
+  DamageMult: 0.3
+  Flags:
+  - HitReaction
+  Type: RightFoot
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038E:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\Terrormorph\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: R_Thigh
+  HitReactionEnd: R_Foot
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: RightSpiderLeg
+  PartNode: R_SpiderLeg2
+  VatsTarget: R_SpiderLeg2
+  DamageMult: 0.4
+  Flags:
+  - HitReaction
+  Type: RightLeg2
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038C:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\Terrormorph\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: R_SpiderLegBase
+  HitReactionEnd: R_SpiderToeBase
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: RightLeg
+  PartNode: R_Thigh
+  VatsTarget: R_Thigh
+  DamageMult: 0.4
+  Flags:
+  - HitReaction
+  Type: RightLeg1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038E:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\Terrormorph\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: R_BackClav
+  HitReactionEnd: R_Foot
+  TwistVariablePrefix: ''

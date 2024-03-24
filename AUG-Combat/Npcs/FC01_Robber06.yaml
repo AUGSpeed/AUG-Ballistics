@@ -1,0 +1,439 @@
+FormKey: 10DD2F:Starfield.esm
+EditorID: FC01_Robber06
+ObjectBounds:
+  First: -0.31000048, -0.31000048, -4.7683716E-07
+  Second: 0.31000048, 0.31000048, 1.8000004
+ODTY: 0
+Flags:
+- Unique
+XpValueOffset: 5
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 2
+DispositionBase: 35
+UseTemplateActors: 18435
+Factions:
+- Faction: 29A8EE:Starfield.esm
+DeathItem: 00ABF8:Starfield.esm
+Voice: 00002D:Starfield.esm
+DefaultTemplate: 29B9D9:Starfield.esm
+TemplateActors:
+  TraitTemplate: 24CC1E:Starfield.esm
+  StatsTemplate: 29B9D9:Starfield.esm
+  AttackDataTemplate: 29B9D9:Starfield.esm
+  Unknown2: 29B9D9:Starfield.esm
+Race: 00347D:Starfield.esm
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+  Value: 5
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+  Value: 5
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+  Value: 5
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D5:Starfield.esm
+  Value: 50
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0002CC:Starfield.esm
+  Value: 15
+- ActorValue: 0002CD:Starfield.esm
+  Value: 45
+- ActorValue: 0002D4:Starfield.esm
+  Value: 15
+Items:
+- Item:
+    Item: 29B9D5:Starfield.esm
+    Count: 1
+Aggression: Aggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 003641:Starfield.esm
+Class: 010B2F:Starfield.esm
+Name:
+  TargetLanguage: English
+  Value: Shaw Gang
+CalculatedHealth: 20
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+HeadParts:
+- 062F07:Starfield.esm
+- 064D88:Starfield.esm
+- 15B02B:Starfield.esm
+- 160C2E:Starfield.esm
+- 24A022:Starfield.esm
+- 24A023:Starfield.esm
+- 24A03D:Starfield.esm
+- 253FA3:Starfield.esm
+- 253FA5:Starfield.esm
+- 3A2878:Starfield.esm
+- 3BE58D:Starfield.esm
+CombatStyle: 2C5620:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight:
+  Muscular: 0.17
+  Fat: 0.06
+DefaultOutfit: 261A0E:Starfield.esm
+DefaultPackageList: 2C55CA:Starfield.esm
+CrimeFaction: 29A8EE:Starfield.esm
+Tints:
+- TintType: SimpleGroup
+  TintGroup: Dermaesthetic
+  TintName: African_Male_ol1_Sk3
+  TintTexture: textures/actors/human/faces/chargen/postblenddetails/dermaesthetic/male_af_ol1_sk3_derm_color.dds
+  TintColor: '#00000000'
+  TintIntensity: 44
+- TintType: SimpleGroup
+  TintGroup: ComplexionMask1
+  TintName: Stubble_Heavy
+  TintTexture: textures/actors/human/faces/chargen/postblenddetails/stubble/heavystubble_stub_mask.dds
+  TintColor: '#3EC9182C'
+  TintIntensity: 64
+- TintType: SimpleGroup
+  TintGroup: Complexion1
+  TintName: TriColor
+  TintTexture: textures/actors/human/faces/chargen/postblenddetails/complexion/tricolor_color.dds
+  TintColor: '#00000000'
+  TintIntensity: 50
+- TintType: SimpleGroup
+  TintGroup: ComplexionMask2
+  TintName: Complexion_Patchy_2
+  TintTexture: textures/actors/human/faces/chargen/postblenddetails/complexion/complexion_wholeface_02_mask.dds
+  TintColor: '#47960418'
+  TintIntensity: 64
+- TintType: ComplexGroup
+  TintGroup: Accents1
+  TintName: Accents_RoughFace
+  TintTexture: textures/actors/human/faces/chargen/postblenddetails/accents/accents_roughface_color.dds
+  TintColor: '#00000000'
+  TintIntensity: 11
+- TintType: ComplexGroup
+  TintGroup: Accents2
+  TintName: Accents_UnderEyeCrease_Dark
+  TintTexture: textures/actors/human/faces/chargen/postblenddetails/accents/accents_undereyecrease_dark_color.dds
+  TintColor: '#00000000'
+  TintIntensity: 24
+FaceDialPositions:
+- Index: 24
+  Position: -0.12406733
+- Index: 25
+  Position: 0.2573068
+- Index: 27
+  Position: -0.13888077
+- Index: 28
+  Position: 0.29387787
+- Index: 29
+  Position: 0.450334
+- Index: 31
+  Position: -0.25497633
+- Index: 32
+  Position: -0.11681503
+- Index: 35
+  Position: -0.38
+- Index: 36
+  Position: 0.61
+- Index: 37
+  Position: -0.28
+- Index: 39
+  Position: 0.41
+- Index: 51
+  Position: 0.52
+- Index: 58
+  Position: -0.19545007
+- Index: 60
+  Position: -0.34024602
+- Index: 63
+  Position: 0.35220525
+- Index: 64
+  Position: 0.49909794
+- Index: 65
+  Position: -0.32873183
+- Index: 67
+  Position: -0.40720603
+- Index: 68
+  Position: 0.076532535
+- Index: 69
+  Position: -0.34704617
+- Index: 70
+  Position: -0.63
+- Index: 71
+  Position: 0.58
+- Index: 73
+  Position: -0.1547378
+- Index: 74
+  Position: -0.011546897
+- Index: 75
+  Position: -0.36963713
+- Index: 76
+  Position: 0.34
+- Index: 77
+  Position: 0.19
+- Index: 78
+  Position: 0.11
+- Index: 79
+  Position: 0.13689877
+- Index: 80
+  Position: 0.41
+- Index: 83
+  Position: -0.16685224
+- Index: 84
+  Position: -0.25739583
+- Index: 85
+  Position: 0.28
+- Index: 86
+  Position: -0.1889571
+- Index: 87
+  Position: -0.45
+- Index: 88
+  Position: 0.28763452
+- Index: 89
+  Position: 0.070420615
+FaceMorphs:
+- Index: 1
+  MorphGroups:
+  - MorphGroup: Cheeks
+    BlendIntensity: 0.094948225
+  - MorphGroup: Chin
+    BlendIntensity: 0.061385926
+  - MorphGroup: Ears
+    BlendIntensity: 0.12480255
+  - MorphGroup: Eyes
+    BlendIntensity: 0.07890189
+  - MorphGroup: Forehead
+    BlendIntensity: 0.15145892
+  - MorphGroup: Jaw
+    BlendIntensity: 0.15593728
+  - MorphGroup: Mouth
+    BlendIntensity: 0.025134683
+  - MorphGroup: Neck
+    BlendIntensity: 0.12018964
+  - MorphGroup: Nose
+    BlendIntensity: 0.15688981
+- Index: 9
+  MorphGroups:
+  - MorphGroup: Cheeks
+    BlendIntensity: 0.048022535
+  - MorphGroup: Chin
+    BlendIntensity: 0.1650799
+  - MorphGroup: Ears
+    BlendIntensity: 0.03834523
+  - MorphGroup: Eyes
+    BlendIntensity: 0.1429463
+  - MorphGroup: Forehead
+    BlendIntensity: 0.008776787
+  - MorphGroup: Jaw
+    BlendIntensity: 0.01578226
+  - MorphGroup: Mouth
+    BlendIntensity: 0.08590563
+  - MorphGroup: Neck
+    BlendIntensity: 0.002146357
+  - MorphGroup: Nose
+    BlendIntensity: 0.10691314
+- Index: 14
+  MorphGroups:
+  - MorphGroup: Cheeks
+    BlendIntensity: 0.09892376
+  - MorphGroup: Chin
+    BlendIntensity: 0.050815072
+  - MorphGroup: Ears
+    BlendIntensity: 0.14333859
+  - MorphGroup: Eyes
+    BlendIntensity: 0.15563524
+  - MorphGroup: Forehead
+    BlendIntensity: 0.0345041
+  - MorphGroup: Jaw
+    BlendIntensity: 0.113128774
+  - MorphGroup: Mouth
+    BlendIntensity: 0.161366
+  - MorphGroup: Neck
+    BlendIntensity: 0.14117979
+  - MorphGroup: Nose
+    BlendIntensity: 0.14058734
+- Index: 16
+  MorphGroups:
+  - MorphGroup: Cheeks
+    BlendIntensity: 0.07339154
+  - MorphGroup: Chin
+    BlendIntensity: 0.07402858
+  - MorphGroup: Ears
+    BlendIntensity: 0.026929747
+  - MorphGroup: Eyes
+    BlendIntensity: 0.108000875
+  - MorphGroup: Forehead
+    BlendIntensity: 0.010491939
+  - MorphGroup: Jaw
+    BlendIntensity: 0.12006436
+  - MorphGroup: Mouth
+    BlendIntensity: 0.10216176
+  - MorphGroup: Neck
+    BlendIntensity: 0.09159127
+  - MorphGroup: Nose
+    BlendIntensity: 0.11295919
+- Index: 40
+  MorphGroups:
+  - MorphGroup: Cheeks
+    BlendIntensity: 0.018339504
+  - MorphGroup: Chin
+    BlendIntensity: 0.1200158
+  - MorphGroup: Ears
+    BlendIntensity: 0.083292454
+  - MorphGroup: Eyes
+    BlendIntensity: 0.085363954
+  - MorphGroup: Forehead
+    BlendIntensity: 0.0038321984
+  - MorphGroup: Jaw
+    BlendIntensity: 0.017257676
+  - MorphGroup: Mouth
+    BlendIntensity: 0.14550206
+  - MorphGroup: Neck
+    BlendIntensity: 0.13395134
+  - MorphGroup: Nose
+    BlendIntensity: 0.08764347
+- Index: 42
+  MorphGroups:
+  - MorphGroup: Cheeks
+    BlendIntensity: 0.106340006
+  - MorphGroup: Chin
+    BlendIntensity: 0.054572545
+  - MorphGroup: Ears
+    BlendIntensity: 0.10595898
+  - MorphGroup: Eyes
+    BlendIntensity: 0.040523864
+  - MorphGroup: Forehead
+    BlendIntensity: 0.08806246
+  - MorphGroup: Jaw
+    BlendIntensity: 0.025216393
+  - MorphGroup: Mouth
+    BlendIntensity: 0.0498664
+  - MorphGroup: Neck
+    BlendIntensity: 0.018400077
+  - MorphGroup: Nose
+    BlendIntensity: 0.1255947
+MorphBlends:
+- BlendName: male_af_md1_Cheeks
+  Intensity: 0.16508794
+- BlendName: male_af_md1_Chin
+  Intensity: 0.10676651
+- BlendName: male_af_md1_Ears
+  Intensity: 0.06999321
+- BlendName: male_af_md1_Eyes
+  Intensity: 0.44
+- BlendName: male_af_md1_Forehead
+  Intensity: 0.077147126
+- BlendName: male_af_md1_Jaw
+  Intensity: 0.076721154
+- BlendName: male_af_md1_Mouth
+  Intensity: 0.05523793
+- BlendName: male_af_md1_Neck
+  Intensity: 0.44
+- BlendName: male_af_md1_Nose
+  Intensity: 0.01942689
+- BlendName: male_af_ol1_Cheeks
+  Intensity: 0.106653914
+- BlendName: male_af_ol1_Chin
+  Intensity: 0.101758
+- BlendName: male_af_ol1_Ears
+  Intensity: 0.14848046
+- BlendName: male_af_ol1_Eyes
+  Intensity: 0.0281227
+- BlendName: male_af_ol1_Forehead
+  Intensity: 0.068983436
+- BlendName: male_af_ol1_Jaw
+  Intensity: 0.07125335
+- BlendName: male_af_ol1_Mouth
+  Intensity: 0.008228778
+- BlendName: male_af_ol1_Neck
+  Intensity: 0.14986934
+- BlendName: male_af_ol1_Nose
+  Intensity: 0.11161076
+- BlendName: male_af_yo1_Cheeks
+  Intensity: 0.083985224
+- BlendName: male_af_yo1_Chin
+  Intensity: 0.04828059
+- BlendName: male_af_yo1_Ears
+  Intensity: 0.013857796
+- BlendName: male_af_yo1_Eyes
+  Intensity: 0.08329718
+- BlendName: male_af_yo1_Forehead
+  Intensity: 0.025354382
+- BlendName: male_af_yo1_Jaw
+  Intensity: 0.09010999
+- BlendName: male_af_yo1_Mouth
+  Intensity: 0.052531697
+- BlendName: male_af_yo1_Neck
+  Intensity: 0.10471951
+- BlendName: male_af_yo1_Nose
+  Intensity: 0.09351155
+- BlendName: male_as_md1_Cheeks
+  Intensity: 0.02268264
+- BlendName: male_as_md1_Chin
+  Intensity: 0.028193858
+- BlendName: male_as_md1_Ears
+  Intensity: 0.00678724
+- BlendName: male_as_md1_Eyes
+  Intensity: 0.04535575
+- BlendName: male_as_md1_Forehead
+  Intensity: 0.12451348
+- BlendName: male_as_md1_Jaw
+  Intensity: 0.16391197
+- BlendName: male_as_md1_Mouth
+  Intensity: 0.050476745
+- BlendName: male_as_md1_Neck
+  Intensity: 0.08745149
+- BlendName: male_as_md1_Nose
+  Intensity: 0.06704379
+- BlendName: male_eu_md2_Eyes
+  Intensity: 0.28730774
+- BlendName: male_eu_md2_Nose
+  Intensity: 0.32
+- BlendName: male_eu_ol1_Cheeks
+  Intensity: 0.046972662
+- BlendName: male_eu_ol1_Chin
+  Intensity: 0.07423435
+- BlendName: male_eu_ol1_Ears
+  Intensity: 0.043962892
+- BlendName: male_eu_ol1_Eyes
+  Intensity: 0.10815002
+- BlendName: male_eu_ol1_Forehead
+  Intensity: 0.019379778
+- BlendName: male_eu_ol1_Jaw
+  Intensity: 0.04999576
+- BlendName: male_eu_ol1_Mouth
+  Intensity: 0.124696486
+- BlendName: male_eu_ol1_Neck
+  Intensity: 0.119847775
+- BlendName: male_eu_ol1_Nose
+  Intensity: 0.07617448
+- BlendName: male_eu_yo1_Cheeks
+  Intensity: 0.15484165
+- BlendName: male_eu_yo1_Chin
+  Intensity: 0.029924672
+- BlendName: male_eu_yo1_Ears
+  Intensity: 0.065237276
+- BlendName: male_eu_yo1_Eyes
+  Intensity: 0.0077666286
+- BlendName: male_eu_yo1_Forehead
+  Intensity: 0.011061366
+- BlendName: male_eu_yo1_Jaw
+  Intensity: 0.03509376
+- BlendName: male_eu_yo1_Mouth
+  Intensity: 0.13303581
+- BlendName: male_eu_yo1_Neck
+  Intensity: 0.0051808218
+- BlendName: male_eu_yo1_Nose
+  Intensity: 0.25
+SkinToneIndex: 3
+HairColor: SaltAndBrown
+FacialHairColor: SaltAndBrown
+EyebrowColor: SaltAndBrown
+EyeColor: Brown
+TeethColor: Teeth_Clean
+Pronoun: Unspecified

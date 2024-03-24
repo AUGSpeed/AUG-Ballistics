@@ -1,0 +1,218 @@
+FormKey: 015B1A:Starfield.esm
+EditorID: OctopedeABodyPartData
+Model:
+  File: Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  FLLD: 0x01000000
+Parts:
+- Name:
+    TargetLanguage: English
+    Value: COM
+  PartNode: COM
+  VatsTarget: COM
+  DamageMult: 1
+  Type: COM
+  HealthPercent: 0.0196078431372549
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Head
+  PartNode: C_Head1
+  VatsTarget: C_Head1
+  DamageMult: 2
+  Flags:
+  - HitReaction
+  Type: Head1
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038A:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: C_Head1
+  HitReactionEnd: C_Head2
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Torso
+  PartNode: C_Spine1
+  VatsTarget: C_Spine1
+  DamageMult: 1
+  Flags:
+  - HitReaction
+  HealthPercent: 0.19607843137254902
+  ActorValue: 00038F:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: C_Spine1
+  HitReactionEnd: C_Spine3
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: LeftClaw
+  PartNode: L_Biceps
+  VatsTarget: L_Biceps
+  DamageMult: 0.5
+  Flags:
+  - HitReaction
+  Type: LeftArm1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038B:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: L_Biceps
+  HitReactionEnd: L_Claw1
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Left Front Leg
+  PartNode: L_LegA_1
+  VatsTarget: L_LegA_1
+  DamageMult: 0.65
+  Type: LeftLeg1
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038D:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Left Foot
+  PartNode: L_LegA_3
+  VatsTarget: L_LegA_3
+  DamageMult: 0.45
+  Type: LeftFoot
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038D:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Left Middle Leg
+  PartNode: L_LegB_1
+  VatsTarget: L_LegB_1
+  DamageMult: 0.65
+  Type: LeftLeg2
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038D:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Left Back Leg
+  PartNode: L_LegD_1
+  VatsTarget: L_LegD_1
+  DamageMult: 0.65
+  Type: LeftLeg3
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038D:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: OctopedeARoot
+  PartNode: Root
+  VatsTarget: Root
+  Type: Root
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: RightClaw
+  PartNode: R_Biceps
+  VatsTarget: R_Biceps
+  DamageMult: 0.5
+  Flags:
+  - HitReaction
+  Type: RightArm1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038C:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: R_Biceps
+  HitReactionEnd: R_Claw1
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Right Front Leg
+  PartNode: R_LegA_1
+  VatsTarget: R_LegA_1
+  DamageMult: 0.65
+  Type: RightLeg1
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038E:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Right Foot
+  PartNode: R_LegA_3
+  VatsTarget: R_LegA_3
+  DamageMult: 0.45
+  Type: RightFoot
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038E:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Right Middle Leg
+  PartNode: R_LegB_1
+  VatsTarget: R_LegB_1
+  DamageMult: 0.65
+  Type: RightLeg2
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038E:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Right Back Leg
+  PartNode: R_LegD_1
+  VatsTarget: R_LegD_1
+  DamageMult: 0.65
+  Type: RightLeg3
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038E:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\OctopedeA\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''

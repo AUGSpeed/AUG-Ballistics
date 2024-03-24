@@ -1,0 +1,72 @@
+FormKey: 14A87F:Starfield.esm
+EditorID: Trait_TerraFirma_Ability
+ODTY: 0
+Name:
+  TargetLanguage: English
+  Value: Terra Firma
+EquipmentType: 013F44:Starfield.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Type:
+- Ability
+Effects:
+- BaseEffect: 14A882:Starfield.esm
+  Data:
+    Magnitude: 50
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    Unknown1: 0x010812
+    Data:
+      MutagenObjectType: IsTrueForConditionFormConditionData
+      FirstParameter: 14A886:Starfield.esm
+  - MutagenObjectType: ConditionFloat
+    Unknown1: 0x010812
+    Data:
+      MutagenObjectType: IsTrueForConditionFormConditionData
+      FirstParameter: 1BBAB0:Starfield.esm
+    ComparisonValue: 1
+  Magnitude: 14A887:Starfield.esm
+  EFIF: 0
+  MUID: 1
+- BaseEffect: 04A0D2:Starfield.esm
+  Data:
+    Magnitude: 50
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    Unknown1: 0x010812
+    Unknown2: 17620
+    Data:
+      MutagenObjectType: IsTrueForConditionFormConditionData
+      FirstParameter: 14A886:Starfield.esm
+  Magnitude: 14A885:Starfield.esm
+  EFIF: 0
+  MUID: 2
+- BaseEffect: 14A881:Starfield.esm
+  Data:
+    Magnitude: 50
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    Unknown1: 0x010812
+    Unknown2: 17620
+    Data:
+      MutagenObjectType: IsTrueForConditionFormConditionData
+      FirstParameter: 14A886:Starfield.esm
+    ComparisonValue: 1
+  Magnitude: 14A887:Starfield.esm
+  EFIF: 0
+  MUID: 3
+- BaseEffect: 0A599B:Starfield.esm
+  Data:
+    Magnitude: 50
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    Unknown1: 0x010812
+    Unknown2: 17620
+    Data:
+      MutagenObjectType: IsTrueForConditionFormConditionData
+      FirstParameter: 14A886:Starfield.esm
+    ComparisonValue: 1
+  Magnitude: 14A885:Starfield.esm
+  EFIF: 0
+  MUID: 4

@@ -1,0 +1,95 @@
+FormKey: 0B268F:Starfield.esm
+EditorID: EyeBotBodyPartData
+Model:
+  File: Actors\EyeBot\CharacterAssets\skeleton.nif
+  FLLD: 0x01000000
+Parts:
+- Name:
+    TargetLanguage: English
+    Value: Head
+  PartNode: BODY
+  VatsTarget: BODY
+  DamageMult: 1
+  Type: Head1
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\EyeBot\CharacterAssets\skeleton.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Back Panel
+  PartNode: Brain
+  VatsTarget: Brain
+  DamageMult: 4
+  Type: Brain
+  HealthPercent: 0.0196078431372549
+  ActorValue: 000372:Starfield.esm
+  ToHitChance: 0.17647058823529413
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\EyeBot\CharacterAssets\skeleton.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Antenna
+  PartNode: CAntenna_Top
+  VatsTarget: CAntenna_Top
+  DamageMult: 0.8
+  Type: Head2
+  HealthPercent: 0.058823529411764705
+  ActorValue: 00036C:Starfield.esm
+  ToHitChance: 0.09803921568627451
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\EyeBot\CharacterAssets\skeleton.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Body
+  PartNode: COM
+  VatsTarget: COM
+  DamageMult: 1
+  Flags:
+  - HitReaction
+  - HitReactionDefault
+  - OnCripple
+  HealthPercent: 0.39215686274509803
+  ActorValue: 000370:Starfield.esm
+  ToHitChance: 0.1568627450980392
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\EyeBot\CharacterAssets\skeleton.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Laser
+  PartNode: Laser
+  VatsTarget: Laser
+  DamageMult: 0.25
+  Flags:
+  - OnCripple
+  Type: LeftArm1
+  HealthPercent: 0.1568627450980392
+  ActorValue: 00036E:Starfield.esm
+  ToHitChance: 0.11764705882352941
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\EyeBot\CharacterAssets\skeleton.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Root
+  PartNode: Root
+  VatsTarget: Root
+  DamageMult: 1
+  Type: Root
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\EyeBot\CharacterAssets\skeleton.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''

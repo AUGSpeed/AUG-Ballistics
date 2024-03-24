@@ -1,0 +1,25 @@
+FormKey: 000807:AUG-Gameplay.esm
+EditorID: co_gun_mod_OldEarthHuntingRifle_Quality_03
+Description:
+  TargetLanguage: English
+  Value: Parts have been refined and hardened for better recoil control.
+WorkbenchKeyword: 2CE1C0:Starfield.esm
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Unknown1: 0x000000
+  Unknown2: 17631
+  Data:
+    MutagenObjectType: IsResearchCompleteConditionData
+    FirstParameter: 00080B:AUG-Gameplay.esm
+  ComparisonValue: 1
+ConstructableComponents:
+- Component: 0057D6:Starfield.esm
+  Count: 1
+- Component: 07782D:Starfield.esm
+  Count: 1
+CreatedObject: 28FC1F:Starfield.esm
+AmountProduced: 1
+LearnMethod: DefaultOrConditions
+Categories:
+- 000800:AUG-Gameplay.esm
+RECF: 0

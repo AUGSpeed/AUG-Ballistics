@@ -1,0 +1,30 @@
+FormKey: 121277:Starfield.esm
+EditorID: LCharMarineSysDef
+ODTY: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- 0x40
+Entries:
+- Level: 1
+  Reference: 121276:Starfield.esm
+  Count: 1
+- Level: 10
+  Reference: 121275:Starfield.esm
+  Count: 1
+- Level: 16
+  Reference: 121274:Starfield.esm
+  Count: 1
+- Level: 24
+  Reference: 121273:Starfield.esm
+  Count: 1
+- Level: 32
+  Reference: 121272:Starfield.esm
+  Count: 1
+- Level: 40
+  Reference: 121271:Starfield.esm
+  Count: 1
+- Level: 50
+  Reference: 121270:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

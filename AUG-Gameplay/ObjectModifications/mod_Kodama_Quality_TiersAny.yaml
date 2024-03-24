@@ -1,0 +1,33 @@
+MutagenObjectType: WeaponModification
+FormKey: 12F315:Starfield.esm
+MajorRecordFlagsRaw: 128
+EditorID: mod_Kodama_Quality_TiersAny
+StarfieldMajorRecordFlags:
+- 0x80
+Name:
+  TargetLanguage: English
+  Value: Quality Tiers Any
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+Includes:
+- Mod: 12F30D:Starfield.esm
+  DoNotUseAll: True
+- Mod: 12F30E:Starfield.esm
+  MinimumLevel: 27
+  DoNotUseAll: True
+- Mod: 12F310:Starfield.esm
+  MinimumLevel: 37
+  DoNotUseAll: True
+- Mod: 12F313:Starfield.esm
+  MinimumLevel: 47
+  DoNotUseAll: True
+MajorFlags:
+- 0x80
+Properties:
+- MutagenObjectType: ObjectModFormLinkIntProperty<Weapon+Property>
+  Property: Keyword
+  Record: 374EFA:Starfield.esm
+  FunctionType: Add

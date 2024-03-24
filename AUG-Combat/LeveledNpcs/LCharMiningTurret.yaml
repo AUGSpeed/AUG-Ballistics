@@ -1,0 +1,27 @@
+FormKey: 024FF8:Starfield.esm
+EditorID: LCharMiningTurret
+ODTY: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- 0x40
+Entries:
+- Level: 1
+  Reference: 024FF6:Starfield.esm
+  Count: 1
+- Level: 23
+  Reference: 024FF9:Starfield.esm
+  Count: 1
+- Level: 31
+  Reference: 024FFA:Starfield.esm
+  Count: 1
+- Level: 39
+  Reference: 024FFB:Starfield.esm
+  Count: 1
+- Level: 49
+  Reference: 024FFC:Starfield.esm
+  Count: 1
+- Level: 59
+  Reference: 024FFD:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

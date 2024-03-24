@@ -1,0 +1,33 @@
+FormKey: 398BE2:Starfield.esm
+EditorID: SEDerelict_LChar_MantidAHookneck
+ODTY: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- 0x40
+Entries:
+- Level: 1
+  Reference: 398BD9:Starfield.esm
+  Count: 1
+- Level: 40
+  Reference: 398BDA:Starfield.esm
+  Count: 1
+- Level: 50
+  Reference: 398BDB:Starfield.esm
+  Count: 1
+- Level: 60
+  Reference: 398BDC:Starfield.esm
+  Count: 1
+- Level: 70
+  Reference: 398BDD:Starfield.esm
+  Count: 1
+- Level: 80
+  Reference: 398BDE:Starfield.esm
+  Count: 1
+- Level: 90
+  Reference: 398BDF:Starfield.esm
+  Count: 1
+- Level: 100
+  Reference: 398BE0:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

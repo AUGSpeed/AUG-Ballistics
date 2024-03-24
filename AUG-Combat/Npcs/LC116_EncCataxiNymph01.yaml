@@ -1,0 +1,117 @@
+FormKey: 182393:Starfield.esm
+EditorID: LC116_EncCataxiNymph01
+ObjectBounds:
+  First: -0.84939295, -1.4102464, -3.5762787E-07
+  Second: 0.84939295, 1.4796562, 1.6954445
+ODTY: 0
+XpValueOffset: 5
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+UseTemplateActors: Stats
+DeathItem: 077833:Starfield.esm
+TemplateActors:
+  StatsTemplate: 1661E8:Starfield.esm
+Race: 1BB965:Starfield.esm
+Skin: 015B19:Starfield.esm
+CombatOverridePackageList: 0102ED:Starfield.esm
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+  Value: 5
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D4:Starfield.esm
+  Value: 50
+- ActorValue: 0002D5:Starfield.esm
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0002E3:Starfield.esm
+  Value: 50
+- ActorValue: 22A2B6:Starfield.esm
+  Value: 1
+- ActorValue: 2102C3:Starfield.esm
+Aggression: VeryAggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+AttachParentSlots:
+- 2AD3E6:Starfield.esm
+- 2AD3E7:Starfield.esm
+- 25614F:Starfield.esm
+- 20AA19:Starfield.esm
+- 20AA16:Starfield.esm
+- 20AA15:Starfield.esm
+- 20AA14:Starfield.esm
+- 2AD3E8:Starfield.esm
+- 2AD3E9:Starfield.esm
+- 20AA1A:Starfield.esm
+- 23CB01:Starfield.esm
+- 23AF14:Starfield.esm
+- 23AF12:Starfield.esm
+- 20AA13:Starfield.esm
+- 2AD3EB:Starfield.esm
+- 20AA18:Starfield.esm
+- 2AD3EA:Starfield.esm
+- 1D9CF8:Starfield.esm
+- 1C5212:Starfield.esm
+- 20AA17:Starfield.esm
+ObjectTemplates:
+- Default: True
+  Includes:
+  - Mod: 200AC8:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 24F4DE:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 1FA146:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 1F2866:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 23AEE6:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 23AEFD:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 200ABA:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 01BC80:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 187101:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 1D5AB8:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 181E2D:Starfield.esm
+    Optional: True
+    DontUseAll: True
+Class: 1CD0A9:Starfield.esm
+Name:
+  TargetLanguage: English
+  Value: Cataxi Nymph
+CalculatedHealth: 175
+GearedUpWeapons: 1
+CombatStyle: 0A576D:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight:
+  Thin: 0.3333
+  Muscular: 0.3333
+  Fat: 0.3333
+DefaultPackageList: 26F68A:Starfield.esm
+Tints: []
+SkinToneIndex: 0
+Pronoun: Unspecified

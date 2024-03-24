@@ -1,0 +1,138 @@
+FormKey: 187123:Starfield.esm
+EditorID: LC030_EncCotylite03
+ObjectBounds:
+  First: -0.591797, -0.3623047, 0
+  Second: 0.59179676, 1.0341797, 1.2373047
+ODTY: 0
+Flags:
+- Respawn
+XpValueOffset: 25
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 20
+DispositionBase: 35
+UseTemplateActors: 32638
+DeathItem: 077833:Starfield.esm
+DefaultTemplate: 187110:Starfield.esm
+TemplateActors:
+  StatsTemplate: 162603:Starfield.esm
+  FactionsTemplate: 187110:Starfield.esm
+  SpellListTemplate: 187110:Starfield.esm
+  AiDataTemplate: 187110:Starfield.esm
+  AiPackagesTemplate: 187110:Starfield.esm
+  ModelOrAnimationTemplate: 187110:Starfield.esm
+  InventoryTemplate: 187110:Starfield.esm
+  ScriptTemplate: 187110:Starfield.esm
+  DefPackListTemplate: 187110:Starfield.esm
+  AttackDataTemplate: 187110:Starfield.esm
+  KeywordsTemplate: 187110:Starfield.esm
+  Unknown1: 187110:Starfield.esm
+Race: 1BB965:Starfield.esm
+Skin: 015B19:Starfield.esm
+CombatOverridePackageList: 0102ED:Starfield.esm
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+  Value: 2
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D4:Starfield.esm
+  Value: 125
+- ActorValue: 0002D5:Starfield.esm
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0002E3:Starfield.esm
+  Value: 101
+- ActorValue: 22A2B6:Starfield.esm
+  Value: 1
+- ActorValue: 2102C3:Starfield.esm
+  Value: 2.27
+Aggression: VeryAggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Keywords:
+- 2AD3EC:Starfield.esm
+- 1E667F:Starfield.esm
+- 182D74:Starfield.esm
+AttachParentSlots:
+- 2AD3E6:Starfield.esm
+- 2AD3E7:Starfield.esm
+- 25614F:Starfield.esm
+- 20AA19:Starfield.esm
+- 20AA16:Starfield.esm
+- 20AA15:Starfield.esm
+- 20AA14:Starfield.esm
+- 2AD3E8:Starfield.esm
+- 20AA17:Starfield.esm
+- 2AD3E9:Starfield.esm
+- 20AA1A:Starfield.esm
+- 23CB01:Starfield.esm
+- 23AF14:Starfield.esm
+- 23AF12:Starfield.esm
+- 20AA13:Starfield.esm
+- 2AD3EB:Starfield.esm
+- 20AA18:Starfield.esm
+- 2AD3EA:Starfield.esm
+- 1C5212:Starfield.esm
+- 1D9CF8:Starfield.esm
+ObjectTemplates:
+- Default: True
+  Includes:
+  - Mod: 200B1E:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 256151:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 200AD1:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 1F36EE:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 200AFC:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 1F2866:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 23AEE7:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 23AEFE:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 200ABA:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 1EA0A6:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 187127:Starfield.esm
+    Optional: True
+    DontUseAll: True
+  - Mod: 1D5ABA:Starfield.esm
+    Optional: True
+    DontUseAll: True
+Class: 1CD0A9:Starfield.esm
+Name:
+  TargetLanguage: English
+  Value: Juvenile Cotylite
+CalculatedHealth: 135
+GearedUpWeapons: 1
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight:
+  Thin: 0.3333
+  Muscular: 0.3333
+  Fat: 0.3333
+DefaultPackageList: 26F68A:Starfield.esm
+Tints: []
+SkinToneIndex: 0
+Pronoun: Unspecified

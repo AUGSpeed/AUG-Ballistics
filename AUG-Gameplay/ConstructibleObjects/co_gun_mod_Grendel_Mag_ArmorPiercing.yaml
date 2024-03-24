@@ -1,0 +1,28 @@
+FormKey: 02E1E9:Starfield.esm
+EditorID: co_gun_mod_Grendel_Mag_ArmorPiercing
+FormVersion: 558
+Description:
+  TargetLanguage: English
+  Value: More powerful casing can penetrate even the sturdiest armors.
+WorkbenchKeyword: 2CE1C0:Starfield.esm
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Unknown1: 0x000000
+  Unknown2: 17631
+  Data:
+    MutagenObjectType: IsResearchCompleteConditionData
+    FirstParameter: 389F1B:Starfield.esm
+  ComparisonValue: 1
+ConstructableComponents:
+- Component: 0057C1:Starfield.esm
+  Count: 1
+- Component: 0057C4:Starfield.esm
+  Count: 2
+- Component: 077828:Starfield.esm
+  Count: 1
+CreatedObject: 02E1E7:Starfield.esm
+AmountProduced: 1
+LearnMethod: DefaultOrConditions
+Categories:
+- 2D01F2:Starfield.esm
+RECF: 0

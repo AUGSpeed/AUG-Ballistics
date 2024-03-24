@@ -1,0 +1,23 @@
+FormKey: 187135:Starfield.esm
+MajorRecordFlagsRaw: 4
+EditorID: LDCreatureDamageMod_Hard
+StarfieldMajorRecordFlags:
+- NotPlayable
+Description:
+  TargetLanguage: English
+  Value: ''
+Flags:
+- PcPlayable
+Ranks:
+- Effects:
+  - MutagenObjectType: PerkEntryPointModifyValue
+    EntryPoint: ModIncomingWeaponDamage
+    PerkConditionTabCount: 3
+    PerkEntryID: 0
+    Modification: Multiply
+    Value: 1
+  Description:
+    TargetLanguage: English
+    Value: ''
+MajorFlags:
+- NonPlayable

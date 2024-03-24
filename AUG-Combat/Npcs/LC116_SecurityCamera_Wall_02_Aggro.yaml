@@ -1,0 +1,59 @@
+FormKey: 295C2A:Starfield.esm
+EditorID: LC116_SecurityCamera_Wall_02_Aggro
+ObjectBounds:
+  First: -0.15000047, -0.15000047, -0.43568748
+  Second: 0.15000047, 0.15000047, 2.245605E-05
+ODTY: 0
+Flags:
+- Respawn
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+UseTemplateActors: 32763
+Factions:
+- Faction: 00BA11:Starfield.esm
+- Faction: 2407FD:Starfield.esm
+DeathItem: 04BD29:Starfield.esm
+DefaultTemplate: 09B5AE:Starfield.esm
+Race: 047708:Starfield.esm
+Skin: 04770E:Starfield.esm
+CombatOverridePackageList: 0102ED:Starfield.esm
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D4:Starfield.esm
+  Value: 30
+- ActorValue: 0002D5:Starfield.esm
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0002E3:Starfield.esm
+  Value: 127
+- ActorValue: 00032D:Starfield.esm
+  Value: 100
+NativeTerminal: 1A9EBE:Starfield.esm
+Aggression: VeryAggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Class: 123E22:Starfield.esm
+FarAwayModelDistance: 200
+GearedUpWeapons: 1
+Unused: 128
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight:
+  Thin: 0.5
+  Muscular: 0.5
+InheritsSoundsFrom: 157D60:Starfield.esm
+DefaultPackageList: 26F689:Starfield.esm
+Tints: []
+SkinToneIndex: 0
+Pronoun: Unspecified

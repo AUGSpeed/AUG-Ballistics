@@ -1,0 +1,33 @@
+MutagenObjectType: WeaponModification
+FormKey: 28FC30:Starfield.esm
+MajorRecordFlagsRaw: 128
+EditorID: mod_XM2311_Quality_TiersAny
+StarfieldMajorRecordFlags:
+- 0x80
+Name:
+  TargetLanguage: English
+  Value: Quality Tiers Any
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+Includes:
+- Mod: 28FC2C:Starfield.esm
+  DoNotUseAll: True
+- Mod: 28FC2D:Starfield.esm
+  MinimumLevel: 27
+  DoNotUseAll: True
+- Mod: 28FC2E:Starfield.esm
+  MinimumLevel: 37
+  DoNotUseAll: True
+- Mod: 28FC2F:Starfield.esm
+  MinimumLevel: 47
+  DoNotUseAll: True
+MajorFlags:
+- 0x80
+Properties:
+- MutagenObjectType: ObjectModFormLinkIntProperty<Weapon+Property>
+  Property: Keyword
+  Record: 374EFA:Starfield.esm
+  FunctionType: Add

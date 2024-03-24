@@ -1,0 +1,33 @@
+FormKey: 398BEB:Starfield.esm
+EditorID: SEDerelict_LChar_OctopedeAExocrawler
+ODTY: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- 0x40
+Entries:
+- Level: 1
+  Reference: 398BE3:Starfield.esm
+  Count: 1
+- Level: 40
+  Reference: 398BE4:Starfield.esm
+  Count: 1
+- Level: 50
+  Reference: 398BE5:Starfield.esm
+  Count: 1
+- Level: 60
+  Reference: 398BE6:Starfield.esm
+  Count: 1
+- Level: 70
+  Reference: 398BE7:Starfield.esm
+  Count: 1
+- Level: 80
+  Reference: 398BE8:Starfield.esm
+  Count: 1
+- Level: 90
+  Reference: 398BE9:Starfield.esm
+  Count: 1
+- Level: 100
+  Reference: 398BEA:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

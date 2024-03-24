@@ -1,0 +1,22 @@
+MutagenObjectType: WeaponModification
+FormKey: 06ABED:Starfield.esm
+EditorID: mod_Grendel_Optics_ReflexSight
+Name:
+  TargetLanguage: English
+  Value: Reflex Sight
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  File: Weapons\Bullpup\Grendel_ReflexSight.nif
+  FLLD: 0x01000000
+AttachPoint: 022499:Starfield.esm
+Includes:
+- Mod: 133BEE:Starfield.esm
+  DoNotUseAll: True
+TargetOmodKeywords:
+- 05164B:Starfield.esm
+Properties:
+- MutagenObjectType: ObjectModFormLinkIntProperty<Weapon+Property>
+  Property: Template
+  Record: 022979:Starfield.esm

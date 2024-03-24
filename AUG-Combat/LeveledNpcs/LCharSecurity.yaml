@@ -1,0 +1,25 @@
+FormKey: 2B211F:Starfield.esm
+EditorID: LCharSecurity
+ODTY: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+- 0x40
+Entries:
+- Level: 1
+  Reference: 126B36:Starfield.esm
+  Count: 1
+- Level: 20
+  Reference: 126B35:Starfield.esm
+  Count: 1
+- Level: 28
+  Reference: 126B34:Starfield.esm
+  Count: 1
+- Level: 36
+  Reference: 126B33:Starfield.esm
+  Count: 1
+- Level: 44
+  Reference: 126B32:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

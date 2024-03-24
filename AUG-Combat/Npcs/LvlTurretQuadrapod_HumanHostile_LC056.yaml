@@ -1,0 +1,88 @@
+FormKey: 07FD2F:Starfield.esm
+EditorID: LvlTurretQuadrapod_HumanHostile_LC056
+ObjectBounds:
+  First: -0.48364258, -0.48364228, 0
+  Second: 0.48364258, 0.5107425, 1.2578125
+ODTY: 0
+Flags:
+- Respawn
+- DoesntAffectStealthMeter
+XpValueOffset: 10
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+UseTemplateActors: 32703
+Factions:
+- Faction: 180F6B:Starfield.esm
+DefaultTemplate: 17B7B3:Starfield.esm
+TemplateActors:
+  TraitTemplate: 17B7B3:Starfield.esm
+  StatsTemplate: 17B7B3:Starfield.esm
+  FactionsTemplate: 17B7B3:Starfield.esm
+  SpellListTemplate: 17B7B3:Starfield.esm
+  AiDataTemplate: 17B7B3:Starfield.esm
+  AiPackagesTemplate: 17B7B3:Starfield.esm
+  BaseDataTemplate: 17B7B3:Starfield.esm
+  InventoryTemplate: 17B7B3:Starfield.esm
+  ScriptTemplate: 17B7B3:Starfield.esm
+  DefPackListTemplate: 17B7B3:Starfield.esm
+  AttackDataTemplate: 17B7B3:Starfield.esm
+  KeywordsTemplate: 17B7B3:Starfield.esm
+  Unknown1: 17B7B3:Starfield.esm
+  Unknown2: 17B7B3:Starfield.esm
+Race: 1EA1DB:Starfield.esm
+Skin: 1EA1DD:Starfield.esm
+Perks:
+- Perk: 02A6FC:Starfield.esm
+  Rank: 1
+- Perk: 0A2775:Starfield.esm
+  Rank: 1
+- Perk: 0A2776:Starfield.esm
+  Rank: 1
+- Perk: 1504FC:Starfield.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0002D5:Starfield.esm
+  Value: 50
+- ActorValue: 0002C3:Starfield.esm
+- ActorValue: 0002C2:Starfield.esm
+  Value: 4
+- ActorValue: 0002D4:Starfield.esm
+  Value: 70
+- ActorValue: 0002EB:Starfield.esm
+  Value: 130
+- ActorValue: 0002E3:Starfield.esm
+  Value: 130
+NativeTerminal: 1AE416:Starfield.esm
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+UnknownAIDT: 1
+RDSAs:
+- UnknownInt: 2
+  UnknownInt2: 6
+  UnknownInt3: 1
+  UnknownLink2: 0242F7:Starfield.esm
+  UnknownFloat5: 2
+  UnknownFloat6: 1
+Class: 123E22:Starfield.esm
+CalculatedHealth: 60
+CalculatedActionPoints: 100
+FarAwayModelDistance: 200
+GearedUpWeapons: 1
+Unused: 54
+CombatStyle: 0E60AF:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight:
+  Thin: 0.5
+  Muscular: 0.5
+InheritsSoundsFrom: 0EE9FE:Starfield.esm
+DefaultPackageList: 31B5B3:Starfield.esm
+Tints: []
+SkinToneIndex: 0
+Pronoun: Unspecified

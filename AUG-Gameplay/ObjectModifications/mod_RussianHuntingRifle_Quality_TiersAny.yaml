@@ -1,0 +1,33 @@
+MutagenObjectType: WeaponModification
+FormKey: 28FC21:Starfield.esm
+MajorRecordFlagsRaw: 128
+EditorID: mod_RussianHuntingRifle_Quality_TiersAny
+StarfieldMajorRecordFlags:
+- 0x80
+Name:
+  TargetLanguage: English
+  Value: Quality Tiers Any
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+Includes:
+- Mod: 28FC1D:Starfield.esm
+  DoNotUseAll: True
+- Mod: 28FC1E:Starfield.esm
+  MinimumLevel: 20
+  DoNotUseAll: True
+- Mod: 28FC1F:Starfield.esm
+  MinimumLevel: 30
+  DoNotUseAll: True
+- Mod: 28FC20:Starfield.esm
+  MinimumLevel: 40
+  DoNotUseAll: True
+MajorFlags:
+- 0x80
+Properties:
+- MutagenObjectType: ObjectModFormLinkIntProperty<Weapon+Property>
+  Property: Keyword
+  Record: 374EFA:Starfield.esm
+  FunctionType: Add

@@ -1,0 +1,40 @@
+FormKey: 2D01D9:Starfield.esm
+EditorID: LCharRobotModelS
+ODTY: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+- 0x40
+Entries:
+- Level: 1
+  Reference: 2D01DA:Starfield.esm
+  Count: 1
+- Level: 12
+  Reference: 2D01DB:Starfield.esm
+  Count: 1
+- Level: 20
+  Reference: 2D01DD:Starfield.esm
+  Count: 1
+- Level: 28
+  Reference: 2D01DE:Starfield.esm
+  Count: 1
+- Level: 36
+  Reference: 12F057:Starfield.esm
+  Count: 1
+- Level: 46
+  Reference: 12F056:Starfield.esm
+  Count: 1
+- Level: 56
+  Reference: 12F055:Starfield.esm
+  Count: 1
+- Level: 68
+  Reference: 12F054:Starfield.esm
+  Count: 1
+- Level: 80
+  Reference: 12F053:Starfield.esm
+  Count: 1
+- Level: 92
+  Reference: 12F052:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

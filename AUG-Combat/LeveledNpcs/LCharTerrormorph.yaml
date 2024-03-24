@@ -1,0 +1,41 @@
+FormKey: 2B2290:Starfield.esm
+EditorID: LCharTerrormorph
+ODTY: 0
+Flags:
+- 0x40
+Entries:
+- Level: 1
+  Reference: 2B228F:Starfield.esm
+  Count: 1
+- Level: 10
+  Reference: 324CF0:Starfield.esm
+  Count: 1
+- Level: 14
+  Reference: 324CF1:Starfield.esm
+  Count: 1
+- Level: 19
+  Reference: 324CF2:Starfield.esm
+  Count: 1
+- Level: 24
+  Reference: 324CF3:Starfield.esm
+  Count: 1
+- Level: 30
+  Reference: 324CF4:Starfield.esm
+  Count: 1
+- Level: 36
+  Reference: 324CF5:Starfield.esm
+  Count: 1
+- Level: 44
+  Reference: 324CF6:Starfield.esm
+  Count: 1
+- Level: 58
+  Reference: 324CF7:Starfield.esm
+  Count: 1
+- Level: 72
+  Reference: 324CF8:Starfield.esm
+  Count: 1
+- Level: 94
+  Reference: 324CF9:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

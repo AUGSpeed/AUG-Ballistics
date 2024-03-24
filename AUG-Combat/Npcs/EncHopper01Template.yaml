@@ -1,0 +1,73 @@
+FormKey: 215CC0:Starfield.esm
+EditorID: EncHopper01Template
+ObjectBounds:
+  First: -0.58386576, -0.96890604, -4.7683716E-07
+  Second: 0.58386576, 1.0194525, 1.1658082
+ODTY: 0
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+Race: 00A1D7:Starfield.esm
+Skin: 00B09E:Starfield.esm
+CombatOverridePackageList: 0102ED:Starfield.esm
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D4:Starfield.esm
+- ActorValue: 0002D5:Starfield.esm
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+Confidence: Average
+EnergyLevel: 50
+Responsibility: NoCrime
+UnknownAIDT: 1
+RDSAs:
+- UnknownInt2: 2
+  UnknownInt3: 3
+  UnknownLink2: 215CBD:Starfield.esm
+  UnknownLink3: 215CBC:Starfield.esm
+  UnknownFloat2: 20
+  UnknownFloat3: 25
+  UnknownFloat5: 2
+  UnknownFloat6: 1
+- UnknownInt: 1
+  UnknownInt2: 2
+  UnknownInt3: 3
+  UnknownLink2: 215CBA:Starfield.esm
+  UnknownLink3: 215CBB:Starfield.esm
+  UnknownFloat2: 10
+  UnknownFloat3: 15
+  UnknownFloat5: 2
+  UnknownFloat6: 1
+- UnknownInt: 2
+  UnknownInt2: 2
+  UnknownInt3: 3
+  UnknownLink2: 215CB8:Starfield.esm
+  UnknownLink3: 215CB9:Starfield.esm
+  UnknownFloat2: 5
+  UnknownFloat3: 10
+  UnknownFloat5: 2
+  UnknownFloat6: 1
+Class: 010B2F:Starfield.esm
+Name:
+  TargetLanguage: English
+  Value: Hopper
+GearedUpWeapons: 1
+Unused: 255
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight:
+  Thin: 0.3333
+  Muscular: 0.3333
+  Fat: 0.3333
+DefaultPackageList: 26F68A:Starfield.esm
+Tints: []
+SkinToneIndex: 0
+Pronoun: Unspecified

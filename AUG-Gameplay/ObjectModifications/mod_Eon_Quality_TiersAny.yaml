@@ -1,0 +1,33 @@
+MutagenObjectType: WeaponModification
+FormKey: 28F453:Starfield.esm
+MajorRecordFlagsRaw: 128
+EditorID: mod_Eon_Quality_TiersAny
+StarfieldMajorRecordFlags:
+- 0x80
+Name:
+  TargetLanguage: English
+  Value: Quality Tiers Any
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+Includes:
+- Mod: 28F450:Starfield.esm
+  DoNotUseAll: True
+- Mod: 28F451:Starfield.esm
+  MinimumLevel: 11
+  DoNotUseAll: True
+- Mod: 28F452:Starfield.esm
+  MinimumLevel: 21
+  DoNotUseAll: True
+- Mod: 000812:AUG-Gameplay.esm
+  MinimumLevel: 31
+  DoNotUseAll: True
+MajorFlags:
+- 0x80
+Properties:
+- MutagenObjectType: ObjectModFormLinkIntProperty<Weapon+Property>
+  Property: Keyword
+  Record: 374EFA:Starfield.esm
+  FunctionType: Add

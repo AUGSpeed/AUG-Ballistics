@@ -1,0 +1,34 @@
+FormKey: 27026B:Starfield.esm
+EditorID: LCharSyndicate
+ODTY: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+- 0x40
+Entries:
+- Level: 1
+  Reference: 15E249:Starfield.esm
+  Count: 1
+- Level: 10
+  Reference: 270273:Starfield.esm
+  Count: 1
+- Level: 16
+  Reference: 270272:Starfield.esm
+  Count: 1
+- Level: 24
+  Reference: 270271:Starfield.esm
+  Count: 1
+- Level: 32
+  Reference: 270270:Starfield.esm
+  Count: 1
+- Level: 40
+  Reference: 11DDCC:Starfield.esm
+  Count: 1
+- Level: 50
+  Reference: 11DDCB:Starfield.esm
+  Count: 1
+- Level: 62
+  Reference: 11DDCA:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

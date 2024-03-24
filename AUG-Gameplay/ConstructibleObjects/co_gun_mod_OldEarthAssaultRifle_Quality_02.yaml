@@ -1,0 +1,25 @@
+FormKey: 000813:AUG-Gameplay.esm
+EditorID: co_gun_mod_OldEarthAssaultRifle_Quality_02
+Description:
+  TargetLanguage: English
+  Value: Calibrated for better range and accuracy.
+WorkbenchKeyword: 2CE1C0:Starfield.esm
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Unknown1: 0x000000
+  Unknown2: 17631
+  Data:
+    MutagenObjectType: IsResearchCompleteConditionData
+    FirstParameter: 00080A:AUG-Gameplay.esm
+  ComparisonValue: 1
+ConstructableComponents:
+- Component: 0057D6:Starfield.esm
+  Count: 1
+- Component: 07782D:Starfield.esm
+  Count: 1
+CreatedObject: 28FC18:Starfield.esm
+AmountProduced: 1
+LearnMethod: DefaultOrConditions
+Categories:
+- 000800:AUG-Gameplay.esm
+RECF: 0

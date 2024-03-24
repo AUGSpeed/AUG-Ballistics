@@ -1,0 +1,14 @@
+MutagenObjectType: WeaponModification
+FormKey: 28FC0A:Starfield.esm
+EditorID: mod_M1919_Quality_03
+Name:
+  TargetLanguage: English
+  Value: Refined
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+AttachPoint: 000805:AUG-Gameplay.esm
+Includes:
+- Mod: 00080F:AUG-Gameplay.esm

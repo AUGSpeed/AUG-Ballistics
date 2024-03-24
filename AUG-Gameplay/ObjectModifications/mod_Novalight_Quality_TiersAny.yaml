@@ -1,0 +1,33 @@
+MutagenObjectType: WeaponModification
+FormKey: 28F43D:Starfield.esm
+MajorRecordFlagsRaw: 128
+EditorID: mod_Novalight_Quality_TiersAny
+StarfieldMajorRecordFlags:
+- 0x80
+Name:
+  TargetLanguage: English
+  Value: Quality Tiers Any
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+Includes:
+- Mod: 28F439:Starfield.esm
+  DoNotUseAll: True
+- Mod: 28F43A:Starfield.esm
+  MinimumLevel: 22
+  DoNotUseAll: True
+- Mod: 28F43B:Starfield.esm
+  MinimumLevel: 32
+  DoNotUseAll: True
+- Mod: 28F43C:Starfield.esm
+  MinimumLevel: 42
+  DoNotUseAll: True
+MajorFlags:
+- 0x80
+Properties:
+- MutagenObjectType: ObjectModFormLinkIntProperty<Weapon+Property>
+  Property: Keyword
+  Record: 374EFA:Starfield.esm
+  FunctionType: Add

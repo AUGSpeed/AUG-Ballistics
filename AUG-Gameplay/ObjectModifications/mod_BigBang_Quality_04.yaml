@@ -1,0 +1,14 @@
+MutagenObjectType: WeaponModification
+FormKey: 131D4B:Starfield.esm
+EditorID: mod_BigBang_Quality_04
+Name:
+  TargetLanguage: English
+  Value: Advanced
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+AttachPoint: 000805:AUG-Gameplay.esm
+Includes:
+- Mod: 000810:AUG-Gameplay.esm

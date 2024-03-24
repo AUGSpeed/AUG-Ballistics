@@ -1,0 +1,33 @@
+FormKey: 398BD0:Starfield.esm
+EditorID: SEDerelict_LChar_MantidACoralbug
+ODTY: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- 0x40
+Entries:
+- Level: 1
+  Reference: 398BCF:Starfield.esm
+  Count: 1
+- Level: 5
+  Reference: 398BD1:Starfield.esm
+  Count: 1
+- Level: 10
+  Reference: 398BD2:Starfield.esm
+  Count: 1
+- Level: 15
+  Reference: 398BD3:Starfield.esm
+  Count: 1
+- Level: 20
+  Reference: 398BD4:Starfield.esm
+  Count: 1
+- Level: 25
+  Reference: 398BD5:Starfield.esm
+  Count: 1
+- Level: 30
+  Reference: 398BD6:Starfield.esm
+  Count: 1
+- Level: 35
+  Reference: 398BD7:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

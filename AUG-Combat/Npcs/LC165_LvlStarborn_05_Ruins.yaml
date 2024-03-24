@@ -1,0 +1,106 @@
+FormKey: 188C8F:Starfield.esm
+EditorID: LC165_LvlStarborn_05_Ruins
+ObjectBounds:
+  First: -0.591797, -0.3623047, 0
+  Second: 0.59179676, 1.0341797, 1.2373047
+ODTY: 0
+Flags:
+- Respawn
+- Unique
+XpValueOffset: 60
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 30
+DispositionBase: 35
+UseTemplateActors: 7718
+DeathItem: 27025F:Starfield.esm
+Voice: 018ED8:Starfield.esm
+DefaultTemplate: 18AE78:Starfield.esm
+LegendaryChance: 06AAC8:Starfield.esm
+TemplateActors:
+  StatsTemplate: 18AE78:Starfield.esm
+  FactionsTemplate: 18AE78:Starfield.esm
+  AiPackagesTemplate: 18AE78:Starfield.esm
+  ScriptTemplate: 18AE78:Starfield.esm
+  DefPackListTemplate: 18AE78:Starfield.esm
+  AttackDataTemplate: 18AE78:Starfield.esm
+  KeywordsTemplate: 18AE78:Starfield.esm
+Race: 00347D:Starfield.esm
+ActorEffect:
+- 02E551:Starfield.esm
+- 138560:Starfield.esm
+- 18B81F:Starfield.esm
+- 23AF06:Starfield.esm
+- 23AF07:Starfield.esm
+- 23AF0D:Starfield.esm
+CombatOverridePackageList: 0102ED:Starfield.esm
+Perks:
+- Perk: 12A089:Starfield.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+  Value: 5
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+  Value: 5
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+  Value: 5
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D4:Starfield.esm
+  Value: 570
+- ActorValue: 0002D5:Starfield.esm
+  Value: 50
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0002CC:Starfield.esm
+  Value: 5
+- ActorValue: 0002CD:Starfield.esm
+  Value: 45
+- ActorValue: 000385:Starfield.esm
+  Value: 100
+- ActorValue: 0002EB:Starfield.esm
+  Value: -100
+- ActorValue: 000392:Starfield.esm
+  Value: -100
+- ActorValue: 0002E3:Starfield.esm
+  Value: -100
+Items:
+- Item:
+    Item: 26D8A2:Starfield.esm
+    Count: 1
+- Item:
+    Item: 3D092C:Starfield.esm
+    Count: 1
+Aggression: VeryAggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Keywords:
+- 12FF24:Starfield.esm
+Class: 010B2F:Starfield.esm
+Name:
+  TargetLanguage: English
+  Value: Guardian Fionn
+CalculatedHealth: 320
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+Unused: 43
+CombatStyle: 00CD2E:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight: {}
+SpaceOutfit: 1177E5:Starfield.esm
+DefaultPackageList: 2C55CA:Starfield.esm
+Tints: []
+BodyMorphRegionValues:
+  UpperTorso: 0.21
+MorphBlends:
+- BlendName: female_eu_md2_Neck
+  Intensity: 0.1
+SkinToneIndex: 0
+Pronoun: Unspecified
+ONA2: 0xEF000000FF0000803F0000803F0000803E00003442000000000AD7233CF401000000000000000000000000803E00000041000040410AD7233CD5230200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000030000010000803FE1FAC7420000C8420000803F000000000000803F0000803F

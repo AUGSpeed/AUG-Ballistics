@@ -1,0 +1,208 @@
+FormKey: 003481:Starfield.esm
+EditorID: HumanBodyPartData
+Model:
+  File: Actors\Human\CharacterAssets\skeleton.nif
+  FLLD: 0x01000000
+Parts:
+- Name:
+    TargetLanguage: English
+    Value: Camera
+  PartNode: Camera
+  VatsTarget: Camera
+  Type: Camera
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\Human\CharacterAssets\skeleton.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: COM
+  PartNode: COM
+  VatsTarget: COM
+  DamageMult: 1
+  Type: COM
+  HealthPercent: 0.0196078431372549
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: AnimObjectA
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Boostpack
+  PartNode: C_BackPack
+  VatsTarget: C_BackPack
+  DamageMult: 0.75
+  Flags:
+  - HitReaction
+  - OnCripple
+  Type: Pelvis
+  HealthPercent: 0.09803921568627451
+  ActorValue: 000373:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleImpactData: 01675C:Starfield.esm
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: C_BackPack
+  HitReactionStart: C_Spine1
+  HitReactionEnd: C_Spine2
+  GoreEffectsBloodImpactMaterialType: 022955:Starfield.esm
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Head
+  PartNode: C_Head
+  VatsTarget: C_Head
+  DamageMult: 3.25
+  Flags:
+  - HitReaction
+  Type: Head1
+  HealthPercent: 0.00392156862745098
+  ActorValue: 00038A:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\Human\CharacterAssets\skeleton.nif
+  HitReactionStart: C_Neck
+  HitReactionEnd: C_Head
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: LookAt
+  PartNode: C_Neck
+  VatsTarget: C_Neck
+  Type: LookAt
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: AnimObjectA
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Torso
+  PartNode: C_Spine
+  VatsTarget: C_Chest
+  DamageMult: 1
+  Flags:
+  - HitReaction
+  HealthPercent: 0.19607843137254902
+  ActorValue: 00038F:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\Human\CharacterAssets\skeleton.nif
+  HitReactionStart: C_Spine
+  HitReactionEnd: C_Chest
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: LeftArm
+  PartNode: L_Biceps
+  VatsTarget: L_Biceps
+  DamageMult: 0.8
+  Flags:
+  - HitReaction
+  Type: LeftArm1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038B:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: AnimObjectA
+  HitReactionStart: L_Biceps
+  HitReactionEnd: L_Wrist
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: LeftFoot
+  PartNode: L_Foot
+  VatsTarget: L_Foot
+  DamageMult: 0.55
+  Flags:
+  - HitReaction
+  Type: LeftFoot
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038D:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\Human\CharacterAssets\skeleton.nif
+  HitReactionStart: L_Foot
+  HitReactionEnd: L_Foot
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: LeftLeg
+  PartNode: L_Thigh
+  VatsTarget: L_Thigh
+  DamageMult: 0.75
+  Flags:
+  - HitReaction
+  Type: LeftLeg1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038D:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: AnimObjectA
+  HitReactionStart: L_Thigh
+  HitReactionEnd: L_Foot
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Root
+  PartNode: Root
+  VatsTarget: Root
+  Type: Root
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\Human\CharacterAssets\skeleton.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: RightArm
+  PartNode: R_Biceps
+  VatsTarget: R_Biceps
+  DamageMult: 0.8
+  Flags:
+  - HitReaction
+  Type: RightArm1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038C:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: AnimObjectA
+  HitReactionStart: R_Biceps
+  HitReactionEnd: R_Wrist
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: RightFoot
+  PartNode: R_Foot
+  VatsTarget: R_Foot
+  DamageMult: 0.55
+  Flags:
+  - HitReaction
+  Type: RightFoot
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038E:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\Human\CharacterAssets\skeleton.nif
+  HitReactionStart: R_Foot
+  HitReactionEnd: R_Toe
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: RightLeg
+  PartNode: R_Thigh
+  VatsTarget: R_Thigh
+  DamageMult: 0.75
+  Flags:
+  - HitReaction
+  Type: RightLeg1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038E:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: AnimObjectA
+  HitReactionStart: R_Thigh
+  HitReactionEnd: R_Foot
+  TwistVariablePrefix: ''

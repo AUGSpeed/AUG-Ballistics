@@ -1,0 +1,33 @@
+MutagenObjectType: WeaponModification
+FormKey: 12FD26:Starfield.esm
+MajorRecordFlagsRaw: 128
+EditorID: mod_Solstice_Quality_TiersAny
+StarfieldMajorRecordFlags:
+- 0x80
+Name:
+  TargetLanguage: English
+  Value: Quality Tiers Any
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+Includes:
+- Mod: 12FD21:Starfield.esm
+  DoNotUseAll: True
+- Mod: 12FD23:Starfield.esm
+  MinimumLevel: 8
+  DoNotUseAll: True
+- Mod: 12FD24:Starfield.esm
+  MinimumLevel: 18
+  DoNotUseAll: True
+- Mod: 12FD25:Starfield.esm
+  MinimumLevel: 28
+  DoNotUseAll: True
+MajorFlags:
+- 0x80
+Properties:
+- MutagenObjectType: ObjectModFormLinkIntProperty<Weapon+Property>
+  Property: Keyword
+  Record: 374EFA:Starfield.esm
+  FunctionType: Add

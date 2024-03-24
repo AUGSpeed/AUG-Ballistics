@@ -1,0 +1,86 @@
+FormKey: 07D726:Starfield.esm
+EditorID: LC017_LvlStarborn_06_Sniper
+ObjectBounds:
+  First: -0.591797, -0.3623047, 0
+  Second: 0.59179676, 1.0341797, 1.2373047
+ODTY: 0
+Flags:
+- Female
+- Respawn
+XpValueOffset: 60
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 30
+DispositionBase: 35
+UseTemplateActors: 16119
+DeathItem: 27025F:Starfield.esm
+Voice: 018ED9:Starfield.esm
+DefaultTemplate: 1926D1:Starfield.esm
+LegendaryChance: 06AAC8:Starfield.esm
+Race: 00347D:Starfield.esm
+ActorEffect:
+- 02E551:Starfield.esm
+- 0367A8:Starfield.esm
+- 138560:Starfield.esm
+- 18B81F:Starfield.esm
+- 23AF02:Starfield.esm
+- 23AF0A:Starfield.esm
+CombatOverridePackageList: 0102ED:Starfield.esm
+Perks:
+- Perk: 12A089:Starfield.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+  Value: 5
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+  Value: 5
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+  Value: 5
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D4:Starfield.esm
+  Value: 300
+- ActorValue: 0002D5:Starfield.esm
+  Value: 50
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0002CC:Starfield.esm
+  Value: 5
+- ActorValue: 0002CD:Starfield.esm
+  Value: 45
+- ActorValue: 000385:Starfield.esm
+  Value: 100
+Items:
+- Item:
+    Item: 024E28:Starfield.esm
+    Count: 1
+- Item:
+    Item: 03690A:Starfield.esm
+    Count: 1
+- Item:
+    Item: 160D30:Starfield.esm
+    Count: 3
+Aggression: VeryAggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Class: 010B2F:Starfield.esm
+GearedUpWeapons: 1
+Unused: 128
+CombatStyle: 12B471:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight: {}
+SpaceOutfit: 27025C:Starfield.esm
+DefaultPackageList: 2C55CA:Starfield.esm
+Tints: []
+MorphBlends:
+- BlendName: female_eu_md2_Neck
+  Intensity: 0.1
+SkinToneIndex: 0
+Pronoun: Unspecified
+ONA2: 0xEF000000FF0000803F0000803F0000803E00003442000000000AD7233CF40100000000803E000000000000803E00000041000040410AD7233CD5230200000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000020000010000803FE1FAC7420000C8420000803F000000000000803F0000803F

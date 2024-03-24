@@ -1,0 +1,67 @@
+FormKey: 02E9BA:Starfield.esm
+EditorID: FloaterABodyPartData
+Model:
+  File: Actors\FloaterA\CharacterAssets\skeleton_Ref.nif
+  FLLD: 0x01000000
+Parts:
+- Name:
+    TargetLanguage: English
+    Value: COM
+  PartNode: COM
+  VatsTarget: COM
+  DamageMult: 1
+  Type: COM
+  HealthPercent: 0.0196078431372549
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\FloaterA\CharacterAssets\skeleton_Ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Torso
+  PartNode: C_hips
+  VatsTarget: C_hips
+  DamageMult: 0.9
+  Flags:
+  - HitReaction
+  HealthPercent: 0.19607843137254902
+  ActorValue: 00038F:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\FloaterA\CharacterAssets\skeleton_Ref.nif
+  HitReactionStart: C_hips
+  HitReactionEnd: C_Hips5
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Head
+  PartNode: C_Spine
+  VatsTarget: C_Spine
+  DamageMult: 1.5
+  Flags:
+  - HitReaction
+  Type: Head1
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038A:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\FloaterA\CharacterAssets\skeleton_Ref.nif
+  HitReactionStart: C_Spine
+  HitReactionEnd: C_Spine
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: FloaterARoot
+  PartNode: Root
+  VatsTarget: Root
+  DamageMult: 1
+  Type: Root
+  HealthPercent: 0.0196078431372549
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\FloaterA\CharacterAssets\skeleton_Ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''

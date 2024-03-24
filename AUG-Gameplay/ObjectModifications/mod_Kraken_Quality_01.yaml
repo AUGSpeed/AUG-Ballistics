@@ -1,0 +1,17 @@
+MutagenObjectType: WeaponModification
+FormKey: 12F316:Starfield.esm
+EditorID: mod_Kraken_Quality_01
+Name:
+  TargetLanguage: English
+  Value: Standard
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+AttachPoint: 000805:AUG-Gameplay.esm
+Properties:
+- MutagenObjectType: ObjectModFormLinkIntProperty<Weapon+Property>
+  Property: Keyword
+  Record: 374EFA:Starfield.esm
+  FunctionType: Add

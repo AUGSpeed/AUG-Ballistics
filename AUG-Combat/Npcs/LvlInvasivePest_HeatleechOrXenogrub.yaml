@@ -1,0 +1,91 @@
+FormKey: 06AAD2:Starfield.esm
+EditorID: LvlInvasivePest_HeatleechOrXenogrub
+VirtualMachineAdapter:
+  Scripts:
+  - Name: UC09_InvasivePestRefScript
+    Properties:
+    - MutagenObjectType: ScriptObjectProperty
+      Name: ActorTypeHeatleech
+      Object: 152AA8:Starfield.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: DMP_AmbushMarker
+      Object: 02BCFA:Starfield.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: LinkAmbushTrigger
+      Object: 032449:Starfield.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: UC09_LeechNestCleanUpChance
+      Object: 1F9869:Starfield.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: UC09_LeechNestCleanUpCooldownLength
+      Object: 1F9868:Starfield.esm
+    - MutagenObjectType: ScriptObjectProperty
+      Name: UC09_Result
+      Object: 24377D:Starfield.esm
+ObjectBounds:
+  First: -0.08673949, -0.52094454, 2.9802322E-08
+  Second: 0.08673949, 0.40321857, 0.17248027
+ODTY: 0
+Flags:
+- 0x100
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+UseTemplateActors: 32191
+DeathItem: 21225C:Starfield.esm
+DefaultTemplate: 06AACE:Starfield.esm
+TemplateActors:
+  TraitTemplate: 06AACE:Starfield.esm
+  StatsTemplate: 06AACE:Starfield.esm
+  FactionsTemplate: 06AACE:Starfield.esm
+  SpellListTemplate: 06AACE:Starfield.esm
+  AiDataTemplate: 06AACE:Starfield.esm
+  AiPackagesTemplate: 06AACE:Starfield.esm
+  BaseDataTemplate: 06AACE:Starfield.esm
+  InventoryTemplate: 06AACE:Starfield.esm
+  DefPackListTemplate: 06AACE:Starfield.esm
+  AttackDataTemplate: 06AACE:Starfield.esm
+  KeywordsTemplate: 06AACE:Starfield.esm
+  Unknown1: 06AACE:Starfield.esm
+  Unknown2: 06AACE:Starfield.esm
+Race: 2AAD58:Starfield.esm
+Skin: 2AAD55:Starfield.esm
+CombatOverridePackageList: 0102ED:Starfield.esm
+Perks:
+- Perk: 11239D:Starfield.esm
+  Rank: 1
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D4:Starfield.esm
+- ActorValue: 0002D5:Starfield.esm
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 22A2B6:Starfield.esm
+  Value: 1
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Class: 1CD0A9:Starfield.esm
+GearedUpWeapons: 1
+Unused: 101
+CombatStyle: 1EBB3A:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight: {}
+Sounds:
+- Sound:
+    Start: 42c840d4-1b76-a582-082a-2a2cd4092fb9
+    Stop: 237e4131-52fe-d003-8df5-c0d87f1de595
+  CS3F: 0x00
+DefaultPackageList: 26F68A:Starfield.esm
+Tints: []
+SkinToneIndex: 0
+Pronoun: Unspecified

@@ -1,0 +1,33 @@
+FormKey: 147124:Starfield.esm
+EditorID: SEDerelict_LChar_OctopedeAMaggotCrab
+ODTY: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- 0x40
+Entries:
+- Level: 1
+  Reference: 0D7401:Starfield.esm
+  Count: 1
+- Level: 40
+  Reference: 147125:Starfield.esm
+  Count: 1
+- Level: 50
+  Reference: 147126:Starfield.esm
+  Count: 1
+- Level: 60
+  Reference: 147127:Starfield.esm
+  Count: 1
+- Level: 70
+  Reference: 147128:Starfield.esm
+  Count: 1
+- Level: 80
+  Reference: 154FEE:Starfield.esm
+  Count: 1
+- Level: 90
+  Reference: 154FEF:Starfield.esm
+  Count: 1
+- Level: 100
+  Reference: 15B2F8:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

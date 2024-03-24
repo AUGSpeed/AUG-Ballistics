@@ -1,2 +1,12 @@
-# AUG-Ballistics
-A repository to track and develop my Starfield Mod, Augmented Ballistics.
+# AUG-Starfield
+A repository to track and develop my Starfield Mods, which currently include:
+
+- Augmented Ballistics
+- Augmented Combat
+- Augmented Gameplay
+
+## Changelog
+
+## Contributing
+
+## License

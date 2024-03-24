@@ -1,0 +1,17 @@
+FormKey: 043285:Starfield.esm
+EditorID: co_gun_mod_OldEarthHuntingRifle_Internal_None
+Description:
+  TargetLanguage: English
+  Value: Empty internal module.
+WorkbenchKeyword: 2CE1C0:Starfield.esm
+ConstructableComponents:
+- Component: 0057D6:Starfield.esm
+  Count: 1
+- Component: 07782D:Starfield.esm
+  Count: 1
+CreatedObject: 043288:Starfield.esm
+AmountProduced: 1
+LearnMethod: DefaultOrConditions
+Categories:
+- 06A35C:Starfield.esm
+RECF: 0

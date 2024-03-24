@@ -1,0 +1,71 @@
+FormKey: 12D0EF:Starfield.esm
+EditorID: LvlRobotModelS_Unaggressive
+ObjectBounds:
+  First: -0.591797, -0.3623047, 0
+  Second: 0.59179676, 1.0341797, 1.2373047
+ODTY: 0
+Flags:
+- Respawn
+- 0x100
+XpValueOffset: 15
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+UseTemplateActors: 24495
+DeathItem: 25D996:Starfield.esm
+Voice: 2BCA58:Starfield.esm
+DefaultTemplate: 25D998:Starfield.esm
+TemplateActors:
+  TraitTemplate: 25D998:Starfield.esm
+  StatsTemplate: 25D998:Starfield.esm
+  FactionsTemplate: 25D998:Starfield.esm
+  SpellListTemplate: 25D998:Starfield.esm
+  AiPackagesTemplate: 25D998:Starfield.esm
+  BaseDataTemplate: 25D998:Starfield.esm
+  InventoryTemplate: 25D998:Starfield.esm
+  ScriptTemplate: 25D998:Starfield.esm
+  DefPackListTemplate: 25D998:Starfield.esm
+  AttackDataTemplate: 25D998:Starfield.esm
+  KeywordsTemplate: 25D998:Starfield.esm
+  Unknown2: 25D998:Starfield.esm
+Race: 0130F0:Starfield.esm
+Skin: 01FDB4:Starfield.esm
+AttackRace: 0130F0:Starfield.esm
+CombatOverridePackageList: 0102ED:Starfield.esm
+Properties:
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0002D5:Starfield.esm
+  Value: 50
+- ActorValue: 0002D4:Starfield.esm
+  Value: 310
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002E3:Starfield.esm
+  Value: 130
+NativeTerminal: 1AE420:Starfield.esm
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Class: 010B2F:Starfield.esm
+CalculatedHealth: 20
+GearedUpWeapons: 1
+CombatStyle: 2AB1CE:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight:
+  Thin: 0.4235
+  Muscular: 0.1329
+  Fat: 0.4435
+DefaultPackageList: 26F689:Starfield.esm
+Tints: []
+SkinToneIndex: 0
+Pronoun: Unspecified

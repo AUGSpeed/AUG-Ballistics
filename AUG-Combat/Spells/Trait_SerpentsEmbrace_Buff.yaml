@@ -1,0 +1,21 @@
+FormKey: 065FCC:Starfield.esm
+EditorID: Trait_SerpentsEmbrace_Buff
+ODTY: 0
+Name:
+  TargetLanguage: English
+  Value: Serpent's Embrace
+EquipmentType: 013F44:Starfield.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+CastType: FireAndForget
+TargetType: TargetActor
+Effects:
+- BaseEffect: 03B806:Starfield.esm
+  Data:
+    Magnitude: 25
+    Duration: 14400
+  Magnitude: 100AD1:Starfield.esm
+  Duration: 065FCD:Starfield.esm
+  EFIF: 0
+  MUID: 1

@@ -1,0 +1,77 @@
+FormKey: 0EC123:Starfield.esm
+EditorID: LvlTurretCompact_Corpse
+ObjectBounds:
+  First: -0.4978376, -0.4065881, -4.7683716E-07
+  Second: 0.4978376, 0.46624044, 1.4222577
+ODTY: 0
+Flags:
+- 0x2000000
+XpValueOffset: 10
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+UseTemplateActors: 32767
+DeathItem: 3EC047:Starfield.esm
+DefaultTemplate: 0EC0F3:Starfield.esm
+TemplateActors:
+  TraitTemplate: 0EC0F3:Starfield.esm
+  StatsTemplate: 0EC0F3:Starfield.esm
+  FactionsTemplate: 0EC0F3:Starfield.esm
+  SpellListTemplate: 0EC0F3:Starfield.esm
+  AiDataTemplate: 0EC0F3:Starfield.esm
+  AiPackagesTemplate: 0EC0F3:Starfield.esm
+  ModelOrAnimationTemplate: 0EC0F3:Starfield.esm
+  BaseDataTemplate: 0EC0F3:Starfield.esm
+  InventoryTemplate: 0EC0F3:Starfield.esm
+  ScriptTemplate: 0EC0F3:Starfield.esm
+  DefPackListTemplate: 0EC0F3:Starfield.esm
+  AttackDataTemplate: 0EC0F3:Starfield.esm
+  KeywordsTemplate: 0EC0F3:Starfield.esm
+  Unknown1: 0EC0F3:Starfield.esm
+  Unknown2: 0EC0F3:Starfield.esm
+Race: 1EA1DB:Starfield.esm
+Skin: 103013:Starfield.esm
+Properties:
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0002D5:Starfield.esm
+  Value: 50
+- ActorValue: 0002C3:Starfield.esm
+- ActorValue: 0002C2:Starfield.esm
+  Value: 4
+- ActorValue: 0002D4:Starfield.esm
+  Value: 25
+- ActorValue: 0002EB:Starfield.esm
+  Value: 130
+- ActorValue: 0002E3:Starfield.esm
+  Value: 130
+NativeTerminal: 1AE416:Starfield.esm
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+UnknownAIDT: 1
+RDSAs:
+- UnknownInt: 2
+  UnknownInt2: 6
+  UnknownInt3: 32769
+  UnknownLink2: 0242F7:Starfield.esm
+  UnknownFloat5: 2
+  UnknownFloat6: 1
+Class: 123E22:Starfield.esm
+FarAwayModelDistance: 200
+GearedUpWeapons: 1
+Unused: 186
+CombatStyle: 0E60AF:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight:
+  Thin: 0.5
+  Muscular: 0.5
+InheritsSoundsFrom: 3266DE:Starfield.esm
+DefaultPackageList: 31B5B3:Starfield.esm
+Tints: []
+SkinToneIndex: 0
+Pronoun: Unspecified

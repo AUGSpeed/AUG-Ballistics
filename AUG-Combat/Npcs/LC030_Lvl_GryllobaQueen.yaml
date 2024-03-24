@@ -1,0 +1,95 @@
+FormKey: 187119:Starfield.esm
+EditorID: LC030_Lvl_GryllobaQueen
+ObjectBounds:
+  First: -1.1898888, -1.9755714, -5.0099004E-07
+  Second: 1.1898888, 2.0728056, 2.3750968
+ODTY: 0
+Flags:
+- Respawn
+- 0x100
+XpValueOffset: 15
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 6
+DispositionBase: 35
+UseTemplateActors: 32767
+DeathItem: 1B5D9E:Starfield.esm
+DefaultTemplate: 18711C:Starfield.esm
+TemplateActors:
+  TraitTemplate: 18711C:Starfield.esm
+  StatsTemplate: 18711C:Starfield.esm
+  FactionsTemplate: 18711C:Starfield.esm
+  SpellListTemplate: 18711C:Starfield.esm
+  AiDataTemplate: 18711C:Starfield.esm
+  AiPackagesTemplate: 18711C:Starfield.esm
+  ModelOrAnimationTemplate: 18711C:Starfield.esm
+  BaseDataTemplate: 18711C:Starfield.esm
+  InventoryTemplate: 18711C:Starfield.esm
+  ScriptTemplate: 18711C:Starfield.esm
+  DefPackListTemplate: 18711C:Starfield.esm
+  AttackDataTemplate: 18711C:Starfield.esm
+  KeywordsTemplate: 18711C:Starfield.esm
+  Unknown1: 18711C:Starfield.esm
+  Unknown2: 18711C:Starfield.esm
+Race: 1BB965:Starfield.esm
+Skin: 015B19:Starfield.esm
+CombatOverridePackageList: 0102ED:Starfield.esm
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D4:Starfield.esm
+  Value: 430
+- ActorValue: 0002D5:Starfield.esm
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+Aggression: VeryAggressive
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+AttachParentSlots:
+- 2AD3E6:Starfield.esm
+- 2AD3E7:Starfield.esm
+- 25614F:Starfield.esm
+- 20AA19:Starfield.esm
+- 20AA16:Starfield.esm
+- 20AA15:Starfield.esm
+- 20AA14:Starfield.esm
+- 2AD3E8:Starfield.esm
+- 2AD3E9:Starfield.esm
+- 20AA1A:Starfield.esm
+- 23CB01:Starfield.esm
+- 23AF14:Starfield.esm
+- 23AF12:Starfield.esm
+- 20AA13:Starfield.esm
+- 2AD3EB:Starfield.esm
+- 20AA18:Starfield.esm
+- 2AD3EA:Starfield.esm
+- 1D9CF8:Starfield.esm
+- 1C5212:Starfield.esm
+- 20AA17:Starfield.esm
+Class: 002F64:Starfield.esm
+CalculatedHealth: 265
+GearedUpWeapons: 1
+Unused: 43
+CombatStyle: 055BCB:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 2
+Weight:
+  Thin: 0.3333
+  Muscular: 0.3333
+  Fat: 0.3333
+Sounds:
+- Sound:
+    Start: ccca4ffe-5d7a-f120-62e3-cdad26379283
+  CS3F: 0x00
+DefaultPackageList: 26F68A:Starfield.esm
+Tints: []
+SkinToneIndex: 0
+Pronoun: Unspecified

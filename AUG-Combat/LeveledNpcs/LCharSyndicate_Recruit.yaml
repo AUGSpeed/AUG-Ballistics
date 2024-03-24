@@ -1,0 +1,25 @@
+FormKey: 15E24A:Starfield.esm
+EditorID: LCharSyndicate_Recruit
+ODTY: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+- 0x40
+Entries:
+- Level: 1
+  Reference: 15E249:Starfield.esm
+  Count: 1
+- Level: 10
+  Reference: 270273:Starfield.esm
+  Count: 1
+- Level: 15
+  Reference: 270272:Starfield.esm
+  Count: 1
+- Level: 20
+  Reference: 270271:Starfield.esm
+  Count: 1
+- Level: 25
+  Reference: 270270:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

@@ -1,0 +1,40 @@
+FormKey: 012359:Starfield.esm
+EditorID: LCharRobotModelA_CrimsonFleet
+ODTY: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+- 0x40
+Entries:
+- Level: 1
+  Reference: 00DB3A:Starfield.esm
+  Count: 1
+- Level: 12
+  Reference: 00DB3B:Starfield.esm
+  Count: 1
+- Level: 20
+  Reference: 00E941:Starfield.esm
+  Count: 1
+- Level: 28
+  Reference: 00E942:Starfield.esm
+  Count: 1
+- Level: 36
+  Reference: 0102C2:Starfield.esm
+  Count: 1
+- Level: 46
+  Reference: 0117F8:Starfield.esm
+  Count: 1
+- Level: 56
+  Reference: 011C7A:Starfield.esm
+  Count: 1
+- Level: 68
+  Reference: 011C7C:Starfield.esm
+  Count: 1
+- Level: 80
+  Reference: 012357:Starfield.esm
+  Count: 1
+- Level: 92
+  Reference: 012358:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

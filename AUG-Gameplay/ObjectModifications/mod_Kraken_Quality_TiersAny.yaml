@@ -1,0 +1,33 @@
+MutagenObjectType: WeaponModification
+FormKey: 12FD20:Starfield.esm
+MajorRecordFlagsRaw: 128
+EditorID: mod_Kraken_Quality_TiersAny
+StarfieldMajorRecordFlags:
+- 0x80
+Name:
+  TargetLanguage: English
+  Value: Quality Tiers Any
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+Includes:
+- Mod: 12F316:Starfield.esm
+  DoNotUseAll: True
+- Mod: 12F330:Starfield.esm
+  MinimumLevel: 6
+  DoNotUseAll: True
+- Mod: 12FB63:Starfield.esm
+  MinimumLevel: 16
+  DoNotUseAll: True
+- Mod: 12FD1F:Starfield.esm
+  MinimumLevel: 26
+  DoNotUseAll: True
+MajorFlags:
+- 0x80
+Properties:
+- MutagenObjectType: ObjectModFormLinkIntProperty<Weapon+Property>
+  Property: Keyword
+  Record: 374EFA:Starfield.esm
+  FunctionType: Add

@@ -1,0 +1,17 @@
+FormKey: 000809:AUG-Gameplay.esm
+EditorID: co_gun_mod_OldEarthHuntingRifle_Quality_01
+Description:
+  TargetLanguage: English
+  Value: Standard weapon, no tweaks.
+WorkbenchKeyword: 2CE1C0:Starfield.esm
+ConstructableComponents:
+- Component: 0057D6:Starfield.esm
+  Count: 1
+- Component: 07782D:Starfield.esm
+  Count: 1
+CreatedObject: 28FC1D:Starfield.esm
+AmountProduced: 1
+LearnMethod: DefaultOrConditions
+Categories:
+- 000800:AUG-Gameplay.esm
+RECF: 0

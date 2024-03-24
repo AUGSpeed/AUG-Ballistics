@@ -1,0 +1,62 @@
+FormKey: 159AF0:Starfield.esm
+MajorRecordFlagsRaw: 4194304
+EditorID: LC043SYStationShip_AutopilotAI
+StarfieldMajorRecordFlags:
+- 0x400000
+ODTY: 0
+Flags:
+- Female
+- AutoCalcStats
+- 0x40000000
+- Invulnerable
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 50
+DispositionBase: 35
+Factions:
+- Faction: 261349:Starfield.esm
+Voice: 26FDB8:Starfield.esm
+Race: 025739:Starfield.esm
+CombatOverridePackageList: 1B5600:Starfield.esm
+Properties:
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0002D5:Starfield.esm
+  Value: 50
+- ActorValue: 0002D4:Starfield.esm
+  Value: 100
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002CC:Starfield.esm
+  Value: 15
+- ActorValue: 00039D:Starfield.esm
+Confidence: Foolhardy
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Class: 01326B:Starfield.esm
+Name:
+  TargetLanguage: English
+  Value: Pilot
+CalculatedHealth: 1130
+CalculatedActionPoints: 50
+GearedUpWeapons: 1
+CombatStyle: 00334D:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight: {}
+DefaultPackageList: 0110AA:Starfield.esm
+CrimeFaction: 261349:Starfield.esm
+Tints: []
+BodyMorphRegionValues:
+  UpperTorso: 0.21
+SkinToneIndex: 0
+Pronoun: Unspecified
+MajorFlags:
+- 0x400000

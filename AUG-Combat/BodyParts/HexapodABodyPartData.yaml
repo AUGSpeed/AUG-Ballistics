@@ -1,0 +1,182 @@
+FormKey: 2CCAAB:Starfield.esm
+EditorID: HexapodABodyPartData
+Model:
+  File: Actors\HexapodA\CharacterAssets\skeleton_ref.nif
+  FLLD: 0x01000000
+Parts:
+- Name:
+    TargetLanguage: English
+    Value: COM
+  PartNode: COM
+  VatsTarget: COM
+  DamageMult: 1
+  Type: COM
+  HealthPercent: 0.0196078431372549
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HexapodA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Head
+  PartNode: C_Head
+  VatsTarget: C_Head
+  DamageMult: 2.5
+  Flags:
+  - HitReaction
+  Type: Head1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038A:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HexapodA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: C_Head
+  HitReactionEnd: C_Head2
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Torso
+  PartNode: C_Spine
+  VatsTarget: C_Spine2
+  DamageMult: 1
+  Flags:
+  - HitReaction
+  HealthPercent: 0.19607843137254902
+  ActorValue: 00038F:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HexapodA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: C_Spine
+  HitReactionEnd: C_spine4
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: RearLeftLeg
+  PartNode: L_LegBackBase
+  VatsTarget: L_LegBack2
+  DamageMult: 0.5
+  Type: LeftLeg3
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038D:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HexapodA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\HexapodA\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\HexapodA\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: LeftFoot
+  PartNode: L_LegFront3
+  VatsTarget: L_LegFront3
+  DamageMult: 0.3
+  Type: LeftFoot
+  HealthPercent: 0.0196078431372549
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HexapodA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: FrontLeftLeg
+  PartNode: L_LegFrontBase
+  VatsTarget: L_LegFront2
+  DamageMult: 0.5
+  Type: LeftLeg1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038D:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HexapodA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\HexapodA\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\HexapodA\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: MidLeftLeg
+  PartNode: L_LegMidBase
+  VatsTarget: L_LegMid3
+  DamageMult: 0.5
+  Type: LeftLeg2
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038D:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HexapodA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\HexapodA\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\HexapodA\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: HexapodARoot
+  PartNode: Root
+  VatsTarget: Root
+  Type: Root
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HexapodA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: RearRightLeg
+  PartNode: R_LegBackBase
+  VatsTarget: R_LegBack3
+  DamageMult: 0.5
+  Type: RightLeg3
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038E:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HexapodA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\HexapodA\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\HexapodA\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: RightFoot
+  PartNode: R_LegFront3
+  VatsTarget: R_LegFront3
+  DamageMult: 0.3
+  Type: RightFoot
+  HealthPercent: 0.0196078431372549
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HexapodA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: FrontRightLeg
+  PartNode: R_LegFrontBase
+  VatsTarget: R_LegFront2
+  DamageMult: 0.5
+  Type: RightLeg1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038E:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HexapodA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\HexapodA\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\HexapodA\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: MidRighLeg
+  PartNode: R_LegMidBase
+  VatsTarget: R_LegMid3
+  DamageMult: 0.5
+  Type: RightLeg2
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038E:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HexapodA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\HexapodA\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\HexapodA\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''

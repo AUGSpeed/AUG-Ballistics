@@ -1,0 +1,35 @@
+MutagenObjectType: ArmorModification
+FormKey: 03EFAA:Starfield.esm
+EditorID: mod_Armor_Spacesuit_Quality_02_CrimsonFleet_Charger
+Name:
+  TargetLanguage: English
+  Value: Standard
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+AttachPoint: 11E2C1:Starfield.esm
+Properties:
+- MutagenObjectType: ObjectModFormLinkFloatProperty<Armor+Property>
+  Property: DamageResistance
+  Record: 023190:Starfield.esm
+  Value: 5
+  FunctionType: Add
+- MutagenObjectType: ObjectModFormLinkFloatProperty<Armor+Property>
+  Property: DamageResistance
+  Record: 060A81:Starfield.esm
+  Value: 5
+  FunctionType: Add
+- MutagenObjectType: ObjectModFloatProperty<Armor+Property>
+  Property: Value
+  Value: 0.25
+  FunctionType: MultAndAdd
+- MutagenObjectType: ObjectModIntProperty<Armor+Property>
+  Property: Rating
+  Value: 5
+  FunctionType: Add
+- MutagenObjectType: ObjectModFormLinkIntProperty<Armor+Property>
+  Property: Keyword
+  Record: 3A0B38:Starfield.esm
+  FunctionType: Add

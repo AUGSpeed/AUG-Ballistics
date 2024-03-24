@@ -1,0 +1,14 @@
+MutagenObjectType: WeaponModification
+FormKey: 000812:AUG-Gameplay.esm
+EditorID: mod_Eon_Quality_04
+Name:
+  TargetLanguage: English
+  Value: Advanced
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+AttachPoint: 000805:AUG-Gameplay.esm
+Includes:
+- Mod: 000810:AUG-Gameplay.esm

@@ -1,0 +1,46 @@
+FormKey: 23B924:Starfield.esm
+EditorID: Trait_AlienDNA_Ability
+ODTY: 0
+Name:
+  TargetLanguage: English
+  Value: Alien DNA
+EquipmentType: 013F44:Starfield.esm
+Description:
+  TargetLanguage: English
+  Value: ''
+Type:
+- Ability
+Effects:
+- BaseEffect: 23B927:Starfield.esm
+  Data:
+    Magnitude: 50
+  Magnitude: 14A885:Starfield.esm
+  EFIF: 0
+  MUID: 1
+- BaseEffect: 23B928:Starfield.esm
+  Data:
+    Magnitude: 50
+  Conditions:
+  - MutagenObjectType: ConditionFloat
+    Unknown1: 0x010812
+    Unknown2: 17620
+    Data:
+      MutagenObjectType: IsTrueForConditionFormConditionData
+      FirstParameter: 1BBAB0:Starfield.esm
+    ComparisonValue: 1
+  Magnitude: 14A887:Starfield.esm
+  EFIF: 0
+  MUID: 2
+- BaseEffect: 23B925:Starfield.esm
+  Data:
+    Magnitude: 0.2
+  EFIF: 0
+  MUID: 3
+- BaseEffect: 23B929:Starfield.esm
+  Data: {}
+  EFIF: 0
+  MUID: 5
+- BaseEffect: 23B92A:Starfield.esm
+  Data: {}
+  EFIF: 0
+  MUID: 6

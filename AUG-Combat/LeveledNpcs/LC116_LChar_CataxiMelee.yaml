@@ -1,0 +1,33 @@
+FormKey: 18712C:Starfield.esm
+EditorID: LC116_LChar_CataxiMelee
+ODTY: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- 0x40
+Entries:
+- Level: 1
+  Reference: 187105:Starfield.esm
+  Count: 1
+- Level: 10
+  Reference: 187104:Starfield.esm
+  Count: 1
+- Level: 20
+  Reference: 187103:Starfield.esm
+  Count: 1
+- Level: 25
+  Reference: 187102:Starfield.esm
+  Count: 1
+- Level: 35
+  Reference: 1181C2:Starfield.esm
+  Count: 1
+- Level: 55
+  Reference: 1181C1:Starfield.esm
+  Count: 1
+- Level: 70
+  Reference: 1181C0:Starfield.esm
+  Count: 1
+- Level: 100
+  Reference: 1181BF:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

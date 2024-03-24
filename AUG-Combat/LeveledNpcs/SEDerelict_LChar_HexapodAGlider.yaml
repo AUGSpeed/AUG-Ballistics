@@ -1,0 +1,33 @@
+FormKey: 398BBB:Starfield.esm
+EditorID: SEDerelict_LChar_HexapodAGlider
+ODTY: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- 0x40
+Entries:
+- Level: 1
+  Reference: 398BBC:Starfield.esm
+  Count: 1
+- Level: 15
+  Reference: 398BBD:Starfield.esm
+  Count: 1
+- Level: 30
+  Reference: 398BBE:Starfield.esm
+  Count: 1
+- Level: 45
+  Reference: 398BC2:Starfield.esm
+  Count: 1
+- Level: 60
+  Reference: 398BC3:Starfield.esm
+  Count: 1
+- Level: 75
+  Reference: 398BBF:Starfield.esm
+  Count: 1
+- Level: 90
+  Reference: 398BC4:Starfield.esm
+  Count: 1
+- Level: 100
+  Reference: 398BC1:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

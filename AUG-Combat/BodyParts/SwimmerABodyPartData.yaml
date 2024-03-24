@@ -1,0 +1,91 @@
+FormKey: 26AECB:Starfield.esm
+EditorID: SwimmerABodyPartData
+Model:
+  File: Actors\swimmera\CharacterAssets\skeleton_ref.nif
+  FLLD: 0x01000000
+Parts:
+- Name:
+    TargetLanguage: English
+    Value: COM
+  PartNode: COM
+  VatsTarget: COM
+  DamageMult: 1
+  Type: COM
+  HealthPercent: 0.0196078431372549
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\HopperA\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Head
+  PartNode: C_Neck
+  VatsTarget: C_Head
+  DamageMult: 1.5
+  Flags:
+  - HitReaction
+  Type: Head1
+  HealthPercent: 0.09803921568627451
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\swimmera\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Torso
+  PartNode: C_Spine
+  VatsTarget: C_spine12
+  DamageMult: 1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038F:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\swimmera\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\swimmera\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\swimmera\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: FrontLeftLeg
+  PartNode: L_FinA
+  VatsTarget: L_FinA
+  DamageMult: 0.8
+  Type: LeftArm1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038D:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\swimmera\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\swimmera\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\swimmera\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: SwimmerARoot
+  PartNode: Root
+  VatsTarget: Root
+  Type: Root
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\swimmera\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: FrontRightLeg
+  PartNode: R_FinA
+  VatsTarget: R_FinA
+  DamageMult: 0.8
+  Type: RightArm1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038E:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\swimmera\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\swimmera\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\swimmera\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''

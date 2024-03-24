@@ -1,0 +1,52 @@
+FormKey: 054037:Starfield.esm
+EditorID: LC003_Corpse_Critter_Trilobite
+ObjectBounds:
+  First: -0.2048875, -0.33569613, -3.2782555E-07
+  Second: 0.2048875, 0.33569613, 0.4099182
+ODTY: 0
+Flags:
+- AutoCalcStats
+- 0x100
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 1
+DispositionBase: 35
+Factions:
+- Faction: 022B31:Starfield.esm
+Race: 0176B6:Starfield.esm
+Skin: 0176B7:Starfield.esm
+AttackRace: 0176B6:Starfield.esm
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D4:Starfield.esm
+- ActorValue: 0002D5:Starfield.esm
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsAllies
+Packages:
+- 089605:Starfield.esm
+Class: 010B2F:Starfield.esm
+Name:
+  TargetLanguage: English
+  Value: Kreet Crawler
+CalculatedHealth: 20
+GearedUpWeapons: 1
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight:
+  Thin: 0.3333
+  Muscular: 0.3333
+  Fat: 0.3333
+DefaultPackageList: 26F68A:Starfield.esm
+Tints: []
+SkinToneIndex: 0
+Pronoun: Unspecified

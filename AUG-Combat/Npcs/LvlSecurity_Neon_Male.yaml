@@ -1,0 +1,252 @@
+FormKey: 247D44:Starfield.esm
+EditorID: LvlSecurity_Neon_Male
+ObjectBounds:
+  First: -0.31000048, -0.31000048, -4.7683716E-07
+  Second: 0.31000048, 0.31000048, 1.8000004
+ODTY: 0
+XpValueOffset: 20
+Level:
+  MutagenObjectType: NpcLevel
+  Level: 12
+DispositionBase: 35
+UseTemplateActors: 32703
+DeathItem: 00ABF8:Starfield.esm
+Voice: 2BCA48:Starfield.esm
+DefaultTemplate: 247D45:Starfield.esm
+TemplateActors:
+  TraitTemplate: 247D47:Starfield.esm
+  StatsTemplate: 247D45:Starfield.esm
+  FactionsTemplate: 247D45:Starfield.esm
+  SpellListTemplate: 247D45:Starfield.esm
+  AiDataTemplate: 247D45:Starfield.esm
+  AiPackagesTemplate: 247D45:Starfield.esm
+  BaseDataTemplate: 247D45:Starfield.esm
+  InventoryTemplate: 247D45:Starfield.esm
+  ScriptTemplate: 247D45:Starfield.esm
+  DefPackListTemplate: 247D45:Starfield.esm
+  AttackDataTemplate: 247D45:Starfield.esm
+  KeywordsTemplate: 247D45:Starfield.esm
+  Unknown1: 247D45:Starfield.esm
+  Unknown2: 247D45:Starfield.esm
+Race: 00347D:Starfield.esm
+CombatOverridePackageList: 0102ED:Starfield.esm
+Properties:
+- ActorValue: 0002C2:Starfield.esm
+- ActorValue: 0002C3:Starfield.esm
+  Value: 5
+- ActorValue: 0002C4:Starfield.esm
+- ActorValue: 0002C5:Starfield.esm
+  Value: 5
+- ActorValue: 0002C6:Starfield.esm
+- ActorValue: 0002C7:Starfield.esm
+  Value: 5
+- ActorValue: 0002C8:Starfield.esm
+- ActorValue: 0002D4:Starfield.esm
+  Value: 65
+- ActorValue: 0002D5:Starfield.esm
+  Value: 50
+- ActorValue: 0002DA:Starfield.esm
+  Value: 100
+- ActorValue: 0002CC:Starfield.esm
+  Value: 15
+- ActorValue: 0002CD:Starfield.esm
+  Value: 45
+Aggression: Aggressive
+Confidence: Brave
+EnergyLevel: 50
+Responsibility: NoCrime
+Assistance: HelpsFriendsAndAllies
+Class: 010B2F:Starfield.esm
+CalculatedHealth: 70
+CalculatedActionPoints: 100
+GearedUpWeapons: 1
+Unused: 43
+HeadParts:
+- 062F07:Starfield.esm
+- 064D88:Starfield.esm
+- 132C58:Starfield.esm
+- 132C59:Starfield.esm
+- 15E754:Starfield.esm
+- 24A022:Starfield.esm
+- 24A023:Starfield.esm
+- 24A03D:Starfield.esm
+- 253FA3:Starfield.esm
+- 253FA5:Starfield.esm
+- 3A681B:Starfield.esm
+- 3BE58D:Starfield.esm
+CombatStyle: 2C5F7D:Starfield.esm
+NAM5: 0xFF00
+HeightMin: 1
+HeightMax: 1
+Weight:
+  Muscular: 0.23
+  Fat: 0.49
+DefaultOutfit: 133D9D:Starfield.esm
+SpaceOutfit: 20E2D0:Starfield.esm
+DefaultPackageList: 2C55CA:Starfield.esm
+Tints:
+- TintType: SimpleGroup
+  TintGroup: Dermaesthetic
+  TintName: African_Male_ol1_Sk6
+  TintTexture: textures/actors/human/faces/chargen/postblenddetails/dermaesthetic/male_af_ol1_sk6_derm_color.dds
+  TintColor: '#00000000'
+  TintIntensity: 64
+- TintType: SimpleGroup
+  TintGroup: ComplexionMask1
+  TintName: Stubble_Light
+  TintTexture: textures/actors/human/faces/chargen/postblenddetails/stubble/chinfade_stub_mask.dds
+  TintColor: '#00000000'
+  TintIntensity: 64
+- TintType: SimpleGroup
+  TintGroup: Complexion1
+  TintName: Crevice_Complexion_Jaundiced
+  TintTexture: textures/actors/human/faces/chargen/postblenddetails/complexion/complexioncolorful_color.dds
+  TintColor: '#00000000'
+  TintIntensity: 16
+- TintType: SimpleGroup
+  TintGroup: ComplexionMask2
+  TintName: Rosacea_Nose
+  TintTexture: textures/actors/human/faces/chargen/postblenddetails/complexion/rosacea_nose_mask.dds
+  TintColor: '#BB640F0F'
+  TintIntensity: 37
+- TintType: ComplexGroup
+  TintGroup: Scars
+  TintName: Scar_RightBrowSmall
+  TintTexture: textures/actors/human/faces/chargen/postblenddetails/scars/scar_rightbrowsmall_color.dds
+  TintColor: '#00000000'
+  TintIntensity: 64
+- TintType: ComplexGroup
+  TintGroup: Accents1
+  TintName: Accents_ChinCleft_Dark
+  TintTexture: textures/actors/human/faces/chargen/postblenddetails/accents/accents_chincleft_dark_color.dds
+  TintColor: '#00000000'
+  TintIntensity: 64
+- TintType: ComplexGroup
+  TintGroup: Accents2
+  TintName: Accents_CrowsFeet
+  TintTexture: textures/actors/human/faces/chargen/postblenddetails/accents/accents_crowsfeet_color.dds
+  TintColor: '#00000000'
+  TintIntensity: 64
+FaceDialPositions:
+- Index: 24
+  Position: 0.24899912
+- Index: 25
+  Position: 0.29320475
+- Index: 27
+  Position: 0.05144977
+- Index: 28
+  Position: 0.18302491
+- Index: 29
+  Position: -0.04850384
+- Index: 31
+  Position: -0.31
+- Index: 32
+  Position: 0.0018671886
+- Index: 35
+  Position: 0.46
+- Index: 36
+  Position: 0.08077689
+- Index: 37
+  Position: -0.66
+- Index: 39
+  Position: 0.48574945
+- Index: 51
+  Position: 0.67
+- Index: 58
+  Position: -0.3684321
+- Index: 60
+  Position: -0.38903737
+- Index: 63
+  Position: 0.35885376
+- Index: 64
+  Position: 0.03407873
+- Index: 65
+  Position: -0.22663404
+- Index: 67
+  Position: -0.37133372
+- Index: 68
+  Position: 0.4008089
+- Index: 69
+  Position: -0.49267462
+- Index: 70
+  Position: -0.24760252
+- Index: 71
+  Position: 0.47461832
+- Index: 73
+  Position: -0.34019092
+- Index: 74
+  Position: -0.051526837
+- Index: 75
+  Position: 0.48272917
+- Index: 76
+  Position: -0.2687821
+- Index: 77
+  Position: -0.55
+- Index: 78
+  Position: 0.17
+- Index: 79
+  Position: 0.14433576
+- Index: 80
+  Position: 0.45
+- Index: 83
+  Position: 0.37332013
+- Index: 84
+  Position: -0.10925028
+- Index: 85
+  Position: 0.02
+- Index: 86
+  Position: 0.3156306
+- Index: 87
+  Position: 0.26029778
+- Index: 88
+  Position: 0.86
+- Index: 89
+  Position: 0.12365182
+FaceMorphs:
+- Index: 44
+  MorphGroups:
+  - MorphGroup: Cheeks
+    BlendIntensity: 0.30422476
+  - MorphGroup: Chin
+    BlendIntensity: 0.13895932
+  - MorphGroup: Ears
+    BlendIntensity: 0.41744626
+  - MorphGroup: Eyes
+    BlendIntensity: 0.90367657
+  - MorphGroup: Forehead
+    BlendIntensity: 0.5580141
+  - MorphGroup: Jaw
+    BlendIntensity: 0.59253126
+  - MorphGroup: Mouth
+    BlendIntensity: 0.68140227
+  - MorphGroup: Neck
+    BlendIntensity: 0.6665444
+  - MorphGroup: Nose
+    BlendIntensity: 0.5862227
+MorphBlends:
+- BlendName: male_af_md1_Cheeks
+  Intensity: 0.30972514
+- BlendName: male_af_md1_Chin
+  Intensity: 0.7717953
+- BlendName: male_af_md1_Ears
+  Intensity: 0.96374166
+- BlendName: male_af_md1_Eyes
+  Intensity: 0.32321405
+- BlendName: male_af_md1_Forehead
+  Intensity: 0.7236185
+- BlendName: male_af_md1_Jaw
+  Intensity: 0.73928654
+- BlendName: male_af_md1_Mouth
+  Intensity: 0.6193879
+- BlendName: male_af_md1_Neck
+  Intensity: 0.80450684
+- BlendName: male_af_md1_Nose
+  Intensity: 0.4
+SkinToneIndex: 2
+HairColor: BlackBrown
+FacialHairColor: Brown
+EyebrowColor: BlackBrown
+EyeColor: Iron
+JewelryColor: No_Tint
+TeethColor: Teeth_Dirty
+Pronoun: Unspecified

@@ -1,0 +1,93 @@
+FormKey: 28B3E3:Starfield.esm
+EditorID: MantaABodyPartData
+Model:
+  File: Actors\mantaa\CharacterAssets\skeleton_ref.nif
+  FLLD: 0x01000000
+Parts:
+- Name:
+    TargetLanguage: English
+    Value: COM
+  PartNode: COM
+  VatsTarget: COM
+  DamageMult: 1
+  Type: COM
+  HealthPercent: 0.0196078431372549
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\parasitea\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Torso
+  PartNode: C_Spine
+  VatsTarget: C_Spine2
+  DamageMult: 1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038F:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\mantaa\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\mantaa\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\mantaa\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: Head
+  PartNode: C_Spine3
+  VatsTarget: C_Spine3
+  DamageMult: 2.5
+  Type: Head1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038A:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\mantaa\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\mantaa\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\mantaa\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: LeftArm
+  PartNode: L_wingA
+  VatsTarget: L_wingA
+  DamageMult: 0.9
+  Type: LeftArm1
+  HealthPercent: 0.09803921568627451
+  ActorValue: 00038B:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\mantaa\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\mantaa\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\mantaa\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: MantaARoot
+  PartNode: Root
+  VatsTarget: Root
+  DamageMult: 1
+  Type: Root
+  HealthPercent: 0.0196078431372549
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\mantaa\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: ''
+  HitReactionEnd: ''
+  TwistVariablePrefix: ''
+- Name:
+    TargetLanguage: English
+    Value: RightArm
+  PartNode: R_wingA
+  VatsTarget: R_wingA
+  DamageMult: 0.9
+  Type: RightArm1
+  HealthPercent: 0.0196078431372549
+  ActorValue: 00038B:Starfield.esm
+  ToHitChance: 0.39215686274509803
+  OnCrippleDebrisScale: 1
+  GoreTargetBone: BASE Meshes\Actors\mantaa\CharacterAssets\skeleton_ref.nif
+  HitReactionStart: BASE Meshes\Actors\mantaa\CharacterAssets\skeleton_ref.nif
+  HitReactionEnd: BASE Meshes\Actors\mantaa\CharacterAssets\skeleton_ref.nif
+  TwistVariablePrefix: ''
