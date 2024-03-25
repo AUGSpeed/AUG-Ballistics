@@ -62,11 +62,11 @@ Properties:
   FunctionType: MultAndAdd
 - MutagenObjectType: ObjectModFloatProperty<Weapon+Property>
   Property: MinRange
-  Value: 0.2
+  Value: 0.15
   FunctionType: MultAndAdd
 - MutagenObjectType: ObjectModFloatProperty<Weapon+Property>
   Property: MaxRange
-  Value: 0.2
+  Value: 0.15
   FunctionType: MultAndAdd
 - MutagenObjectType: ObjectModFloatProperty<Weapon+Property>
   Property: AimModelBaseStability
@@ -74,8 +74,8 @@ Properties:
   FunctionType: MultAndAdd
 - MutagenObjectType: ObjectModFloatProperty<Weapon+Property>
   Property: SightedTransitionSeconds
-  Value: 0.125
-  Value2: 0.1
+  Value: -0.1
+  Value2: -0.075
   FunctionType: MultAndAdd
 - MutagenObjectType: ObjectModFormLinkIntProperty<Weapon+Property>
   Property: Keyword

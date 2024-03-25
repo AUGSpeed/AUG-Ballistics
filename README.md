@@ -9,9 +9,9 @@ A repository to track and develop my Starfield Mods, which currently include:
 
 Each mod here has their own respective changelog, which you can see listed here:
 
-- [Augmented Ballistics](AUG-Ballistics/CHANGELOG.md)
-- [Augmented Combat](AUG-Combat/CHANGELOG.md)
-- [Augmented Gameplay](AUG-Gameplay/CHANGELOG.md)
+- [Augmented Ballistics](Changelogs/AUG-Ballistics-Changelog.md)
+- [Augmented Combat](Changelogs/AUG-Combat-Changelog.md)
+- [Augmented Gameplay](Changelogs/AUG-Gameplay-Changelog.md)
 
 ## Contributing
 
