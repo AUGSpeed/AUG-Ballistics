@@ -12,3 +12,4 @@
 - Full auto have decreased accuracy compared to burst fire weapons.
 - Burst fire weapons have decreased accuracy compared to semi-auto weapons.
 - Zoom sights do not affect FOV.
+- Laser weapons do not have recoil.
