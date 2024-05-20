@@ -1,0 +1,19 @@
+MutagenObjectType: ArmorModification
+FormKey: 11E2B5:Starfield.esm
+EditorID: mod_Armor_Helmet_Quality_01
+Name:
+  TargetLanguage: English
+  Value: Standard
+Description:
+  TargetLanguage: English
+  Value: ''
+Model:
+  FLLD: 0x01000000
+AttachPoint: 11E2C1:Starfield.esm
+TargetOmodKeywords:
+- 3A0B3B:Starfield.esm
+Properties:
+- MutagenObjectType: ObjectModFormLinkIntProperty<Armor+Property>
+  Property: Keyword
+  Record: 3A0B37:Starfield.esm
+  FunctionType: Add

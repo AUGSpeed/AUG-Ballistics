@@ -1,0 +1,20 @@
+FormKey: 102149:Starfield.esm
+EditorID: RegenerateHealthAbility
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Regenerate Health Outside Combat
+HitShader: 3BEFB0:Starfield.esm
+ActorValue2: 0002D7:Starfield.esm
+Archetype:
+  MutagenObjectType: MagicEffectPeakValueModArchetype
+UnkownInt2: 3
+UnkownInt3: 1065353216
+Flags:
+- Recover
+- NoArea
+- PowerAffectsMagnitude
+Unknown: 0x00000000000000000000000000000000000000000000
+Description:
+  TargetLanguage: English
+  Value: Regenerates health outside of combat.

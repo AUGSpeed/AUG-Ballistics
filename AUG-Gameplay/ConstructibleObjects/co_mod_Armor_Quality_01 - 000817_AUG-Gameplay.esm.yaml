@@ -1,0 +1,17 @@
+FormKey: 000817:AUG-Gameplay.esm
+EditorID: co_mod_Armor_Quality_01
+FormVersion: 558
+Description:
+  TargetLanguage: English
+  Value: Crafted with standard materials, no upgrades.
+WorkbenchKeyword: 0657FF:Starfield.esm
+ConstructableComponents:
+- Component: 0777F8:Starfield.esm
+  Count: 1
+- Component: 077821:Starfield.esm
+  Count: 2
+CreatedObject: 11E2BB:Starfield.esm
+LearnMethod: DefaultOrConditions
+Categories:
+- 2CA0A8:Starfield.esm
+RECF: 2

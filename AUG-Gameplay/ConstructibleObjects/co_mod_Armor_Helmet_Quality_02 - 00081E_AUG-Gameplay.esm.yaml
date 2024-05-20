@@ -1,0 +1,15 @@
+FormKey: 00081E:AUG-Gameplay.esm
+EditorID: co_mod_Armor_Helmet_Quality_02
+FormVersion: 558
+Description:
+  TargetLanguage: English
+  Value: Modified slightly for improved resistances.
+WorkbenchKeyword: 0657FF:Starfield.esm
+ConstructableComponents:
+- Component: 0057CB:Starfield.esm
+  Count: 1
+- Component: 0777F8:Starfield.esm
+  Count: 1
+CreatedObject: 11E2B6:Starfield.esm
+LearnMethod: DefaultOrConditions
+RECF: 2

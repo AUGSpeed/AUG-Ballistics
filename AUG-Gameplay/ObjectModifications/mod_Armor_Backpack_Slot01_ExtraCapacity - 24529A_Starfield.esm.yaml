@@ -1,0 +1,18 @@
+MutagenObjectType: ArmorModification
+FormKey: 24529A:Starfield.esm
+EditorID: mod_Armor_Backpack_Slot01_ExtraCapacity
+FormVersion: 558
+Name:
+  TargetLanguage: English
+  Value: Extra Capacity
+Description:
+  TargetLanguage: English
+  Value: Increased carrying capacity.
+Model:
+  FLLD: 0x01000000
+AttachPoint: 088C9C:Starfield.esm
+Includes:
+- Mod: 245299:Starfield.esm
+  DoNotUseAll: True
+TargetOmodKeywords:
+- 3E612E:Starfield.esm

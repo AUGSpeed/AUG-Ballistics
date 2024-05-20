@@ -1,0 +1,15 @@
+FormKey: 00081F:AUG-Gameplay.esm
+EditorID: co_mod_Armor_Helmet_Quality_03
+FormVersion: 558
+Description:
+  TargetLanguage: English
+  Value: Materials have been refined to increase resistances further.
+WorkbenchKeyword: 0657FF:Starfield.esm
+ConstructableComponents:
+- Component: 0057CB:Starfield.esm
+  Count: 1
+- Component: 0777F8:Starfield.esm
+  Count: 1
+CreatedObject: 11E2B7:Starfield.esm
+LearnMethod: DefaultOrConditions
+RECF: 2

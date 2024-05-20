@@ -1,0 +1,15 @@
+FormKey: 000820:AUG-Gameplay.esm
+EditorID: co_mod_Armor_Helmet_Quality_04
+FormVersion: 558
+Description:
+  TargetLanguage: English
+  Value: Advanced technology has been used to dramatically improve this helmet.
+WorkbenchKeyword: 0657FF:Starfield.esm
+ConstructableComponents:
+- Component: 0057CB:Starfield.esm
+  Count: 1
+- Component: 0777F8:Starfield.esm
+  Count: 1
+CreatedObject: 11E2B8:Starfield.esm
+LearnMethod: DefaultOrConditions
+RECF: 2

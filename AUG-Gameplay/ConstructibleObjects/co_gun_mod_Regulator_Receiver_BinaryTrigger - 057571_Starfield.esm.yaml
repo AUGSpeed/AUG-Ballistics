@@ -1,0 +1,21 @@
+FormKey: 057571:Starfield.esm
+EditorID: co_gun_mod_Regulator_Receiver_BinaryTrigger
+Description:
+  TargetLanguage: English
+  Value: A binary trigger allows for the weapon to fire on pull and release of the trigger for a faster fire rate.
+WorkbenchKeyword: 2CE1C0:Starfield.esm
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Unknown1: 0x000000
+  Unknown2: 17620
+  Data:
+    MutagenObjectType: HasPerkConditionData
+    Unknown3: 1
+    FirstParameter: 2CFCAB:Starfield.esm
+  ComparisonValue: 1
+CreatedObject: 12A0B6:Starfield.esm
+AmountProduced: 1
+LearnMethod: DefaultOrConditions
+Categories:
+- 2D01FF:Starfield.esm
+RECF: 0

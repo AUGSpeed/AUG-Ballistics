@@ -1,14 +1,14 @@
 SpriggitSource:
   PackageName: Spriggit.Yaml.Starfield
-  Version: 0.17.0
+  Version: 0.19.0
 ModKey: AUG-Gameplay.esm
 GameRelease: Starfield
 ModHeader:
   Flags:
   - Master
   Stats:
-    NumRecords: 417
-    NextFormID: 2071
+    NumRecords: 476
+    NextFormID: 2087
   Author: ''
   MasterReferences:
   - Master: Starfield.esm

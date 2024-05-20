@@ -1,0 +1,15 @@
+FormKey: 000821:AUG-Gameplay.esm
+EditorID: co_mod_Armor_Helmet_Quality_05
+FormVersion: 558
+Description:
+  TargetLanguage: English
+  Value: Crafted by a true master, this helmet has top-of-the-line materials and build quality.
+WorkbenchKeyword: 0657FF:Starfield.esm
+ConstructableComponents:
+- Component: 0057CB:Starfield.esm
+  Count: 1
+- Component: 0777F8:Starfield.esm
+  Count: 1
+CreatedObject: 03AF80:Starfield.esm
+LearnMethod: DefaultOrConditions
+RECF: 2

@@ -1,0 +1,27 @@
+FormKey: 24529B:Starfield.esm
+EditorID: co_mod_Backpack_Slot01_ExtraCapacity
+FormVersion: 558
+Description:
+  TargetLanguage: English
+  Value: Increases carrying capacity by 10 kilograms.
+WorkbenchKeyword: 0657FF:Starfield.esm
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Unknown1: 0x000000
+  Unknown2: 17630
+  Data:
+    MutagenObjectType: IsResearchCompleteConditionData
+    FirstParameter: 0C11A6:Starfield.esm
+  ComparisonValue: 1
+ConstructableComponents:
+- Component: 0057D6:Starfield.esm
+  Count: 3
+- Component: 077826:Starfield.esm
+  Count: 3
+- Component: 07782D:Starfield.esm
+  Count: 2
+CreatedObject: 24529A:Starfield.esm
+LearnMethod: DefaultOrConditions
+Categories:
+- 2CA0A8:Starfield.esm
+RECF: 0

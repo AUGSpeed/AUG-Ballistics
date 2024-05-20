@@ -1,0 +1,19 @@
+FormKey: 000822:AUG-Gameplay.esm
+EditorID: co_mod_Backpack_Quality_01
+FormVersion: 558
+Description:
+  TargetLanguage: English
+  Value: Crafted with standard materials, no upgrades.
+WorkbenchKeyword: 0657FF:Starfield.esm
+ConstructableComponents:
+- Component: 0057D6:Starfield.esm
+  Count: 3
+- Component: 077826:Starfield.esm
+  Count: 3
+- Component: 07782D:Starfield.esm
+  Count: 2
+CreatedObject: 1CAE05:Starfield.esm
+LearnMethod: DefaultOrConditions
+Categories:
+- 2CA0A8:Starfield.esm
+RECF: 0

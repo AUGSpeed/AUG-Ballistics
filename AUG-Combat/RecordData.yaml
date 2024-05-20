@@ -1,6 +1,6 @@
 SpriggitSource:
   PackageName: Spriggit.Yaml.Starfield
-  Version: 0.17.0
+  Version: 0.19.0
 ModKey: AUG-Combat.esm
 GameRelease: Starfield
 ModHeader:

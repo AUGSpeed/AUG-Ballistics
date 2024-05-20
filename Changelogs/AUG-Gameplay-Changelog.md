@@ -9,4 +9,5 @@
 - Weapons without a Tier 4/Advanced level now do. (Eon and Rattler)
 - Weapons that can currently be edited by xEdit can have their Quality tier upgraded in the weapon modification bench.
 - Quality Upgrade Research Projects have been added, and must be completed to upgrade the quality of weapons.
+- Armor can now have its quality modded in the armor modification bench.
 

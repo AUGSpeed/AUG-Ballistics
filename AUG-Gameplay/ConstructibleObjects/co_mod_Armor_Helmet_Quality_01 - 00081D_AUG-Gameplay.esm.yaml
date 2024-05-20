@@ -1,0 +1,15 @@
+FormKey: 00081D:AUG-Gameplay.esm
+EditorID: co_mod_Armor_Helmet_Quality_01
+FormVersion: 558
+Description:
+  TargetLanguage: English
+  Value: Crafted with standard materials, no upgrades.
+WorkbenchKeyword: 0657FF:Starfield.esm
+ConstructableComponents:
+- Component: 0057CB:Starfield.esm
+  Count: 1
+- Component: 0777F8:Starfield.esm
+  Count: 1
+CreatedObject: 11E2B5:Starfield.esm
+LearnMethod: DefaultOrConditions
+RECF: 2

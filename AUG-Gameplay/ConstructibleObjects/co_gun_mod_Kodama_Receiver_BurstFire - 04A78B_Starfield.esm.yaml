@@ -1,0 +1,21 @@
+FormKey: 04A78B:Starfield.esm
+EditorID: co_gun_mod_Kodama_Receiver_BurstFire
+Description:
+  TargetLanguage: English
+  Value: 'Receiver that fires 3 rounds per trigger pull. '
+WorkbenchKeyword: 2CE1C0:Starfield.esm
+Conditions:
+- MutagenObjectType: ConditionFloat
+  Unknown1: 0x000000
+  Unknown2: 17620
+  Data:
+    MutagenObjectType: HasPerkConditionData
+    Unknown3: 1
+    FirstParameter: 2CFCAB:Starfield.esm
+  ComparisonValue: 1
+CreatedObject: 12B47F:Starfield.esm
+AmountProduced: 1
+LearnMethod: DefaultOrConditions
+Categories:
+- 2D01FF:Starfield.esm
+RECF: 0

@@ -1,0 +1,100 @@
+FormKey: 010B39:Starfield.esm
+EditorID: LCharCrimsonFleet
+ODTY: 0
+Flags:
+- CalculateFromAllLevelsLessThanOrEqualPlayer
+- CalculateForEachItemInCount
+- 0x40
+Entries:
+- Level: 1
+  Reference: 009CED:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 009CED:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 009CED:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 009CED:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 009CEE:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 009CEE:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 009CEE:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 009CEF:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 009CEF:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 009CEF:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 010B2E:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 010B2E:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 010B2E:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 010B2E:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 010B2E:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 010B38:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 010B38:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 010B38:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 010B38:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 12D02E:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 12D02F:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 12D030:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 12D031:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 12D031:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 12D032:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 12D032:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 12D033:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 12D033:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 12D034:Starfield.esm
+  Count: 1
+- Level: 1
+  Reference: 12D034:Starfield.esm
+  Count: 1
+Model:
+  FLLD: 0x01000000

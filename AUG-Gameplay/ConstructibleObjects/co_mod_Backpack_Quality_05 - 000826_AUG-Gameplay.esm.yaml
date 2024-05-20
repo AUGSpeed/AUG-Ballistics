@@ -1,0 +1,19 @@
+FormKey: 000826:AUG-Gameplay.esm
+EditorID: co_mod_Backpack_Quality_05
+FormVersion: 558
+Description:
+  TargetLanguage: English
+  Value: Crafted by a true master, this piece has top-of-the-line materials and build quality.
+WorkbenchKeyword: 0657FF:Starfield.esm
+ConstructableComponents:
+- Component: 0057D6:Starfield.esm
+  Count: 3
+- Component: 077826:Starfield.esm
+  Count: 3
+- Component: 07782D:Starfield.esm
+  Count: 2
+CreatedObject: 03AF7F:Starfield.esm
+LearnMethod: DefaultOrConditions
+Categories:
+- 2CA0A8:Starfield.esm
+RECF: 0
